@@ -2,6 +2,10 @@
 <html lang="en" dir="ltr">
 <head>
   <script data-ionic="inject">
+  	if(location.protocol != 'https:')
+	{
+		location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
+	}
     (function(w){var i=w.Ionic=w.Ionic||{};i.version='3.3.0';i.angular='^4.3.4';i.staticDir='build/';})(window);
   </script>
   <meta charset="UTF-8">

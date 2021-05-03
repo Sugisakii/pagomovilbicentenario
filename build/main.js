@@ -1,1 +1,4752 @@
-webpackJsonp([0], { 197: function (l, n) { function e(l) { return Promise.resolve().then(function () { throw new Error("Cannot find module '" + l + "'.") }) } e.keys = function () { return [] }, e.resolve = e, l.exports = e, e.id = 197 }, 223: function (l, n) { function e(l) { return Promise.resolve().then(function () { throw new Error("Cannot find module '" + l + "'.") }) } e.keys = function () { return [] }, e.resolve = e, l.exports = e, e.id = 223 }, 411: function (l, n, e) { "use strict"; function u(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 3, "ion-nav", [], null, null, null, mn.b, mn.a)), gl["ɵprd"](6144, null, gn.a, null, [fn.a]), gl["ɵdid"](2, 4374528, null, 0, fn.a, [[2, hn.a], [2, vn.a], bn.a, Cn.a, yn.a, Rn.a, gl.ElementRef, gl.NgZone, gl.Renderer, gl.ComponentFactoryResolver, En.l, Pn.a, [2, wn.a], In.a, gl.ErrorHandler], { root: [0, "root"] }, null), (l()(), gl["ɵted"](-1, null, ["\n   \n"])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { l(n, 2, 0, n.component.rootPage) }, null) } function t(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵeld"](3, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n\t\t"])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n\t\t\tBienvenido\n\t\t"])), (l()(), gl["ɵted"](-1, 3, ["\n\t"])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](12, 0, null, null, 67, "ion-content", [["class", "background"]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](13, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n\t"])), (l()(), gl["ɵeld"](15, 0, null, 1, 3, "div", [["class", "container"]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n\t\t"])), (l()(), gl["ɵeld"](17, 0, null, null, 0, "img", [["alt", ""], ["src", "assets/images/logo_bicentenario.png"]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵted"](-1, 1, ["\n\n\t"])), (l()(), gl["ɵeld"](20, 0, null, 1, 58, "ion-card", [], null, null, null, null, null)), gl["ɵdid"](21, 16384, null, 0, qn.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t\t"])), (l()(), gl["ɵeld"](23, 0, null, null, 54, "ion-card-content", [], null, null, null, null, null)), gl["ɵdid"](24, 16384, null, 0, On.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t\t\t"])), (l()(), gl["ɵeld"](26, 0, null, null, 50, "ion-list", [["no-line", ""]], null, null, null, null, null)), gl["ɵdid"](27, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t\t\t\t"])), (l()(), gl["ɵeld"](29, 0, null, null, 19, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](30, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 1, { contentLabel: 0 }), gl["ɵqud"](603979776, 2, { _buttons: 1 }), gl["ɵqud"](603979776, 3, { _icons: 1 }), gl["ɵdid"](34, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n\t\t\t\t\t"])), (l()(), gl["ɵeld"](36, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](37, 16384, [[1, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Usuario"])), (l()(), gl["ɵted"](-1, 2, ["\n\t\t\t\t\t"])), (l()(), gl["ɵeld"](40, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["type", "text"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 41).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.formLoginData.username = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](41, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](42, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](44, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](46, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](47, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n\t\t\t\t"])), (l()(), gl["ɵted"](-1, null, ["\n\t\t\t\t"])), (l()(), gl["ɵeld"](50, 0, null, null, 19, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](51, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 4, { contentLabel: 0 }), gl["ɵqud"](603979776, 5, { _buttons: 1 }), gl["ɵqud"](603979776, 6, { _icons: 1 }), gl["ɵdid"](55, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n\t\t\t\t\t"])), (l()(), gl["ɵeld"](57, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](58, 16384, [[4, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Contraseña"])), (l()(), gl["ɵted"](-1, 2, ["\n\t\t\t\t\t"])), (l()(), gl["ɵeld"](61, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["type", "password"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 62).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.formLoginData.password = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](62, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](63, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](65, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](67, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](68, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n\t\t\t\t"])), (l()(), gl["ɵted"](-1, null, ["\n\t\t\t\t"])), (l()(), gl["ɵeld"](71, 0, null, null, 4, "button", [["block", ""], ["color", "secondary"], ["ion-button", ""]], [[8, "disabled", 0]], [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.validate() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](72, 278528, null, 0, El.i, [gl.IterableDiffers, gl.KeyValueDiffers, gl.ElementRef, gl.Renderer], { ngClass: [0, "ngClass"] }, null), gl["ɵpod"](73, { class: 0, class2: 1 }), gl["ɵdid"](74, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Ingresar"])), (l()(), gl["ɵted"](-1, null, ["\n\t\t\t"])), (l()(), gl["ɵted"](-1, null, ["\n\n\t\t\t\n\t\t"])), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵted"](-1, 1, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](81, 0, null, null, 32, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](82, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵeld"](84, 0, null, null, 15, "div", [["style", "margin:1ex"], ["text-center", ""]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n\t\t"])), (l()(), gl["ɵeld"](86, 0, null, null, 2, "button", [["block", ""], ["color", "primary"], ["ion-button", ""]], [[8, "disabled", 0]], [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.getViewAffiliation() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](87, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["AFILIARSE"])), (l()(), gl["ɵted"](-1, null, ["\n\t\t"])), (l()(), gl["ɵeld"](90, 0, null, null, 8, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n\t\t\t"])), (l()(), gl["ɵeld"](92, 0, null, null, 1, "a", [["href", "#"]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.goToResetPassword() && u } return u }, null, null)), (l()(), gl["ɵted"](-1, null, [" ¿ OLVIDASTE TU CONTRASEÑA ? "])), (l()(), gl["ɵeld"](94, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n\t\t\t"])), (l()(), gl["ɵeld"](96, 0, null, null, 1, "a", [["href", "#"]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.goToChangeQA() && u } return u }, null, null)), (l()(), gl["ɵted"](-1, null, [" CAMBIAR PREGUNTA SECRETA "])), (l()(), gl["ɵted"](-1, null, ["\n\t\t"])), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵted"](-1, null, ["\n\n\t"])), (l()(), gl["ɵeld"](101, 0, null, null, 11, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](102, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n\t\t"])), (l()(), gl["ɵeld"](104, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](106, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](107, 0, null, 3, 4, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](108, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵeld"](110, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["v1.3.2"])), (l()(), gl["ɵted"](-1, 3, ["\n\t"])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { var e = n.component; l(n, 4, 0, "primary"); l(n, 41, 0, 0); l(n, 42, 0, "16"); l(n, 44, 0, e.formLoginData.username); l(n, 47, 0, "text"); l(n, 62, 0, 0); l(n, 63, 0, "16"); l(n, 65, 0, e.formLoginData.password); l(n, 68, 0, "password"); l(n, 72, 0, l(n, 73, 0, e.isenabled, !e.isenabled)); l(n, 74, 0, "secondary", ""); l(n, 87, 0, "primary", "") }, function (l, n) { var e = n.component; l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 12, 0, gl["ɵnov"](n, 13).statusbarPadding); l(n, 40, 0, gl["ɵnov"](n, 42).maxlength ? gl["ɵnov"](n, 42).maxlength : null, gl["ɵnov"](n, 46).ngClassUntouched, gl["ɵnov"](n, 46).ngClassTouched, gl["ɵnov"](n, 46).ngClassPristine, gl["ɵnov"](n, 46).ngClassDirty, gl["ɵnov"](n, 46).ngClassValid, gl["ɵnov"](n, 46).ngClassInvalid, gl["ɵnov"](n, 46).ngClassPending); l(n, 61, 0, gl["ɵnov"](n, 63).maxlength ? gl["ɵnov"](n, 63).maxlength : null, gl["ɵnov"](n, 67).ngClassUntouched, gl["ɵnov"](n, 67).ngClassTouched, gl["ɵnov"](n, 67).ngClassPristine, gl["ɵnov"](n, 67).ngClassDirty, gl["ɵnov"](n, 67).ngClassValid, gl["ɵnov"](n, 67).ngClassInvalid, gl["ɵnov"](n, 67).ngClassPending); l(n, 71, 0, !e.isenabled); l(n, 86, 0, !e.isenabled); l(n, 101, 0, gl["ɵnov"](n, 102)._sbPadding) }) } function a(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "ion-option", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, [[10, 4]], 0, ne.a, [gl.ElementRef], { value: [0, "value"] }, null), (l()(), gl["ɵted"](2, null, ["", ""]))], function (l, n) { l(n, 1, 0, gl["ɵinlineInterpolate"](1, "", n.context.$implicit.id, "")) }, function (l, n) { l(n, 2, 0, n.context.$implicit.id) }) } function o(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](3, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"], ["hideBackButton", "true"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], hideBackButton: [1, "hideBackButton"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n      Afiliación\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n  \n  \n  "])), (l()(), gl["ɵeld"](12, 0, null, null, 235, "ion-content", [["padding", ""]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](13, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n    "])), (l()(), gl["ɵeld"](15, 0, null, 1, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](16, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["Datos de Afiliación"])), (l()(), gl["ɵted"](-1, 1, ["\n\n      "])), (l()(), gl["ɵeld"](19, 0, null, 1, 207, "ion-list", [], null, null, null, null, null)), gl["ɵdid"](20, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](22, 0, null, null, 16, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](23, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 1, { contentLabel: 0 }), gl["ɵqud"](603979776, 2, { _buttons: 1 }), gl["ɵqud"](603979776, 3, { _icons: 1 }), gl["ɵdid"](27, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](29, 0, null, 1, 2, "ion-label", [["color", "primary"], ["floating", ""]], null, null, null, null, null)), gl["ɵdid"](30, 16384, [[1, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, null, ["Nombre"])), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](33, 0, null, 3, 4, "ion-input", [["disabled", "true"], ["type", "text"]], [[2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"]], function (l, n, e) { var u = !0; if ("ngModelChange" === n) { u = !1 !== (l.component.clientInfo.name = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](34, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [8, null]], { isDisabled: [0, "isDisabled"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](36, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](37, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"], disabled: [1, "disabled"] }, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](40, 0, null, null, 16, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](41, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 4, { contentLabel: 0 }), gl["ɵqud"](603979776, 5, { _buttons: 1 }), gl["ɵqud"](603979776, 6, { _icons: 1 }), gl["ɵdid"](45, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](47, 0, null, 1, 2, "ion-label", [["color", "primary"], ["floating", ""]], null, null, null, null, null)), gl["ɵdid"](48, 16384, [[4, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, null, ["Correo"])), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](51, 0, null, 3, 4, "ion-input", [["disabled", "true"], ["type", "text"]], [[2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"]], function (l, n, e) { var u = !0; if ("ngModelChange" === n) { u = !1 !== (l.component.clientInfo.email = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](52, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [8, null]], { isDisabled: [0, "isDisabled"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](54, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](55, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"], disabled: [1, "disabled"] }, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](58, 0, null, null, 26, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](59, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 7, { contentLabel: 0 }), gl["ɵqud"](603979776, 8, { _buttons: 1 }), gl["ɵqud"](603979776, 9, { _icons: 1 }), gl["ɵdid"](63, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](65, 0, null, 1, 2, "ion-label", [["color", "primary"], ["floating", ""]], null, null, null, null, null)), gl["ɵdid"](66, 16384, [[7, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, null, ["Cuenta"])), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](69, 0, null, 3, 14, "ion-select", [["interface", "popover"]], [[2, "select-disabled", null], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "click"], [null, "keyup.space"]], function (l, n, e) { var u = !0, t = l.component; if ("click" === n) { u = !1 !== gl["ɵnov"](l, 70)._click(e) && u } if ("keyup.space" === n) { u = !1 !== gl["ɵnov"](l, 70)._keyup() && u } if ("ngModelChange" === n) { u = !1 !== (t.clientInfo.account = e) && u } return u }, ee.b, ee.a)), gl["ɵdid"](70, 1228800, null, 1, ue.a, [bn.a, Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Vn.a], wn.a], { interface: [0, "interface"] }, null), gl["ɵqud"](603979776, 10, { options: 1 }), gl["ɵprd"](1024, null, Ll.k, function (l) { return [l] }, [ue.a]), gl["ɵdid"](73, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [2, Ll.k]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](75, 16384, null, 0, Ll.m, [Ll.l], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](77, 0, null, null, 2, "ion-option", [["disabled", "true"], ["value", ""]], null, null, null, null, null)), gl["ɵdid"](78, 16384, [[10, 4]], 0, ne.a, [gl.ElementRef], { disabled: [0, "disabled"], value: [1, "value"] }, null), (l()(), gl["ɵted"](-1, null, ["Número de Cuenta"])), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, a)), gl["ɵdid"](82, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](86, 0, null, null, 23, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](87, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 11, { contentLabel: 0 }), gl["ɵqud"](603979776, 12, { _buttons: 1 }), gl["ɵqud"](603979776, 13, { _icons: 1 }), gl["ɵdid"](91, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](93, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](94, 16384, [[11, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Usuario"])), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](97, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["type", "text"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 98).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.clientInfo.userName = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](98, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](99, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](101, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](103, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](104, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](106, 0, null, 4, 2, "button", [["ion-button", ""], ["item-right", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.showUserNameHelp() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](107, 1097728, [[12, 4]], 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["  ?  "])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](111, 0, null, null, 23, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](112, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 14, { contentLabel: 0 }), gl["ɵqud"](603979776, 15, { _buttons: 1 }), gl["ɵqud"](603979776, 16, { _icons: 1 }), gl["ɵdid"](116, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](118, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](119, 16384, [[14, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Clave"])), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](122, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["type", "password"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 123).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.clientInfo.psw = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](123, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](124, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](126, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](128, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](129, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](131, 0, null, 4, 2, "button", [["ion-button", ""], ["item-right", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.showPasswordHelp() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](132, 1097728, [[15, 4]], 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["  ?  "])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](136, 0, null, null, 19, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](137, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 17, { contentLabel: 0 }), gl["ɵqud"](603979776, 18, { _buttons: 1 }), gl["ɵqud"](603979776, 19, { _icons: 1 }), gl["ɵdid"](141, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](143, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](144, 16384, [[17, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Confirmación de Clave"])), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](147, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["type", "password"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 148).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.clientInfo.pswConfirm = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](148, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](149, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](151, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](153, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](154, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](157, 0, null, null, 23, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](158, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 20, { contentLabel: 0 }), gl["ɵqud"](603979776, 21, { _buttons: 1 }), gl["ɵqud"](603979776, 22, { _icons: 1 }), gl["ɵdid"](162, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](164, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](165, 16384, [[20, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Pregunta Secreta"])), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](168, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["type", "text"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 169).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.clientInfo.questionSec = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](169, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](170, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](172, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](174, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](175, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](177, 0, null, 4, 2, "button", [["ion-button", ""], ["item-right", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.showSecurityHelp() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](178, 1097728, [[21, 4]], 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["  ?  "])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](182, 0, null, null, 23, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](183, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 23, { contentLabel: 0 }), gl["ɵqud"](603979776, 24, { _buttons: 1 }), gl["ɵqud"](603979776, 25, { _icons: 1 }), gl["ɵdid"](187, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](189, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](190, 16384, [[23, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Respuesta Secreta"])), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](193, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["type", "text"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 194).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.clientInfo.questionAns = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](194, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](195, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](197, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](199, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](200, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵeld"](202, 0, null, 4, 2, "button", [["ion-button", ""], ["item-right", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.showSecurityHelp() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](203, 1097728, [[24, 4]], 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["  ?  "])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](207, 0, null, null, 18, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](208, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 26, { contentLabel: 0 }), gl["ɵqud"](603979776, 27, { _buttons: 1 }), gl["ɵqud"](603979776, 28, { _icons: 1 }), gl["ɵdid"](212, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n            "])), (l()(), gl["ɵeld"](214, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](215, 16384, [[26, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Clave Tu Pago Móvil (SMS)"])), (l()(), gl["ɵted"](-1, 2, ["\n            "])), (l()(), gl["ɵeld"](218, 0, null, 3, 6, "ion-input", [["maxlength", "4"], ["style", "-webkit-text-security:disc"], ["type", "tel"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"]], function (l, n, e) { var u = !0; if ("ngModelChange" === n) { u = !1 !== (l.component.clientInfo.securityKey = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](219, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](221, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](223, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](224, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, null), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, 1, ["\n\n      "])), (l()(), gl["ɵeld"](228, 0, null, 1, 18, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](229, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](231, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](232, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](234, 0, null, null, 2, "button", [["block", ""], ["color", "secondary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.sendAffiliation() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](235, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Afiliar"])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](239, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](240, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](242, 0, null, null, 2, "button", [["block", ""], ["color", "primary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.cancelAffiliation() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](243, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Cancelar"])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n  \n  "])), (l()(), gl["ɵeld"](249, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](250, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](252, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](253, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n      "])), (l()(), gl["ɵeld"](255, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](257, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](258, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](259, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "]))], function (l, n) { var e = n.component; l(n, 4, 0, "primary", "true"); l(n, 30, 0, "primary"); l(n, 34, 0, "true", e.clientInfo.name); l(n, 37, 0, "text", "true"); l(n, 48, 0, "primary"); l(n, 52, 0, "true", e.clientInfo.email); l(n, 55, 0, "text", "true"); l(n, 66, 0, "primary"); l(n, 70, 0, "popover"); l(n, 73, 0, e.clientInfo.account); l(n, 78, 0, "true", ""); l(n, 82, 0, e.accounts); l(n, 98, 0, 3); l(n, 99, 0, "16"); l(n, 101, 0, e.clientInfo.userName); l(n, 104, 0, "text"); l(n, 123, 0, 0); l(n, 124, 0, "16"); l(n, 126, 0, e.clientInfo.psw); l(n, 129, 0, "password"); l(n, 148, 0, 0); l(n, 149, 0, "16"); l(n, 151, 0, e.clientInfo.pswConfirm); l(n, 154, 0, "password"); l(n, 169, 0, 0); l(n, 170, 0, "16"); l(n, 172, 0, e.clientInfo.questionSec); l(n, 175, 0, "text"); l(n, 194, 0, 4); l(n, 195, 0, "16"); l(n, 197, 0, e.clientInfo.questionAns); l(n, 200, 0, "text"); l(n, 219, 0, "4"); l(n, 221, 0, e.clientInfo.securityKey); l(n, 224, 0, "tel"); l(n, 235, 0, "secondary", ""); l(n, 243, 0, "primary", "") }, function (l, n) { l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 12, 0, gl["ɵnov"](n, 13).statusbarPadding); l(n, 33, 0, gl["ɵnov"](n, 36).ngClassUntouched, gl["ɵnov"](n, 36).ngClassTouched, gl["ɵnov"](n, 36).ngClassPristine, gl["ɵnov"](n, 36).ngClassDirty, gl["ɵnov"](n, 36).ngClassValid, gl["ɵnov"](n, 36).ngClassInvalid, gl["ɵnov"](n, 36).ngClassPending); l(n, 51, 0, gl["ɵnov"](n, 54).ngClassUntouched, gl["ɵnov"](n, 54).ngClassTouched, gl["ɵnov"](n, 54).ngClassPristine, gl["ɵnov"](n, 54).ngClassDirty, gl["ɵnov"](n, 54).ngClassValid, gl["ɵnov"](n, 54).ngClassInvalid, gl["ɵnov"](n, 54).ngClassPending); l(n, 69, 0, gl["ɵnov"](n, 70)._disabled, gl["ɵnov"](n, 75).ngClassUntouched, gl["ɵnov"](n, 75).ngClassTouched, gl["ɵnov"](n, 75).ngClassPristine, gl["ɵnov"](n, 75).ngClassDirty, gl["ɵnov"](n, 75).ngClassValid, gl["ɵnov"](n, 75).ngClassInvalid, gl["ɵnov"](n, 75).ngClassPending); l(n, 97, 0, gl["ɵnov"](n, 99).maxlength ? gl["ɵnov"](n, 99).maxlength : null, gl["ɵnov"](n, 103).ngClassUntouched, gl["ɵnov"](n, 103).ngClassTouched, gl["ɵnov"](n, 103).ngClassPristine, gl["ɵnov"](n, 103).ngClassDirty, gl["ɵnov"](n, 103).ngClassValid, gl["ɵnov"](n, 103).ngClassInvalid, gl["ɵnov"](n, 103).ngClassPending); l(n, 122, 0, gl["ɵnov"](n, 124).maxlength ? gl["ɵnov"](n, 124).maxlength : null, gl["ɵnov"](n, 128).ngClassUntouched, gl["ɵnov"](n, 128).ngClassTouched, gl["ɵnov"](n, 128).ngClassPristine, gl["ɵnov"](n, 128).ngClassDirty, gl["ɵnov"](n, 128).ngClassValid, gl["ɵnov"](n, 128).ngClassInvalid, gl["ɵnov"](n, 128).ngClassPending); l(n, 147, 0, gl["ɵnov"](n, 149).maxlength ? gl["ɵnov"](n, 149).maxlength : null, gl["ɵnov"](n, 153).ngClassUntouched, gl["ɵnov"](n, 153).ngClassTouched, gl["ɵnov"](n, 153).ngClassPristine, gl["ɵnov"](n, 153).ngClassDirty, gl["ɵnov"](n, 153).ngClassValid, gl["ɵnov"](n, 153).ngClassInvalid, gl["ɵnov"](n, 153).ngClassPending); l(n, 168, 0, gl["ɵnov"](n, 170).maxlength ? gl["ɵnov"](n, 170).maxlength : null, gl["ɵnov"](n, 174).ngClassUntouched, gl["ɵnov"](n, 174).ngClassTouched, gl["ɵnov"](n, 174).ngClassPristine, gl["ɵnov"](n, 174).ngClassDirty, gl["ɵnov"](n, 174).ngClassValid, gl["ɵnov"](n, 174).ngClassInvalid, gl["ɵnov"](n, 174).ngClassPending); l(n, 193, 0, gl["ɵnov"](n, 195).maxlength ? gl["ɵnov"](n, 195).maxlength : null, gl["ɵnov"](n, 199).ngClassUntouched, gl["ɵnov"](n, 199).ngClassTouched, gl["ɵnov"](n, 199).ngClassPristine, gl["ɵnov"](n, 199).ngClassDirty, gl["ɵnov"](n, 199).ngClassValid, gl["ɵnov"](n, 199).ngClassInvalid, gl["ɵnov"](n, 199).ngClassPending); l(n, 218, 0, gl["ɵnov"](n, 219).maxlength ? gl["ɵnov"](n, 219).maxlength : null, gl["ɵnov"](n, 223).ngClassUntouched, gl["ɵnov"](n, 223).ngClassTouched, gl["ɵnov"](n, 223).ngClassPristine, gl["ɵnov"](n, 223).ngClassDirty, gl["ɵnov"](n, 223).ngClassValid, gl["ɵnov"](n, 223).ngClassInvalid, gl["ɵnov"](n, 223).ngClassPending); l(n, 252, 0, gl["ɵnov"](n, 253)._sbPadding) }) } function i(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](3, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"], ["hideBackButton", "true"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], hideBackButton: [1, "hideBackButton"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n      Términos de Afiliación\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](12, 0, null, null, 106, "ion-content", [["padding", ""]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](13, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵeld"](15, 0, null, 1, 1, "p", [["style", "font-weight:bold"], ["text-center", ""]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["TÉRMINOS Y CONDICIONES DEL SERVICIO TU PAGO MÓVIL"])), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵeld"](18, 0, null, 1, 76, "p", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      Los términos y condiciones que se detallan a continuación, expresan de forma directa las condiciones de uso del servicio TU PAGO MÓVIL, por lo cual es necesario que antes de continuar con el proceso de instalación de la aplicación, lo lea con detenimiento para conocer los derechos y obligaciones que posee.\n      "])), (l()(), gl["ɵeld"](20, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](22, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["1)\tDEFINICIONES:"])), (l()(), gl["ɵted"](-1, null, [" A los efectos de interpretar el presente contrato se ha establecido las siguientes definiciones, las cuales tendrán el significado que se indica en la presente cláusula, pudiendo ser utilizados tanto en plural como en singular, masculino, femenino o cualquier forma verbal según el contexto en que se presente:  A) EL BANCO: Es BANCO BICENTENARIO DEL PUEBLO, DE LA CLASE OBRERA, MUJER Y COMUNAS, BANCO UNIVERSAL, C.A., sociedad mercantil adscrita al MINISTERIO DEL PODER POPULAR DE ECONOMÍA Y FINANZAS conforme al Decreto N° 2.651 de fecha 4 de enero de 2017, publicado en la Gaceta Oficial de la República Bolivariana de Venezuela N° 41.067 de esa misma fecha, domiciliada en Caracas; B) EL CLIENTE: Es toda persona natural o firma personal titular de cuenta(s) colocación(es) crédito(s) línea(s) de crédito, así como de cualquier otro producto financiero que EL BANCO ofrezca actualmente o en el futuro. Este término, comprende a los cuentahabientes, prestatarios, usuarios, personas autorizadas de conformidad con lo dispuesto en la oferta pública de servicios bancarios; AFILIACIÓN: Incorporación de productos y servicios a la Banca TU PAGO MÓVIL BICENTENARIO, por parte de LOS CLIENTES, para efecto de realizar operaciones o transacciones. C) DESAFILIACIÓN: Proceso mediante el cual  EL CLIENTE solicita a  EL BANCO sea desincorporado del servicio ofrecido a través de Banca TU PAGO MÓVIL BICENTENARIO;  D) AUTENTICACIÓN: Conjunto de técnicas y procedimientos tecnológicos utilizados para verificar la identidad de EL CLIENTE; E) BANCA MÓVIL: Canal electrónico ofrecido por EL BANCO a LOS CLIENTES para facilitar el acceso a través de mensajes de texto basados para las transferencias interbancarias; F) AFILIACIÓN AL SERVICIO BANCA TU PAGO MÓVIL BICENTENARIO: Formulario impreso o suministrado a través de la Banca en línea creado por EL BANCO, a través del cual EL CLIENTE suministra los datos e información requeridos, para poder obtener y hacer uso de los servicios ofrecidos por EL BANCO, a través de la Banca TU PAGO MÓVIL BICENTENARIO; G) TU PAGO MÓVIL BICENTENARIO: Servicios ofrecidos por EL BANCO, el cual provee a personas naturales y/o firmas personas, a través de una red de servicio interbancarios con la funcionalidad de realizar pagos rápidos y en líneas, de montos con límites establecidos. Igualmente EL CLIENTE deberá contar con un equipo móvil el cual tenga capacidad para procesar Mensajería de Texto (SMS) a los fines de tramitar transacciones y notificaciones vía SMS, según las especificaciones emitidas por la Asociación Bancaria de Venezuela y de acuerdo a la normativa emitida por la Superintendencia de las Instituciones del Sector Bancario (SUDEBAN); H) PAGO MÓVIL P2P: Es el servicio ofrecido por EL BANCO con la finalidad que LOS CLIENTES realicen pagos a través de una red de servicio interbancario, utilizando únicamente el número móvil asociado al cliente como medio autorizado para movilizar los fondos; I) SMS: Es el servicio de notificación de operaciones vía mensajes de texto que EL BANCO pone a disposición de sus CLIENTES; J) OPERADORES DE TELEFONÍA MÓVIL: Empresas de Telefonía Móvil Celular Operativas en Venezuela, entre las cuales se encuentra Digitel, Movistar, Movilnet; K) CONTENIDO DEL MENSAJE DE TEXTO: Es la información contentiva del mensaje de texto, la cual será suministrada por EL BANCO a EL CLIENTE.; M) APLICACIONES MÓVILES: Es una aplicación informática diseñada para ser ejecutada en teléfonos inteligentes, tabletas y otros dispositivos móviles y que permite al usuario efectuar una operaciones bancarias,  facilitando las gestiones  o actividades de  pagos interbancarios el cual se descargara a través de Play Store para teléfonos de sistema Android y Apple store para los teléfonos de sistema Apple o cualquier otro sistema operativo en el cual la entidad financiera adapta la aplicación del servicio TU PAGO MÓVIL BICENTENARIO . \n      "])), (l()(), gl["ɵeld"](25, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](27, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["2)\tOBJETO:"])), (l()(), gl["ɵted"](-1, null, [" El Servicio TU PAGO MÓVIL BICENTENARIO, tiene como finalidad enviar y/o recibir pagos móviles interbancarios de persona a persona pudiendo esta persona estar representada en una firma personal (dinero electrónico) a través de una aplicación móvil o mensajería de texto, en el cual los CLIENTES deberán previamente afiliarse al servicio, mediante los canales que disponga el banco para dicha afiliación. El proceso de afiliación debe garantizar el cumplimiento de la regulación actual de Banca Electrónica. De esta manera, la relación entre EL BANCO y EL CLIENTE empezara a regir y, por ende, se entenderán aceptadas por EL CLIENTE, al suscribir el presente contrato de los servicios de TU PAGO MÓVIL BICENTENARIO, autorizara automáticamente el uso de la cuenta seleccionada por EL CLIENTE para respaldar las operaciones de Banca TU PAGO MÓVIL BICENTENARIO. \n      "])), (l()(), gl["ɵeld"](30, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](32, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["3)\tUSO DEL SERVICIO TU PAGO MOVIL:"])), (l()(), gl["ɵted"](-1, null, [" El producto está orientado a pagos interbancarios rápidos y en líneas con un límite de monto previamente establecido. De igual manera, los emisores y beneficiarios del Servicio de Pago Móvil P2P, serán notificados de la transacción por sus respectivos bancos de acuerdo a la normativa vigente. La utilización del servicios de TU PAGO MÓVIL BICENTENARIO, se considerará efectuado exclusivamente por EL CLIENTE, en consecuencia EL CLIENTE, autoriza expresa e irrevocablemente a EL BANCO a proporcionar los servicios requeridos, en el entendido que en todo caso se presumirá que el servicio ha sido solicitado por este último, sin que en tal sentido nada pueda reclamar a EL BANCO, de esta forma, EL CLIENTE es responsable por la guarda y custodia de su línea telefónica la cual está afiliada al servicio de TU PAGO MÓVIL BICENTENARIO, por lo que en caso de robo, hurto, pérdida del mismo EL BANCO queda exento de responsabilidad sobre las operaciones que se efectúen desde el mismo. De igual forma EL CLIENTE deberá notificar a EL BANCO, a la mayor brevedad posible la perdida de la guarda y custodia de su línea telefónica. EL CLIENTE haciendo uso del servicio de TU PAGO MÓVIL BICENTENARIO, podrá procesar pagos a terceras personas con su saldo disponible de su cuenta, a través del teléfono móvil afiliado y conforme a lo previsto en esta oferta, siempre y cuando EL CLIENTE suministre correctamente el número de móvil, dos últimos dígitos de la cédula de identidad del Beneficiario, banco beneficiario,  monto del pago, concepto del pago, así como cualquier otra información adicional requerida por EL BANCO para cada operación. \n      "])), (l()(), gl["ɵeld"](35, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](37, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["4)\tFORMA DE AFILIACIÓN DEL SERVICIO TU PAGO MOVIL:"])), (l()(), gl["ɵted"](-1, null, [" La Afiliación del servicio Pago Móvil P2P, se realizara a través de un número móvil con su número de identificación (cédula de identidad, pasaporte, RIF), con datos necesarios para enviar y/o recibir pagos móviles persona a persona. El cliente del banco emisor, dispondrá de un medio de pago (cuenta de depósito, billetera electrónica, u otro), el cual estará asociado a su número móvil como identificador en el sistema del servicio TU PAGO MÓVIL BICENTENARIO, de esta manera, únicamente se utilizara el número del móvil para el envío de los pagos. De las operaciones realizadas por EL CLIENTE, EL BANCO llevará un registro computarizado en el cual se expresará el número de la cuenta involucrada en ella, el día, la hora, el tipo de operación, su monto y cualquier otra información adicional que sea procedente. \n      "])), (l()(), gl["ɵeld"](40, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](42, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["5)\tOBLIGACIONES DEL CLIENTE:"])), (l()(), gl["ɵted"](-1, null, [" 1.- Los fondos para procesar las transacciones deberá ser provistos por EL CLIENTE y estar disponibles en la cuenta afiliada al servicio para el momento en que este realice el respectivo débito. EL BANCO no estará obligado a cumplir con las instrucciones impartidas y a realizar las operaciones financieras transmitidas por medio de mensajes de datos, si  EL CLIENTE no cuenta con la provisión de fondos suficientes para realizarlas; 2.- Mantener el móvil y clave en la mejor Custodia y Secreto posible, utilizándola adecuadamente y con la mayor prudencia igualmente posible; y 3.- EL CLIENTE asume toda la responsabilidad que acarrea el uso de este servicio y libera a EL BANCO de toda responsabilidad por errores en el monto de abonos o cargos a su cuenta o a las cuentas de destino, por cuanto toda la información es ingresada y remitida por EL CLIENTE, sin participación de EL BANCO; 4.- Si  EL CLIENTE posee dos o más cuentas bancarias en nuestra entidad financiera deberá elegir solo una cuenta para el goce del servicio Banca TU PAGO MÓVIL BICENTENARIO; 5.- En caso de robo o extravió de la línea telefónica afiliada al servicio TU PAGO MÓVIL BICENTENARIO  EL CLIENTE deberá  notificar al banco a través de Call Center o la red de agencias los medios que determine EL BANCO para su suspensión del servicio del  cual está afiliado. \n      "])), (l()(), gl["ɵeld"](45, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](47, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["6)\tDERECHOS DEL CLIENTE:"])), (l()(), gl["ɵted"](-1, null, [" La relación contractual originada de este contrato quedará sin ningún efecto cuando EL CLIENTE decida cerrar la cuenta o el instrumento que tenga afiliado al servicio TU PAGO MÓVIL BICENTENARIO. \n      "])), (l()(), gl["ɵeld"](50, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](52, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["7)\tDERECHOS DEL BANCO:"])), (l()(), gl["ɵted"](-1, null, [" EL BANCO podrá suspender o revocar, en cualquier momento, la concesión de uso de TU PAGO MÓVIL BICENTENARIO, ofrecido por EL BANCO, notificando previamente a EL CLIENTE de dicha suspensión o revocación, por cualquier medio de notificación permitidos por la Ley. EL BANCO no será responsable ante EL CLIENTE si por alguna causa extraña no imputable a él o por algún hecho fortuito o de fuerza mayor, se viese en la necesidad de suspender temporal o definitivamente el servicio de Banca TU PAGO MÓVIL BICENTENARIO, ofrecidos por EL BANCO. \n      "])), (l()(), gl["ɵeld"](55, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](57, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["8)\tOBLIGACIONES DEL BANCO:"])), (l()(), gl["ɵted"](-1, null, [" 1.- Comprometerse a procesar e instrumentar las transacciones financieras ordenadas por EL CLIENTE por medio de mensajes de datos. Los pagos a cuentas de EL BANCO se harán efectivos en la fecha valor que indique el archivo  de pago; 2.- EL BANCO cargará automáticamente en la cuenta de EL CLIENTE, el monto que corresponda por concepto de impuestos o contribuciones de obligatoria retención, derivados de las operaciones realizadas a través del uso de Banca TU PAGO MÓVIL BICENTENARIO; y 3.- EL BANCO rechazará cualquier transacción que no cumpla con lo establecido en las características del producto. En estos casos EL BANCO le notificará a  EL CLIENTE de inmediato, a través del sistema TU PAGO MÓVIL BICENTENARIO. EL CLIENTE deberá corregir el error presentado para poder validar la información de la transacción; 4.- El BANCO deberá afiliar la cuenta seleccionada por EL CLIENTE para el servicio TU PAGO MÓVIL BICENTENARIO; 5.- EL BANCO deberá suspender el servicio de Banca TU PAGO MÓVIL BICENTENARIO, una vez sea notificado por EL CLIENTE a través del Call Center o la red de agencias los medios que determine el banco para su suspensión. \n      "])), (l()(), gl["ɵeld"](60, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](62, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["9)\tTARIFAS Y/O COMISIONES:"])), (l()(), gl["ɵted"](-1, null, [" Las tarifas y/o comisiones estarán fijadas por EL BANCO o por cualquier autoridad competente que lo determine, pudiendo ser modificadas de la misma manera cada vez que EL BANCO lo considere conveniente y serán del conocimiento EL CLIENTE a través de la información disponible a través de la página de web y en las Agencias de Atención al Público de EL BANCO o por cualquier otro medio electrónico o físico que EL BANCO determinase a tales fines. EL CLIENTE se obliga a pagar a EL BANCO la contraprestación que éste estableciere según lo up supra expresado. EL BANCO queda pleno e irrevocablemente autorizado para debitar o hacer debitar al momento de la ejecución de la operación bancaria, sin previo aviso el monto de dichas tarifas y/o comisiones en la cuenta afiliada por EL CLIENTE en EL BANCO, asimismo EL BANCO tendrá la potestad de no ejecutar la operación de pago si EL CLIENTE no cuenta con el monto para el débito de las tarifas y/o comisiones fijadas  por EL BANCO. \n      "])), (l()(), gl["ɵeld"](65, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](67, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["10)\tMODIFICACIÓN DE LAS CONDICIONES:"])), (l()(), gl["ɵted"](-1, null, [" EL BANCO podrá modificar todo o en parte los términos de esta oferta y deberá notificar a EL CLIENTE de tales modificaciones a través de los diferentes medios que EL BANCO considere idóneos, previa aprobación de la Superintendencia de las Instituciones del Sector Bancaria (SUDEBAN). Es convenio expreso entre las partes, que si EL CLIENTE continúa haciendo uso de los servicios de TU PAGO MÓVIL BICENTENARIO, conforme a los nuevos términos de la presente oferta publica, ello significa que ha aceptado las nuevas condiciones. \n      "])), (l()(), gl["ɵeld"](70, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](72, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["11)\tDECLARACIÓN JURADA:"])), (l()(), gl["ɵted"](-1, null, [" EL CLIENTE, bajo fe de juramento declara que los fondos utilizados para la ejecución de cualquier transacción a través de los servicios de TU PAGO MÓVIL BICENTENARIO, se originan y se manejarán en operaciones lícitas, con apego a la legislación venezolana sobre prevención, control y fiscalización de las operaciones de legitimación de capitales; así mismo, EL CLIENTE asume toda la responsabilidad que acarrea el uso de este servicios y libera a EL BANCO de responsabilidad por errores en el monto de abonos o cargos a la cuenta destino. \n      "])), (l()(), gl["ɵeld"](75, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](77, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["12)\tSEGURIDAD TECNOLÓGICA:"])), (l()(), gl["ɵted"](-1, null, [" EL BANCO mantendrá sistemas de seguridad bancaria adecuados, a fin de evitar la comisión de delitos que afecten el pago de EL CLIENTE, así como también brindará atención y oportuna respuesta a EL CLIENTE que denuncie pagos no reconocidos u omisiones presentadas en su cuenta, así como cualesquiera otros reclamos que pudieren formular. \n      "])), (l()(), gl["ɵeld"](80, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](82, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["13)\tCONFIDENCIALIDAD:"])), (l()(), gl["ɵted"](-1, null, [" El BANCO respetará el derecho constitucional a la información sobre los datos de EL CLIENTE y tiene prohibido informar los antecedentes financieros personales de EL CLIENTE a cualquier empresa o institución exceptuando al mismo CLIENTE, a la Superintendencia de las Instituciones del Sector Bancario, al Banco Central de Venezuela y demás entes autorizados por ley, salvo que EL CLIENTE de su autorización por escrito. \n      "])), (l()(), gl["ɵeld"](85, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](87, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["14)\tDOMICILIO ESPECIAL:"])), (l()(), gl["ɵted"](-1, null, [" Para todos los efectos derivados y consecuencias legales del presente contrato las partes eligen como domicilio especial la ciudad de Caracas a la Jurisdicción de cuyos Tribunales competentes expresamente se someten, sin perjuicio para “EL BANCO”, de acudir a cualquier otro que fuere competente de conformidad con la Ley. \n      "])), (l()(), gl["ɵeld"](90, 0, null, null, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](92, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["15)\tNOTIFICACIONES:"])), (l()(), gl["ɵted"](-1, null, [" Cualquier notificación, aviso o comunicación que EL CLIENTE haya de dirigir a EL BANCO en relación con las condiciones generales dispuestas, deberá hacerlo por escrito, en duplicado y por intermedio de las agencias. Tal notificación, aviso o comunicación EL CLIENTE debe entregarlo a un funcionario autorizado de la respectiva agencia, quien dejará constancia, tanto en el original como en la copia del documento respectivo, del día y la hora en que lo reciba, devolviendo el duplicado a EL CLIENTE y conservando para EL BANCO el original. Cualquier notificación, aviso o comunicación que  EL BANCO tenga que hacer a  EL CLIENTE, lo enviará a la dirección que éste tenga registrada en su sistema y tal notificación, aviso o comunicación se considerará válida por el hecho comprobado de haberse remitido a dicha dirección física o electrónica, sin que sea necesario ningún acuse de recibo.\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵeld"](96, 0, null, 1, 1, "p", [["style", "font-weight:bold"], ["text-center", ""]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["“BANCO BICENTENARIO DEL PUEBLO”"])), (l()(), gl["ɵted"](-1, 1, ["\n  \n  "])), (l()(), gl["ɵeld"](99, 0, null, 1, 18, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](100, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](102, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](103, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](105, 0, null, null, 2, "button", [["block", ""], ["color", "secondary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.takeTermsAction(1) && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](106, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Aceptar"])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](110, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](111, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](113, 0, null, null, 2, "button", [["block", ""], ["color", "primary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.takeTermsAction(0) && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](114, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Cancelar"])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n"]))], function (l, n) { l(n, 4, 0, "primary", "true"); l(n, 106, 0, "secondary", ""); l(n, 114, 0, "primary", "") }, function (l, n) { l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 12, 0, gl["ɵnov"](n, 13).statusbarPadding) }) } function d(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 58, "ion-card", [["class", "card-balance"]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, qn.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](3, 0, null, null, 54, "ion-card-content", [], null, null, null, null, null)), gl["ɵdid"](4, 16384, null, 0, On.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](6, 0, null, null, 50, "ion-list", [], null, null, null, null, null)), gl["ɵdid"](7, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](9, 0, null, null, 14, "ion-item", [["class", "item item-block"], ["style", "min-height:0;margin-top:0px;margin-bottom:0px;font-size:1.3rem;"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](10, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 1, { contentLabel: 0 }), gl["ɵqud"](603979776, 2, { _buttons: 1 }), gl["ɵqud"](603979776, 3, { _icons: 1 }), gl["ɵdid"](14, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n              "])), (l()(), gl["ɵeld"](16, 0, null, 1, 2, "ion-label", [["style", "margin-top:7px;margin-bottom:7px;"]], null, null, null, null, null)), gl["ɵdid"](17, 16384, [[1, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, null], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Saldo Disponible"])), (l()(), gl["ɵted"](-1, 2, ["\n              "])), (l()(), gl["ɵeld"](20, 0, null, 4, 2, "ion-badge", [["item-end", ""], ["style", "margin-top:0px;margin-bottom:0px;background-color:#FFFFFF;color:#4D4D4D;"]], null, null, null, null, null)), gl["ɵdid"](21, 16384, null, 0, ce.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](22, null, ["", ""])), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](25, 0, null, null, 14, "ion-item", [["class", "item item-block"], ["style", "min-height:0;margin-top:0px;margin-bottom:0px;font-size:1.3rem;"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](26, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 4, { contentLabel: 0 }), gl["ɵqud"](603979776, 5, { _buttons: 1 }), gl["ɵqud"](603979776, 6, { _icons: 1 }), gl["ɵdid"](30, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n            "])), (l()(), gl["ɵeld"](32, 0, null, 1, 2, "ion-label", [["style", "margin-top:7px;margin-bottom:7px;"]], null, null, null, null, null)), gl["ɵdid"](33, 16384, [[4, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, null], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Límite Diario"])), (l()(), gl["ɵted"](-1, 2, ["\n            "])), (l()(), gl["ɵeld"](36, 0, null, 4, 2, "ion-badge", [["item-end", ""], ["style", "margin-top:0px;margin-bottom:0px;background-color:#FFFFFF;color:#4D4D4D;"]], null, null, null, null, null)), gl["ɵdid"](37, 16384, null, 0, ce.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](38, null, ["", ""])), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](41, 0, null, null, 14, "ion-item", [["class", "item item-block"], ["style", "min-height:0;margin-top:0px;margin-bottom:0px;font-size:1.3rem;"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](42, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 7, { contentLabel: 0 }), gl["ɵqud"](603979776, 8, { _buttons: 1 }), gl["ɵqud"](603979776, 9, { _icons: 1 }), gl["ɵdid"](46, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n              "])), (l()(), gl["ɵeld"](48, 0, null, 1, 2, "ion-label", [["style", "margin-top:7px;margin-bottom:7px;"]], null, null, null, null, null)), gl["ɵdid"](49, 16384, [[7, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, null], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Límite Mensual"])), (l()(), gl["ɵted"](-1, 2, ["\n              "])), (l()(), gl["ɵeld"](52, 0, null, 4, 2, "ion-badge", [["item-end", ""], ["style", "margin-top:0px;margin-bottom:0px;background-color:#FFFFFF;color:#4D4D4D;"]], null, null, null, null, null)), gl["ɵdid"](53, 16384, null, 0, ce.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](54, null, ["", ""])), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "]))], null, function (l, n) { var e = n.component; l(n, 22, 0, e.p2pServiceProvider.accountInfo.balance); l(n, 38, 0, e.p2pServiceProvider.accountInfo.dailyLimit); l(n, 54, 0, e.p2pServiceProvider.accountInfo.monthLimit) }) } function r(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 22, "ion-list", [["no-line", ""]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](3, 0, null, null, 2, "button", [["block", ""], ["color", "grey-dark"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.nextPage(1) && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](4, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Ordenar Pago"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](7, 0, null, null, 2, "button", [["block", ""], ["color", "blue-dark"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.nextPage(2) && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](8, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Pagos Emitidos"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](11, 0, null, null, 2, "button", [["block", ""], ["color", "primary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.nextPage(3) && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](12, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Pagos Recibidos"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](15, 0, null, null, 2, "button", [["block", ""], ["color", "secondary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.nextPage(4) && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](16, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Cambiar Contraseña"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](19, 0, null, null, 2, "button", [["block", ""], ["color", "primary"], ["id", "exitButton"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.nextPage(5) && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](20, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Salir"])), (l()(), gl["ɵted"](-1, null, ["\n    "]))], function (l, n) { l(n, 4, 0, "grey-dark", ""); l(n, 8, 0, "blue-dark", ""); l(n, 12, 0, "primary", ""); l(n, 16, 0, "secondary", ""); l(n, 20, 0, "primary", "") }, null) } function s(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 18, "ion-list", [["no-line", ""]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](3, 0, null, null, 2, "button", [["block", ""], ["color", "primary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.nextPage(6) && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](4, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Totales"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](7, 0, null, null, 2, "button", [["block", ""], ["color", "primary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.nextPage(7) && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](8, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Pagos Recibidos"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](11, 0, null, null, 2, "button", [["block", ""], ["color", "blue-dark"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.nextPage(4) && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](12, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Cambiar Contraseña"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](15, 0, null, null, 2, "button", [["block", ""], ["color", "primary"], ["id", "exitButton"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.nextPage(5) && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](16, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Salir"])), (l()(), gl["ɵted"](-1, null, ["\n    "]))], function (l, n) { l(n, 4, 0, "primary", ""); l(n, 8, 0, "primary", ""); l(n, 12, 0, "blue-dark", ""); l(n, 16, 0, "primary", "") }, null) } function c(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](3, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"], ["hideBackButton", "true"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], hideBackButton: [1, "hideBackButton"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n      Tu Pago Móvil\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n\n\n"])), (l()(), gl["ɵeld"](12, 0, null, null, 20, "ion-content", [["class", "background"]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](13, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵeld"](15, 0, null, 1, 3, "div", [["class", "container"]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](17, 0, null, null, 0, "img", [["alt", ""], ["src", "assets/images/logo_bicentenario.png"]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n\n   "])), (l()(), gl["ɵand"](16777216, null, 1, 1, null, d)), gl["ɵdid"](21, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, 1, ["\n\n  "])), (l()(), gl["ɵeld"](23, 0, null, 1, 8, "ion-card-content", [], null, null, null, null, null)), gl["ɵdid"](24, 16384, null, 0, On.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, r)), gl["ɵdid"](27, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, s)), gl["ɵdid"](30, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](34, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](35, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵeld"](37, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](38, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n\t\t"])), (l()(), gl["ɵeld"](40, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](42, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](43, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](44, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n\t"])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { var e = n.component; l(n, 4, 0, "primary", "true"); l(n, 21, 0, !e.isCompany()); l(n, 27, 0, !e.isCompany()); l(n, 30, 0, e.isCompany()) }, function (l, n) { l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 12, 0, gl["ɵnov"](n, 13).statusbarPadding); l(n, 37, 0, gl["ɵnov"](n, 38)._sbPadding) }) } function p(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](2, null, ["\n          ", "  \n        "]))], null, function (l, n) { l(n, 2, 0, (n.parent.context.ngIf < 100 ? "0" : n.parent.context.ngIf.substr(0, 1)) + ":" + (n.parent.context.ngIf < 100 ? n.parent.context.ngIf : n.parent.context.ngIf.substr(1, 3))) }) } function m(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 9, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](3, 0, null, null, 5, "button", [["class", "round-bt"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.ionViewDidLoad() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](4, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["\n            "])), (l()(), gl["ɵeld"](6, 0, null, 0, 1, "ion-icon", [["name", "refresh"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), gl["ɵdid"](7, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { name: [0, "name"] }, null), (l()(), gl["ɵted"](-1, 0, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "]))], function (l, n) { l(n, 7, 0, "refresh") }, function (l, n) { l(n, 6, 0, gl["ɵnov"](n, 7)._hidden) }) } function g(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Tiempo restante para validar información"]))], null, null) } function f(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Reenviar código de seguridad"]))], null, null) } function h(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 30, "ion-item", [["class", "item item-block"], ["text-center", ""]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](1, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 13, { contentLabel: 0 }), gl["ɵqud"](603979776, 14, { _buttons: 1 }), gl["ɵqud"](603979776, 15, { _icons: 1 }), gl["ɵdid"](5, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](7, 0, null, 2, 8, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](8, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, p)), gl["ɵdid"](11, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, m)), gl["ɵdid"](14, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](17, 0, null, 2, 12, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](18, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](20, 0, null, null, 8, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](21, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, g)), gl["ɵdid"](24, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, f)), gl["ɵdid"](27, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, 2, ["\n    "]))], function (l, n) { l(n, 11, 0, n.context.ngIf > 0); l(n, 14, 0, 0 == n.context.ngIf); l(n, 24, 0, n.context.ngIf > 0); l(n, 27, 0, 0 == n.context.ngIf) }, null) } function v(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](3, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n      Cambiar Contraseña\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n\n\n"])), (l()(), gl["ɵeld"](12, 0, null, null, 102, "ion-content", [["padding", ""]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](13, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵeld"](15, 0, null, 1, 94, "ion-list", [], null, null, null, null, null)), gl["ɵdid"](16, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n    \n\n    "])), (l()(), gl["ɵeld"](18, 0, null, null, 19, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](19, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 1, { contentLabel: 0 }), gl["ɵqud"](603979776, 2, { _buttons: 1 }), gl["ɵqud"](603979776, 3, { _icons: 1 }), gl["ɵdid"](23, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](25, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](26, 16384, [[1, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Ingrese contraseña actual"])), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](29, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["name", "oldPassword"], ["type", "password"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 30).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.change.oldPassword = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](30, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](31, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](33, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](35, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](36, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](39, 0, null, null, 23, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](40, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 4, { contentLabel: 0 }), gl["ɵqud"](603979776, 5, { _buttons: 1 }), gl["ɵqud"](603979776, 6, { _icons: 1 }), gl["ɵdid"](44, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](46, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](47, 16384, [[4, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Ingrese nueva contraseña"])), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](50, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["name", "newPassword"], ["type", "password"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 51).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.change.newPassword = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](51, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](52, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](54, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](56, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](57, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](59, 0, null, 4, 2, "button", [["ion-button", ""], ["item-right", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.showPasswordHelp() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](60, 1097728, [[5, 4]], 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["  ?  "])), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](64, 0, null, null, 19, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](65, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 7, { contentLabel: 0 }), gl["ɵqud"](603979776, 8, { _buttons: 1 }), gl["ɵqud"](603979776, 9, { _icons: 1 }), gl["ɵdid"](69, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](71, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](72, 16384, [[7, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Confirme su nueva contraseña"])), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](75, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["name", "newPasswordConfirm"], ["type", "password"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 76).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.change.newPasswordConfirm = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](76, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](77, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](79, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](81, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](82, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](85, 0, null, null, 19, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](86, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 10, { contentLabel: 0 }), gl["ɵqud"](603979776, 11, { _buttons: 1 }), gl["ɵqud"](603979776, 12, { _icons: 1 }), gl["ɵdid"](90, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](92, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](93, 16384, [[10, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Código de Seguridad"])), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](96, 0, null, 3, 7, "ion-input", [["maxlength", "12"], ["type", "text"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 97).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.change.securityCode = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](97, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](98, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](100, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](102, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](103, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵand"](16777216, null, null, 2, null, h)), gl["ɵdid"](107, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), gl["ɵpid"](131072, El.b, [gl.ChangeDetectorRef]), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵeld"](111, 0, null, 1, 2, "button", [["block", ""], ["color", "secondary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.validate() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](112, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Enviar"])), (l()(), gl["ɵted"](-1, 1, ["\n\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](116, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](117, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵeld"](119, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](120, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n\t\t"])), (l()(), gl["ɵeld"](122, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](124, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](125, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](126, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n\t"])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { var e = n.component; l(n, 4, 0, "primary"); l(n, 30, 0, 0); l(n, 31, 0, "16"); l(n, 33, 0, "oldPassword", e.change.oldPassword); l(n, 36, 0, "password"); l(n, 51, 0, 0); l(n, 52, 0, "16"); l(n, 54, 0, "newPassword", e.change.newPassword); l(n, 57, 0, "password"); l(n, 76, 0, 0); l(n, 77, 0, "16"); l(n, 79, 0, "newPasswordConfirm", e.change.newPasswordConfirm); l(n, 82, 0, "password"); l(n, 97, 0, 3); l(n, 98, 0, "12"); l(n, 100, 0, e.change.securityCode); l(n, 103, 0, "text"); l(n, 107, 0, "" + gl["ɵunv"](n, 107, 0, gl["ɵnov"](n, 108).transform(e.countDown))); l(n, 112, 0, "secondary", "") }, function (l, n) { l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 12, 0, gl["ɵnov"](n, 13).statusbarPadding); l(n, 29, 0, gl["ɵnov"](n, 31).maxlength ? gl["ɵnov"](n, 31).maxlength : null, gl["ɵnov"](n, 35).ngClassUntouched, gl["ɵnov"](n, 35).ngClassTouched, gl["ɵnov"](n, 35).ngClassPristine, gl["ɵnov"](n, 35).ngClassDirty, gl["ɵnov"](n, 35).ngClassValid, gl["ɵnov"](n, 35).ngClassInvalid, gl["ɵnov"](n, 35).ngClassPending); l(n, 50, 0, gl["ɵnov"](n, 52).maxlength ? gl["ɵnov"](n, 52).maxlength : null, gl["ɵnov"](n, 56).ngClassUntouched, gl["ɵnov"](n, 56).ngClassTouched, gl["ɵnov"](n, 56).ngClassPristine, gl["ɵnov"](n, 56).ngClassDirty, gl["ɵnov"](n, 56).ngClassValid, gl["ɵnov"](n, 56).ngClassInvalid, gl["ɵnov"](n, 56).ngClassPending); l(n, 75, 0, gl["ɵnov"](n, 77).maxlength ? gl["ɵnov"](n, 77).maxlength : null, gl["ɵnov"](n, 81).ngClassUntouched, gl["ɵnov"](n, 81).ngClassTouched, gl["ɵnov"](n, 81).ngClassPristine, gl["ɵnov"](n, 81).ngClassDirty, gl["ɵnov"](n, 81).ngClassValid, gl["ɵnov"](n, 81).ngClassInvalid, gl["ɵnov"](n, 81).ngClassPending); l(n, 96, 0, gl["ɵnov"](n, 98).maxlength ? gl["ɵnov"](n, 98).maxlength : null, gl["ɵnov"](n, 102).ngClassUntouched, gl["ɵnov"](n, 102).ngClassTouched, gl["ɵnov"](n, 102).ngClassPristine, gl["ɵnov"](n, 102).ngClassDirty, gl["ɵnov"](n, 102).ngClassValid, gl["ɵnov"](n, 102).ngClassInvalid, gl["ɵnov"](n, 102).ngClassPending); l(n, 119, 0, gl["ɵnov"](n, 120)._sbPadding) }) } function b(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "ion-option", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, [[1, 4]], 0, ne.a, [gl.ElementRef], { value: [0, "value"] }, null), (l()(), gl["ɵted"](2, null, ["", ""]))], function (l, n) { l(n, 1, 0, gl["ɵinlineInterpolate"](1, "", n.context.$implicit.codigo, "")) }, function (l, n) { l(n, 2, 0, n.context.$implicit.codigo) }) } function C(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](3, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"], ["hideBackButton", "true"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], hideBackButton: [1, "hideBackButton"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n      Afiliación\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n  \n  \n  "])), (l()(), gl["ɵeld"](12, 0, null, null, 79, "ion-content", [["padding", ""]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](13, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n    "])), (l()(), gl["ɵeld"](15, 0, null, 1, 7, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](16, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](18, 0, null, null, 3, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](19, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵeld"](20, 0, null, null, 1, "h5", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Documento de Identificación"])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, 1, ["\n    "])), (l()(), gl["ɵeld"](24, 0, null, 1, 35, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](25, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](27, 0, null, null, 18, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](28, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](30, 0, null, null, 14, "ion-select", [["interface", "popover"]], [[2, "select-disabled", null], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "click"], [null, "keyup.space"]], function (l, n, e) { var u = !0, t = l.component; if ("click" === n) { u = !1 !== gl["ɵnov"](l, 31)._click(e) && u } if ("keyup.space" === n) { u = !1 !== gl["ɵnov"](l, 31)._keyup() && u } if ("ngModelChange" === n) { u = !1 !== (t.idType = e) && u } return u }, ee.b, ee.a)), gl["ɵdid"](31, 1228800, null, 1, ue.a, [bn.a, Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Vn.a], wn.a], { interface: [0, "interface"] }, null), gl["ɵqud"](603979776, 1, { options: 1 }), gl["ɵprd"](1024, null, Ll.k, function (l) { return [l] }, [ue.a]), gl["ɵdid"](34, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [2, Ll.k]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](36, 16384, null, 0, Ll.m, [Ll.l], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](38, 0, null, null, 2, "ion-option", [["disabled", "true"], ["selected", "true"], ["value", ""]], null, null, null, null, null)), gl["ɵdid"](39, 16384, [[1, 4]], 0, ne.a, [gl.ElementRef], { disabled: [0, "disabled"], selected: [1, "selected"], value: [2, "value"] }, null), (l()(), gl["ɵted"](-1, null, ["Documento"])), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, b)), gl["ɵdid"](43, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](47, 0, null, null, 11, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](48, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](50, 0, null, null, 7, "ion-input", [["maxlength", "9"], ["name", "idNumber"], ["placeholder", "N° Documento"], ["type", "tel"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 51).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.id = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](51, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](52, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](54, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](56, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](57, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { placeholder: [0, "placeholder"], type: [1, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, 1, ["\n    "])), (l()(), gl["ɵeld"](61, 0, null, 1, 9, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](62, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](64, 0, null, null, 5, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](65, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](67, 0, null, null, 1, "small", [["class", "msgInfo"], ["text-wrap", ""]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["*Tenga al alcance los productos que posee con el banco"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, 1, ["\n\n    "])), (l()(), gl["ɵeld"](72, 0, null, 1, 18, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](73, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](75, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](76, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](78, 0, null, null, 2, "button", [["block", ""], ["color", "secondary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.validClientID() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](79, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Continuar"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](83, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](84, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](86, 0, null, null, 2, "button", [["block", ""], ["color", "primary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.cancelAffiliation() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](87, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Cancelar"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n  \n  "])), (l()(), gl["ɵeld"](93, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](94, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](96, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](97, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n      "])), (l()(), gl["ɵeld"](99, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](101, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](102, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](103, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { var e = n.component; l(n, 4, 0, "primary", "true"); l(n, 31, 0, "popover"); l(n, 34, 0, e.idType); l(n, 39, 0, "true", "true", ""); l(n, 43, 0, e.typesList); l(n, 51, 0, 0); l(n, 52, 0, "9"); l(n, 54, 0, "idNumber", e.id); l(n, 57, 0, "N° Documento", "tel"); l(n, 79, 0, "secondary", ""); l(n, 87, 0, "primary", "") }, function (l, n) { l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 12, 0, gl["ɵnov"](n, 13).statusbarPadding); l(n, 30, 0, gl["ɵnov"](n, 31)._disabled, gl["ɵnov"](n, 36).ngClassUntouched, gl["ɵnov"](n, 36).ngClassTouched, gl["ɵnov"](n, 36).ngClassPristine, gl["ɵnov"](n, 36).ngClassDirty, gl["ɵnov"](n, 36).ngClassValid, gl["ɵnov"](n, 36).ngClassInvalid, gl["ɵnov"](n, 36).ngClassPending); l(n, 50, 0, gl["ɵnov"](n, 52).maxlength ? gl["ɵnov"](n, 52).maxlength : null, gl["ɵnov"](n, 56).ngClassUntouched, gl["ɵnov"](n, 56).ngClassTouched, gl["ɵnov"](n, 56).ngClassPristine, gl["ɵnov"](n, 56).ngClassDirty, gl["ɵnov"](n, 56).ngClassValid, gl["ɵnov"](n, 56).ngClassInvalid, gl["ɵnov"](n, 56).ngClassPending); l(n, 96, 0, gl["ɵnov"](n, 97)._sbPadding) }) } function y(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](2, null, ["\n            ", "  \n          "]))], null, function (l, n) { l(n, 2, 0, (n.parent.context.ngIf < 100 ? "0" : n.parent.context.ngIf.substr(0, 1)) + ":" + (n.parent.context.ngIf < 100 ? n.parent.context.ngIf : n.parent.context.ngIf.substr(1, 3))) }) } function R(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 9, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](3, 0, null, null, 5, "button", [["class", "round-bt"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.resendValidCode() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](4, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["\n                "])), (l()(), gl["ɵeld"](6, 0, null, 0, 1, "ion-icon", [["name", "refresh"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), gl["ɵdid"](7, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { name: [0, "name"] }, null), (l()(), gl["ɵted"](-1, 0, ["\n            "])), (l()(), gl["ɵted"](-1, null, ["\n          "]))], function (l, n) { l(n, 7, 0, "refresh") }, function (l, n) { l(n, 6, 0, gl["ɵnov"](n, 7)._hidden) }) } function E(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Tiempo restante para validar información"]))], null, null) } function P(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Reenviar código de seguridad"]))], null, null) } function w(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 30, "ion-item", [["class", "item item-block"], ["text-center", ""]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](1, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 13, { contentLabel: 0 }), gl["ɵqud"](603979776, 14, { _buttons: 1 }), gl["ɵqud"](603979776, 15, { _icons: 1 }), gl["ɵdid"](5, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](7, 0, null, 2, 8, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](8, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, y)), gl["ɵdid"](11, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, R)), gl["ɵdid"](14, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](17, 0, null, 2, 12, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](18, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](20, 0, null, null, 8, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](21, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, E)), gl["ɵdid"](24, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, P)), gl["ɵdid"](27, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["  \n        "])), (l()(), gl["ɵted"](-1, 2, ["\n      "]))], function (l, n) { l(n, 11, 0, n.context.ngIf > 0); l(n, 14, 0, 0 == n.context.ngIf); l(n, 24, 0, n.context.ngIf > 0); l(n, 27, 0, 0 == n.context.ngIf) }, null) } function I(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](3, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n      Modificar Pregunta Secreta\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n  \n  \n  "])), (l()(), gl["ɵeld"](12, 0, null, null, 112, "ion-content", [["padding", ""]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](13, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n    "])), (l()(), gl["ɵeld"](15, 0, null, 1, 96, "ion-list", [], null, null, null, null, null)), gl["ɵdid"](16, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](18, 0, null, null, 17, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](19, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 1, { contentLabel: 0 }), gl["ɵqud"](603979776, 2, { _buttons: 1 }), gl["ɵqud"](603979776, 3, { _icons: 1 }), gl["ɵdid"](23, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](25, 0, null, 1, 3, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](26, 16384, [[1, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵeld"](27, 0, null, null, 1, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Usurario"])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](30, 0, null, 3, 4, "ion-input", [["disabled", "true"], ["type", "text"]], [[2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"]], function (l, n, e) { var u = !0; if ("ngModelChange" === n) { u = !1 !== (l.component.securityInfo.username = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](31, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [8, null]], { isDisabled: [0, "isDisabled"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](33, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](34, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"], disabled: [1, "disabled"] }, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](37, 0, null, null, 19, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](38, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 4, { contentLabel: 0 }), gl["ɵqud"](603979776, 5, { _buttons: 1 }), gl["ɵqud"](603979776, 6, { _icons: 1 }), gl["ɵdid"](42, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](44, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](45, 16384, [[4, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Código de Seguridad"])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](48, 0, null, 3, 7, "ion-input", [["maxlength", "12"], ["type", "text"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 49).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.securityCode = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](49, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](50, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](52, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](54, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](55, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](58, 0, null, null, 23, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](59, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 7, { contentLabel: 0 }), gl["ɵqud"](603979776, 8, { _buttons: 1 }), gl["ɵqud"](603979776, 9, { _icons: 1 }), gl["ɵdid"](63, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](65, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](66, 16384, [[7, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Pregunta Secreta"])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](69, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["type", "text"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 70).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.securityQuestion = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](70, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](71, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](73, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](75, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](76, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](78, 0, null, 4, 2, "button", [["ion-button", ""], ["item-right", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.showSecurityHelp() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](79, 1097728, [[8, 4]], 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["  ?  "])), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](83, 0, null, null, 23, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](84, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 10, { contentLabel: 0 }), gl["ɵqud"](603979776, 11, { _buttons: 1 }), gl["ɵqud"](603979776, 12, { _icons: 1 }), gl["ɵdid"](88, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](90, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](91, 16384, [[10, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Respuesta Secreta"])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](94, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["type", "text"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 95).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.securityAnswer = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](95, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](96, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](98, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](100, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](101, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](103, 0, null, 4, 2, "button", [["ion-button", ""], ["item-right", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.showSecurityHelp() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](104, 1097728, [[11, 4]], 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["  ?  "])), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n\n      "])), (l()(), gl["ɵand"](16777216, null, null, 2, null, w)), gl["ɵdid"](109, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), gl["ɵpid"](131072, El.b, [gl.ChangeDetectorRef]), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, 1, ["\n\n    "])), (l()(), gl["ɵeld"](113, 0, null, 1, 10, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](114, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](116, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](117, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](119, 0, null, null, 2, "button", [["block", ""], ["color", "secondary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.validateSecurityChange() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](120, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Aceptar"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n  \n  "])), (l()(), gl["ɵeld"](126, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](127, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](129, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](130, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n      "])), (l()(), gl["ɵeld"](132, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](134, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](135, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](136, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "]))], function (l, n) { var e = n.component; l(n, 4, 0, "primary"); l(n, 31, 0, "true", e.securityInfo.username); l(n, 34, 0, "text", "true"); l(n, 49, 0, 3); l(n, 50, 0, "12"); l(n, 52, 0, e.securityCode); l(n, 55, 0, "text"); l(n, 70, 0, 0); l(n, 71, 0, "16"); l(n, 73, 0, e.securityQuestion); l(n, 76, 0, "text"); l(n, 95, 0, 4); l(n, 96, 0, "16"); l(n, 98, 0, e.securityAnswer); l(n, 101, 0, "text"); l(n, 109, 0, "" + gl["ɵunv"](n, 109, 0, gl["ɵnov"](n, 110).transform(e.countDown))); l(n, 120, 0, "secondary", "") }, function (l, n) { l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 12, 0, gl["ɵnov"](n, 13).statusbarPadding); l(n, 30, 0, gl["ɵnov"](n, 33).ngClassUntouched, gl["ɵnov"](n, 33).ngClassTouched, gl["ɵnov"](n, 33).ngClassPristine, gl["ɵnov"](n, 33).ngClassDirty, gl["ɵnov"](n, 33).ngClassValid, gl["ɵnov"](n, 33).ngClassInvalid, gl["ɵnov"](n, 33).ngClassPending); l(n, 48, 0, gl["ɵnov"](n, 50).maxlength ? gl["ɵnov"](n, 50).maxlength : null, gl["ɵnov"](n, 54).ngClassUntouched, gl["ɵnov"](n, 54).ngClassTouched, gl["ɵnov"](n, 54).ngClassPristine, gl["ɵnov"](n, 54).ngClassDirty, gl["ɵnov"](n, 54).ngClassValid, gl["ɵnov"](n, 54).ngClassInvalid, gl["ɵnov"](n, 54).ngClassPending); l(n, 69, 0, gl["ɵnov"](n, 71).maxlength ? gl["ɵnov"](n, 71).maxlength : null, gl["ɵnov"](n, 75).ngClassUntouched, gl["ɵnov"](n, 75).ngClassTouched, gl["ɵnov"](n, 75).ngClassPristine, gl["ɵnov"](n, 75).ngClassDirty, gl["ɵnov"](n, 75).ngClassValid, gl["ɵnov"](n, 75).ngClassInvalid, gl["ɵnov"](n, 75).ngClassPending); l(n, 94, 0, gl["ɵnov"](n, 96).maxlength ? gl["ɵnov"](n, 96).maxlength : null, gl["ɵnov"](n, 100).ngClassUntouched, gl["ɵnov"](n, 100).ngClassTouched, gl["ɵnov"](n, 100).ngClassPristine, gl["ɵnov"](n, 100).ngClassDirty, gl["ɵnov"](n, 100).ngClassValid, gl["ɵnov"](n, 100).ngClassInvalid, gl["ɵnov"](n, 100).ngClassPending); l(n, 129, 0, gl["ɵnov"](n, 130)._sbPadding) }) } function k(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](3, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n      Totales\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n\n"])), (l()(), gl["ɵeld"](12, 0, null, null, 28, "ion-content", [], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](13, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵeld"](15, 0, null, 1, 19, "ion-card", [], null, null, null, null, null)), gl["ɵdid"](16, 16384, null, 0, qn.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](18, 0, null, null, 2, "ion-card-header", [["color", "white"], ["text-center", ""]], null, null, null, null, null)), gl["ɵdid"](19, 16384, null, 0, Re.a, [Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, null, ["Total Pagos Recibidos"])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](22, 0, null, null, 11, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](23, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](25, 0, null, null, 3, "ion-col", [["class", "icon-border col"], ["col-3", ""], ["text-center", ""]], null, null, null, null, null)), gl["ɵdid"](26, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵeld"](27, 0, null, null, 1, "ion-icon", [["name", "stats"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), gl["ɵdid"](28, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { name: [0, "name"] }, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](30, 0, null, null, 2, "ion-col", [["class", "card-data col"]], null, null, null, null, null)), gl["ɵdid"](31, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](32, null, ["", " Bs."])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n\n  "])), (l()(), gl["ɵeld"](36, 0, null, 1, 3, "div", [["class", "bt-dimen"]], null, null, null, null, null)), (l()(), gl["ɵeld"](37, 0, null, null, 2, "button", [["block", ""], ["ion-button", ""]], [[8, "disabled", 0]], [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.getCompanyBalance() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](38, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { block: [0, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["ACTUALIZAR"])), (l()(), gl["ɵted"](-1, 1, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n\n"])), (l()(), gl["ɵeld"](42, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](43, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵeld"](45, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](46, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](48, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](50, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](51, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](52, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n\t"])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { l(n, 4, 0, "primary"); l(n, 19, 0, "white"); l(n, 28, 0, "stats"); l(n, 38, 0, "") }, function (l, n) { var e = n.component; l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 12, 0, gl["ɵnov"](n, 13).statusbarPadding); l(n, 27, 0, gl["ɵnov"](n, 28)._hidden); l(n, 32, 0, e.accountBalance); l(n, 37, 0, e.isFreezeTime); l(n, 45, 0, gl["ɵnov"](n, 46)._sbPadding) }) } function x(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 29, "ion-row", [["class", "section-input-row row"]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](3, 0, null, null, 9, "ion-col", [["class", "col"], ["col-5", ""]], null, null, null, null, null)), gl["ɵdid"](4, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](6, 0, null, null, 5, "ion-datetime", [["cancelText", "Cerrar"], ["displayFormat", "h:mm a"], ["doneText", "Aceptar"]], [[2, "datetime-disabled", null], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "click"], [null, "keyup.space"]], function (l, n, e) { var u = !0, t = l.component; if ("click" === n) { u = !1 !== gl["ɵnov"](l, 7)._click(e) && u } if ("keyup.space" === n) { u = !1 !== gl["ɵnov"](l, 7)._keyup() && u } if ("ngModelChange" === n) { u = !1 !== (t.beginDate = e) && u } return u }, we.b, we.a)), gl["ɵdid"](7, 1228800, null, 0, Ie.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Vn.a], [2, ke.a]], { displayFormat: [0, "displayFormat"], cancelText: [1, "cancelText"], doneText: [2, "doneText"] }, null), gl["ɵprd"](1024, null, Ll.k, function (l) { return [l] }, [Ie.a]), gl["ɵdid"](9, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [2, Ll.k]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](11, 16384, null, 0, Ll.m, [Ll.l], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](14, 0, null, null, 9, "ion-col", [["class", "col"], ["col-5", ""]], null, null, null, null, null)), gl["ɵdid"](15, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](17, 0, null, null, 5, "ion-datetime", [["cancelText", "Cerrar"], ["displayFormat", "h:mm a"], ["doneText", "Aceptar"]], [[2, "datetime-disabled", null], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "click"], [null, "keyup.space"]], function (l, n, e) { var u = !0, t = l.component; if ("click" === n) { u = !1 !== gl["ɵnov"](l, 18)._click(e) && u } if ("keyup.space" === n) { u = !1 !== gl["ɵnov"](l, 18)._keyup() && u } if ("ngModelChange" === n) { u = !1 !== (t.topDate = e) && u } return u }, we.b, we.a)), gl["ɵdid"](18, 1228800, null, 0, Ie.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Vn.a], [2, ke.a]], { displayFormat: [0, "displayFormat"], cancelText: [1, "cancelText"], doneText: [2, "doneText"] }, null), gl["ɵprd"](1024, null, Ll.k, function (l) { return [l] }, [Ie.a]), gl["ɵdid"](20, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [2, Ll.k]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](22, 16384, null, 0, Ll.m, [Ll.l], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](25, 0, null, null, 3, "ion-col", [["class", "col"], ["col-2", ""], ["style", "padding:0;"], ["text-center", ""]], null, null, null, null, null)), gl["ɵdid"](26, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵeld"](27, 0, null, null, 1, "ion-icon", [["color", "primary"], ["name", "search"], ["role", "img"], ["style", "vertical-align: -webkit-baseline-middle;"]], [[2, "hide", null]], [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.filterByDate() && u } return u }, null, null)), gl["ɵdid"](28, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], name: [1, "name"] }, null), (l()(), gl["ɵted"](-1, null, ["\n        "]))], function (l, n) { var e = n.component; l(n, 7, 0, "h:mm a", "Cerrar", "Aceptar"); l(n, 9, 0, e.beginDate); l(n, 18, 0, "h:mm a", "Cerrar", "Aceptar"); l(n, 20, 0, e.topDate); l(n, 28, 0, "primary", "search") }, function (l, n) { l(n, 6, 0, gl["ɵnov"](n, 7)._disabled, gl["ɵnov"](n, 11).ngClassUntouched, gl["ɵnov"](n, 11).ngClassTouched, gl["ɵnov"](n, 11).ngClassPristine, gl["ɵnov"](n, 11).ngClassDirty, gl["ɵnov"](n, 11).ngClassValid, gl["ɵnov"](n, 11).ngClassInvalid, gl["ɵnov"](n, 11).ngClassPending); l(n, 17, 0, gl["ɵnov"](n, 18)._disabled, gl["ɵnov"](n, 22).ngClassUntouched, gl["ɵnov"](n, 22).ngClassTouched, gl["ɵnov"](n, 22).ngClassPristine, gl["ɵnov"](n, 22).ngClassDirty, gl["ɵnov"](n, 22).ngClassValid, gl["ɵnov"](n, 22).ngClassInvalid, gl["ɵnov"](n, 22).ngClassPending); l(n, 27, 0, gl["ɵnov"](n, 28)._hidden) }) } function _(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "ion-option", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, [[2, 4]], 0, ne.a, [gl.ElementRef], { value: [0, "value"] }, null), (l()(), gl["ɵted"](2, null, ["", ""]))], function (l, n) { l(n, 1, 0, gl["ɵinlineInterpolate"](1, "", n.context.$implicit.codigo, "")) }, function (l, n) { l(n, 2, 0, n.context.$implicit.codigo) }) } function T(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 40, "ion-row", [["class", "section-input-row row"]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](3, 0, null, null, 18, "ion-col", [["class", "col"], ["col-4", ""]], null, null, null, null, null)), gl["ɵdid"](4, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](6, 0, null, null, 14, "ion-select", [["interface", "popover"]], [[2, "select-disabled", null], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "click"], [null, "keyup.space"]], function (l, n, e) { var u = !0, t = l.component; if ("click" === n) { u = !1 !== gl["ɵnov"](l, 7)._click(e) && u } if ("keyup.space" === n) { u = !1 !== gl["ɵnov"](l, 7)._keyup() && u } if ("ngModelChange" === n) { u = !1 !== (t.phonecode = e) && u } return u }, ee.b, ee.a)), gl["ɵdid"](7, 1228800, null, 1, ue.a, [bn.a, Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Vn.a], wn.a], { interface: [0, "interface"] }, null), gl["ɵqud"](603979776, 2, { options: 1 }), gl["ɵprd"](1024, null, Ll.k, function (l) { return [l] }, [ue.a]), gl["ɵdid"](10, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [2, Ll.k]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](12, 16384, null, 0, Ll.m, [Ll.l], null, null), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵeld"](14, 0, null, null, 2, "ion-option", [["disabled", "true"], ["selected", ""], ["value", ""]], null, null, null, null, null)), gl["ɵdid"](15, 16384, [[2, 4]], 0, ne.a, [gl.ElementRef], { disabled: [0, "disabled"], selected: [1, "selected"], value: [2, "value"] }, null), (l()(), gl["ɵted"](-1, null, ["Prefijo"])), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, _)), gl["ɵdid"](19, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](23, 0, null, null, 11, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](24, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](26, 0, null, null, 7, "ion-input", [["maxlength", "7"], ["minlength", "7"], ["onkeypress", "return event.charCode >= 48 && event.charCode <= 57"], ["placeholder", "Teléfono"], ["type", "tel"]], [[1, "minlength", 0], [1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"]], function (l, n, e) { var u = !0; if ("ngModelChange" === n) { u = !1 !== (l.component.phone = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](27, 540672, null, 0, Ll.i, [], { minlength: [0, "minlength"] }, null), gl["ɵdid"](28, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l, n) { return [l, n] }, [Ll.i, Ll.h]), gl["ɵdid"](30, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](32, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](33, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { placeholder: [0, "placeholder"], type: [1, "type"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](36, 0, null, null, 3, "ion-col", [["class", "col"], ["col-3", ""], ["style", "padding:0;"], ["text-center", ""]], null, null, null, null, null)), gl["ɵdid"](37, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵeld"](38, 0, null, null, 1, "ion-icon", [["color", "primary"], ["name", "search"], ["role", "img"], ["style", "vertical-align: -webkit-baseline-middle;"]], [[2, "hide", null]], [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.filterByPhone() && u } return u }, null, null)), gl["ɵdid"](39, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], name: [1, "name"] }, null), (l()(), gl["ɵted"](-1, null, ["\n        "]))], function (l, n) { var e = n.component; l(n, 7, 0, "popover"); l(n, 10, 0, e.phonecode); l(n, 15, 0, "true", "", ""); l(n, 19, 0, e.loginData.lista_operadoras); l(n, 27, 0, "7"); l(n, 28, 0, "7"); l(n, 30, 0, e.phone); l(n, 33, 0, "Teléfono", "tel"); l(n, 39, 0, "primary", "search") }, function (l, n) { l(n, 6, 0, gl["ɵnov"](n, 7)._disabled, gl["ɵnov"](n, 12).ngClassUntouched, gl["ɵnov"](n, 12).ngClassTouched, gl["ɵnov"](n, 12).ngClassPristine, gl["ɵnov"](n, 12).ngClassDirty, gl["ɵnov"](n, 12).ngClassValid, gl["ɵnov"](n, 12).ngClassInvalid, gl["ɵnov"](n, 12).ngClassPending); l(n, 26, 0, gl["ɵnov"](n, 27).minlength ? gl["ɵnov"](n, 27).minlength : null, gl["ɵnov"](n, 28).maxlength ? gl["ɵnov"](n, 28).maxlength : null, gl["ɵnov"](n, 32).ngClassUntouched, gl["ɵnov"](n, 32).ngClassTouched, gl["ɵnov"](n, 32).ngClassPristine, gl["ɵnov"](n, 32).ngClassDirty, gl["ɵnov"](n, 32).ngClassValid, gl["ɵnov"](n, 32).ngClassInvalid, gl["ɵnov"](n, 32).ngClassPending); l(n, 38, 0, gl["ɵnov"](n, 39)._hidden) }) } function A(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 3, "div", [["class", "text-result"], ["style", "padding-top:0;"]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n            No se encontraron más resultados"])), (l()(), gl["ɵeld"](2, 0, null, null, 0, "hr", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n          "]))], null, null) } function M(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 4, "div", [], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.getMorePayments(l.parent.parent.context.$implicit.id) && u } return u }, null, null)), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](2, 0, null, null, 1, "ion-icon", [["color", "primary"], ["name", "arrow-down"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), gl["ɵdid"](3, 147456, [[8, 4]], 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], name: [1, "name"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "]))], function (l, n) { l(n, 3, 0, "primary", "arrow-down") }, function (l, n) { l(n, 2, 0, gl["ɵnov"](n, 3)._hidden) }) } function D(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 12, "ion-item", [["class", "item item-block"], ["text-center", ""]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](1, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 6, { contentLabel: 0 }), gl["ɵqud"](603979776, 7, { _buttons: 1 }), gl["ɵqud"](603979776, 8, { _icons: 1 }), gl["ɵdid"](5, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵand"](16777216, null, 2, 1, null, A)), gl["ɵdid"](8, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵand"](16777216, null, 2, 1, null, M)), gl["ɵdid"](11, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, 2, ["\n        "]))], function (l, n) { var e = n.component; l(n, 8, 0, e.noResult && e.onGetMore); l(n, 11, 0, !e.noResult) }, null) } function L(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 47, "ion-list", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](3, 0, null, null, 40, "ion-item", [["class", "bottom-limit item item-block"]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.detailView(l.context.index) && u } return u }, Bn.b, Bn.a)), gl["ɵdid"](4, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 3, { contentLabel: 0 }), gl["ɵqud"](603979776, 4, { _buttons: 1 }), gl["ɵqud"](603979776, 5, { _icons: 1 }), gl["ɵdid"](8, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n            "])), (l()(), gl["ɵeld"](10, 0, null, 0, 1, "ion-icon", [["item-start", ""], ["name", "checkmark-circle-outline"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), gl["ɵdid"](11, 147456, [[5, 4]], 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { name: [0, "name"] }, null), (l()(), gl["ɵted"](-1, 2, ["\n            "])), (l()(), gl["ɵeld"](13, 0, null, 2, 15, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](14, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵeld"](16, 0, null, null, 3, "ion-col", [["class", "col"], ["col-9", ""]], null, null, null, null, null)), gl["ɵdid"](17, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵeld"](18, 0, null, null, 1, "p", [], null, null, null, null, null)), (l()(), gl["ɵted"](19, null, ["", ""])), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵeld"](21, 0, null, null, 6, "ion-col", [["class", "col"], ["item-end", ""], ["style", "margin:0;padding:0;text-align:right;"]], null, null, null, null, null)), gl["ɵdid"](22, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n                "])), (l()(), gl["ɵeld"](24, 0, null, null, 2, "small", [["class", "hour-detail"]], null, null, null, null, null)), (l()(), gl["ɵted"](25, null, ["", ""])), gl["ɵppd"](26, 2), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵted"](-1, 2, ["\n            "])), (l()(), gl["ɵeld"](30, 0, null, 2, 12, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](31, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵeld"](33, 0, null, null, 3, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](34, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵeld"](35, 0, null, null, 1, "p", [], null, null, null, null, null)), (l()(), gl["ɵted"](36, null, ["", ""])), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵeld"](38, 0, null, null, 3, "ion-col", [["class", "col"], ["item-end", ""], ["style", "margin:0;text-align:right;"]], null, null, null, null, null)), gl["ɵdid"](39, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵeld"](40, 0, null, null, 1, "p", [], null, null, null, null, null)), (l()(), gl["ɵted"](41, null, ["", " Bs."])), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, D)), gl["ɵdid"](46, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n      "]))], function (l, n) { l(n, 11, 0, "checkmark-circle-outline"); l(n, 46, 0, n.context.last) }, function (l, n) { l(n, 10, 0, gl["ɵnov"](n, 11)._hidden); l(n, 19, 0, n.context.$implicit.bank); l(n, 25, 0, gl["ɵunv"](n, 25, 0, l(n, 26, 0, gl["ɵnov"](n.parent, 0), n.context.$implicit.tranDate, "TIME"))); l(n, 36, 0, n.context.$implicit.phone); l(n, 41, 0, n.context.$implicit.formatAmount) }) } function N(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 3, "div", [["class", "text-result"]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n        No se encontraron resultados para su busqueda"])), (l()(), gl["ɵeld"](2, 0, null, null, 0, "hr", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n      "]))], null, null) } function S(l) { return gl["ɵvid"](0, [gl["ɵpid"](0, Pl, []), (l()(), gl["ɵeld"](1, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](2, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](4, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](5, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n      "])), (l()(), gl["ɵeld"](7, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](8, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n        Pagos Recibidos\n      "])), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n    \n    \n    "])), (l()(), gl["ɵeld"](13, 0, null, null, 51, "ion-content", [["padding", ""]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](14, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n      "])), (l()(), gl["ɵeld"](16, 0, null, 1, 27, "ion-segment", [["class", "section-bar"]], [[2, "segment-disabled", null]], null, null, null, null)), gl["ɵdid"](17, 278528, null, 0, El.i, [gl.IterableDiffers, gl.KeyValueDiffers, gl.ElementRef, gl.Renderer], { klass: [0, "klass"], ngClass: [1, "ngClass"] }, null), gl["ɵpod"](18, { "section-bar-fit": 0 }), gl["ɵdid"](19, 1196032, null, 1, xe.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ll.l]], null, null), gl["ɵqud"](603979776, 1, { _buttons: 1 }), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](22, 0, null, null, 20, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](23, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](25, 0, null, null, 4, "ion-col", [["class", "col"], ["col-4", ""], ["text-center", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.getPayments(0) && u } return u }, null, null)), gl["ɵdid"](26, 278528, null, 0, El.i, [gl.IterableDiffers, gl.KeyValueDiffers, gl.ElementRef, gl.Renderer], { ngClass: [0, "ngClass"] }, null), gl["ɵpod"](27, { "selected-start": 0, "unselected-sec": 1 }), gl["ɵdid"](28, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["TODOS"])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](31, 0, null, null, 4, "ion-col", [["class", "col"], ["col-4", ""], ["text-center", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.getPayments(1) && u } return u }, null, null)), gl["ɵdid"](32, 278528, null, 0, El.i, [gl.IterableDiffers, gl.KeyValueDiffers, gl.ElementRef, gl.Renderer], { ngClass: [0, "ngClass"] }, null), gl["ɵpod"](33, { "selected-sec": 0, "unselected-sec": 1 }), gl["ɵdid"](34, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["RANGO"])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](37, 0, null, null, 4, "ion-col", [["class", "col"], ["col-4", ""], ["text-center", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.getPayments(2) && u } return u }, null, null)), gl["ɵdid"](38, 278528, null, 0, El.i, [gl.IterableDiffers, gl.KeyValueDiffers, gl.ElementRef, gl.Renderer], { ngClass: [0, "ngClass"] }, null), gl["ɵpod"](39, { "selected-end": 0, "unselected-sec": 1 }), gl["ɵdid"](40, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["TLF"])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, 1, ["\n\n      "])), (l()(), gl["ɵeld"](45, 0, null, 1, 12, "div", [], null, null, null, null, null)), gl["ɵdid"](46, 278528, null, 0, El.i, [gl.IterableDiffers, gl.KeyValueDiffers, gl.ElementRef, gl.Renderer], { ngClass: [0, "ngClass"] }, null), gl["ɵpod"](47, { "section-bar-input": 0 }), gl["ɵdid"](48, 16384, null, 0, El.o, [], { ngSwitch: [0, "ngSwitch"] }, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, x)), gl["ɵdid"](52, 278528, null, 0, El.p, [gl.ViewContainerRef, gl.TemplateRef, El.o], { ngSwitchCase: [0, "ngSwitchCase"] }, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, T)), gl["ɵdid"](56, 278528, null, 0, El.p, [gl.ViewContainerRef, gl.TemplateRef, El.o], { ngSwitchCase: [0, "ngSwitchCase"] }, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, 1, ["\n      \n      "])), (l()(), gl["ɵand"](16777216, null, 1, 1, null, L)), gl["ɵdid"](60, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, 1, ["\n\n      "])), (l()(), gl["ɵand"](16777216, null, 1, 1, null, N)), gl["ɵdid"](63, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, 1, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n    \n    "])), (l()(), gl["ɵeld"](66, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](67, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](69, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](70, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n        "])), (l()(), gl["ɵeld"](72, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](74, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](75, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](76, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n    "]))], function (l, n) { var e = n.component; l(n, 5, 0, "primary"); l(n, 17, 0, "section-bar", l(n, 18, 0, 0 != e.viewFilter)); l(n, 26, 0, l(n, 27, 0, 0 == e.viewFilter, 0 != e.viewFilter)); l(n, 32, 0, l(n, 33, 0, 1 == e.viewFilter, 1 != e.viewFilter)); l(n, 38, 0, l(n, 39, 0, 2 == e.viewFilter, 2 != e.viewFilter)); l(n, 46, 0, l(n, 47, 0, 0 != e.viewFilter)); l(n, 48, 0, e.viewFilter); l(n, 52, 0, 1); l(n, 56, 0, 2); l(n, 60, 0, e.payments); l(n, 63, 0, e.noResult && !e.onGetMore) }, function (l, n) { l(n, 4, 0, gl["ɵnov"](n, 5)._hidden, gl["ɵnov"](n, 5)._sbPadding); l(n, 13, 0, gl["ɵnov"](n, 14).statusbarPadding); l(n, 16, 0, gl["ɵnov"](n, 19)._disabled); l(n, 69, 0, gl["ɵnov"](n, 70)._sbPadding) }) } function q(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "ion-option", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, [[4, 4]], 0, ne.a, [gl.ElementRef], { value: [0, "value"] }, null), (l()(), gl["ɵted"](2, null, ["", ""]))], function (l, n) { l(n, 1, 0, gl["ɵinlineInterpolate"](1, "", n.context.$implicit.nombre, "")) }, function (l, n) { l(n, 2, 0, n.context.$implicit.nombre) }) } function O(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "ion-option", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, [[5, 4]], 0, ne.a, [gl.ElementRef], { value: [0, "value"] }, null), (l()(), gl["ɵted"](2, null, ["", ""]))], function (l, n) { l(n, 1, 0, gl["ɵinlineInterpolate"](1, "", n.context.$implicit.codigo, "")) }, function (l, n) { l(n, 2, 0, n.context.$implicit.codigo) }) } function j(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "ion-option", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, [[6, 4]], 0, ne.a, [gl.ElementRef], { value: [0, "value"] }, null), (l()(), gl["ɵted"](2, null, ["", ""]))], function (l, n) { l(n, 1, 0, gl["ɵinlineInterpolate"](1, "", n.context.$implicit.codigo, "")) }, function (l, n) { l(n, 2, 0, n.context.$implicit.codigo) }) } function B(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](3, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n      Ordenar Pago\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n\n\n"])), (l()(), gl["ɵeld"](12, 0, null, null, 188, "ion-content", [], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](13, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n\n  "])), (l()(), gl["ɵeld"](15, 0, null, 1, 184, "ion-list", [], null, null, null, null, null)), gl["ɵdid"](16, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](18, 0, null, null, 176, "ion-grid", [["class", "grid"]], null, null, null, null, null)), gl["ɵdid"](19, 16384, null, 0, Ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n\n      "])), (l()(), gl["ɵeld"](21, 0, null, null, 40, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](22, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](24, 0, null, null, 26, "ion-col", [["class", "col"], ["col-10", ""]], null, null, null, null, null)), gl["ɵdid"](25, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](27, 0, null, null, 22, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](28, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 1, { contentLabel: 0 }), gl["ɵqud"](603979776, 2, { _buttons: 1 }), gl["ɵqud"](603979776, 3, { _icons: 1 }), gl["ɵdid"](32, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n            "])), (l()(), gl["ɵeld"](34, 0, null, 3, 14, "ion-select", [["interface", "popover"]], [[2, "select-disabled", null], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "click"], [null, "keyup.space"]], function (l, n, e) { var u = !0, t = l.component; if ("click" === n) { u = !1 !== gl["ɵnov"](l, 35)._click(e) && u } if ("keyup.space" === n) { u = !1 !== gl["ɵnov"](l, 35)._keyup() && u } if ("ngModelChange" === n) { u = !1 !== (t.order.bankName = e) && u } return u }, ee.b, ee.a)), gl["ɵdid"](35, 1228800, null, 1, ue.a, [bn.a, Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Vn.a], wn.a], { interface: [0, "interface"] }, null), gl["ɵqud"](603979776, 4, { options: 1 }), gl["ɵprd"](1024, null, Ll.k, function (l) { return [l] }, [ue.a]), gl["ɵdid"](38, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [2, Ll.k]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](40, 16384, null, 0, Ll.m, [Ll.l], null, null), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵeld"](42, 0, null, null, 2, "ion-option", [["disabled", "true"], ["selected", "true"], ["value", ""]], null, null, null, null, null)), gl["ɵdid"](43, 16384, [[4, 4]], 0, ne.a, [gl.ElementRef], { disabled: [0, "disabled"], selected: [1, "selected"], value: [2, "value"] }, null), (l()(), gl["ɵted"](-1, null, ["Banco Receptor"])), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, q)), gl["ɵdid"](47, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n\n        "])), (l()(), gl["ɵeld"](52, 0, null, null, 8, "ion-col", [["class", "col"], ["col-2", ""]], null, null, null, null, null)), gl["ɵdid"](53, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](55, 0, null, null, 4, "button", [["ion-fab", ""], ["style", "background-color:transparent"]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.getFrecuentView() && u } return u }, Me.b, Me.a)), gl["ɵdid"](56, 49152, null, 0, De.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["\n            "])), (l()(), gl["ɵeld"](58, 0, null, 0, 1, "ion-icon", [["color", "primary"], ["name", "contacts"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), gl["ɵdid"](59, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], name: [1, "name"] }, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n\n      "])), (l()(), gl["ɵeld"](63, 0, null, null, 35, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](64, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](66, 0, null, null, 18, "ion-col", [["class", "col"], ["col-6", ""]], null, null, null, null, null)), gl["ɵdid"](67, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](69, 0, null, null, 14, "ion-select", [["interface", "popover"], ["name", "code"]], [[2, "select-disabled", null], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "click"], [null, "keyup.space"]], function (l, n, e) { var u = !0, t = l.component; if ("click" === n) { u = !1 !== gl["ɵnov"](l, 70)._click(e) && u } if ("keyup.space" === n) { u = !1 !== gl["ɵnov"](l, 70)._keyup() && u } if ("ngModelChange" === n) { u = !1 !== (t.order.code = e) && u } return u }, ee.b, ee.a)), gl["ɵdid"](70, 1228800, null, 1, ue.a, [bn.a, Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Vn.a], wn.a], { interface: [0, "interface"] }, null), gl["ɵqud"](603979776, 5, { options: 1 }), gl["ɵprd"](1024, null, Ll.k, function (l) { return [l] }, [ue.a]), gl["ɵdid"](73, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [2, Ll.k]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](75, 16384, null, 0, Ll.m, [Ll.l], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](77, 0, null, null, 2, "ion-option", [["disabled", "true"], ["value", ""]], null, null, null, null, null)), gl["ɵdid"](78, 16384, [[5, 4]], 0, ne.a, [gl.ElementRef], { disabled: [0, "disabled"], value: [1, "value"] }, null), (l()(), gl["ɵted"](-1, null, ["Prefijo"])), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, O)), gl["ɵdid"](82, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](86, 0, null, null, 11, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](87, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](89, 0, null, null, 7, "ion-input", [["maxlength", "7"], ["minlength", "7"], ["name", "phone"], ["onkeypress", "return event.charCode >= 48 && event.charCode <= 57"], ["placeholder", "Teléfono"], ["type", "tel"]], [[1, "minlength", 0], [1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"]], function (l, n, e) { var u = !0; if ("ngModelChange" === n) { u = !1 !== (l.component.order.phone = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](90, 540672, null, 0, Ll.i, [], { minlength: [0, "minlength"] }, null), gl["ɵdid"](91, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l, n) { return [l, n] }, [Ll.i, Ll.h]), gl["ɵdid"](93, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](95, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](96, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { placeholder: [0, "placeholder"], type: [1, "type"] }, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n\n      "])), (l()(), gl["ɵeld"](100, 0, null, null, 35, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](101, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](103, 0, null, null, 18, "ion-col", [["class", "col"], ["col-6", ""]], null, null, null, null, null)), gl["ɵdid"](104, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](106, 0, null, null, 14, "ion-select", [["interface", "popover"]], [[2, "select-disabled", null], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "click"], [null, "keyup.space"]], function (l, n, e) { var u = !0, t = l.component; if ("click" === n) { u = !1 !== gl["ɵnov"](l, 107)._click(e) && u } if ("keyup.space" === n) { u = !1 !== gl["ɵnov"](l, 107)._keyup() && u } if ("ngModelChange" === n) { u = !1 !== (t.order.idType = e) && u } return u }, ee.b, ee.a)), gl["ɵdid"](107, 1228800, null, 1, ue.a, [bn.a, Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Vn.a], wn.a], { interface: [0, "interface"] }, null), gl["ɵqud"](603979776, 6, { options: 1 }), gl["ɵprd"](1024, null, Ll.k, function (l) { return [l] }, [ue.a]), gl["ɵdid"](110, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [2, Ll.k]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](112, 16384, null, 0, Ll.m, [Ll.l], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](114, 0, null, null, 2, "ion-option", [["disabled", "true"], ["value", ""]], null, null, null, null, null)), gl["ɵdid"](115, 16384, [[6, 4]], 0, ne.a, [gl.ElementRef], { disabled: [0, "disabled"], value: [1, "value"] }, null), (l()(), gl["ɵted"](-1, null, ["Documento"])), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, j)), gl["ɵdid"](119, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](123, 0, null, null, 11, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](124, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](126, 0, null, null, 7, "ion-input", [["maxlength", "10"], ["name", "idNumber"], ["onkeypress", "return event.charCode >= 48 && event.charCode <= 57"], ["placeholder", "N° Documento"], ["type", "tel"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 127).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.order.idNumber = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](127, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](128, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](130, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](132, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](133, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { placeholder: [0, "placeholder"], type: [1, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n\n      "])), (l()(), gl["ɵeld"](137, 0, null, null, 27, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](138, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](140, 0, null, null, 23, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](141, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](143, 0, null, null, 19, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](144, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 7, { contentLabel: 0 }), gl["ɵqud"](603979776, 8, { _buttons: 1 }), gl["ɵqud"](603979776, 9, { _icons: 1 }), gl["ɵdid"](148, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n            "])), (l()(), gl["ɵeld"](150, 0, null, 1, 2, "ion-label", [["stacked", ""]], null, null, null, null, null)), gl["ɵdid"](151, 16384, [[7, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, null], [8, ""], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Monto a pagar"])), (l()(), gl["ɵted"](-1, 2, ["\n            "])), (l()(), gl["ɵeld"](154, 0, null, 3, 7, "ion-input", [["amount-formatter", ""], ["maxlength", "15"], ["name", "amount"], ["placeholder", "Ej: 5000 | 2500.75"], ["type", "tel"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "focus"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("focus" === n) { u = !1 !== (e.target.value = gl["ɵnov"](l, 155).cleanFormat(e.target.value)) && u } if ("blur" === n) { u = !1 !== (e.target.value = gl["ɵnov"](l, 155).format(e.target.value)) && u } if ("ngModelChange" === n) { u = !1 !== (t.order.amount = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](155, 16384, null, 0, yl, [], null, { ngModelChange: "ngModelChange" }), gl["ɵdid"](156, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](158, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](160, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](161, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { placeholder: [0, "placeholder"], type: [1, "type"] }, { blur: "blur", focus: "focus" }), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n\n      "])), (l()(), gl["ɵeld"](166, 0, null, null, 27, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](167, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](169, 0, null, null, 23, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](170, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](172, 0, null, null, 19, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](173, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 10, { contentLabel: 0 }), gl["ɵqud"](603979776, 11, { _buttons: 1 }), gl["ɵqud"](603979776, 12, { _icons: 1 }), gl["ɵdid"](177, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n            "])), (l()(), gl["ɵeld"](179, 0, null, 1, 2, "ion-label", [["stacked", ""]], null, null, null, null, null)), gl["ɵdid"](180, 16384, [[10, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, null], [8, ""], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Concepto"])), (l()(), gl["ɵted"](-1, 2, ["\n            "])), (l()(), gl["ɵeld"](183, 0, null, 3, 7, "ion-input", [["maxlength", "34"], ["name", "concept"], ["type", "text"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 184).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.order.concept = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](184, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](185, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](187, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](189, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](190, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](196, 0, null, null, 2, "button", [["block", ""], ["class", "send"], ["color", "secondary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.validate() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](197, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Enviar"])), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](202, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](203, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵeld"](205, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](206, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](208, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](210, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](211, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](212, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n\t"])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { var e = n.component; l(n, 4, 0, "primary"); l(n, 35, 0, "popover"); l(n, 38, 0, e.order.bankName); l(n, 43, 0, "true", "true", ""); l(n, 47, 0, e.loginData.lista_bancos); l(n, 59, 0, "primary", "contacts"); l(n, 70, 0, "popover"); l(n, 73, 0, "code", e.order.code); l(n, 78, 0, "true", ""); l(n, 82, 0, e.loginData.lista_operadoras); l(n, 90, 0, "7"); l(n, 91, 0, "7"); l(n, 93, 0, "phone", e.order.phone); l(n, 96, 0, "Teléfono", "tel"); l(n, 107, 0, "popover"); l(n, 110, 0, e.order.idType); l(n, 115, 0, "true", ""); l(n, 119, 0, e.loginData.lista_tipoafi); l(n, 127, 0, 0); l(n, 128, 0, "10"); l(n, 130, 0, "idNumber", e.order.idNumber); l(n, 133, 0, "N° Documento", "tel"); l(n, 156, 0, "15"); l(n, 158, 0, "amount", e.order.amount); l(n, 161, 0, "Ej: 5000 | 2500.75", "tel"); l(n, 184, 0, 0); l(n, 185, 0, "34"); l(n, 187, 0, "concept", e.order.concept); l(n, 190, 0, "text"); l(n, 197, 0, "secondary", "") }, function (l, n) { l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 12, 0, gl["ɵnov"](n, 13).statusbarPadding); l(n, 34, 0, gl["ɵnov"](n, 35)._disabled, gl["ɵnov"](n, 40).ngClassUntouched, gl["ɵnov"](n, 40).ngClassTouched, gl["ɵnov"](n, 40).ngClassPristine, gl["ɵnov"](n, 40).ngClassDirty, gl["ɵnov"](n, 40).ngClassValid, gl["ɵnov"](n, 40).ngClassInvalid, gl["ɵnov"](n, 40).ngClassPending); l(n, 58, 0, gl["ɵnov"](n, 59)._hidden); l(n, 69, 0, gl["ɵnov"](n, 70)._disabled, gl["ɵnov"](n, 75).ngClassUntouched, gl["ɵnov"](n, 75).ngClassTouched, gl["ɵnov"](n, 75).ngClassPristine, gl["ɵnov"](n, 75).ngClassDirty, gl["ɵnov"](n, 75).ngClassValid, gl["ɵnov"](n, 75).ngClassInvalid, gl["ɵnov"](n, 75).ngClassPending); l(n, 89, 0, gl["ɵnov"](n, 90).minlength ? gl["ɵnov"](n, 90).minlength : null, gl["ɵnov"](n, 91).maxlength ? gl["ɵnov"](n, 91).maxlength : null, gl["ɵnov"](n, 95).ngClassUntouched, gl["ɵnov"](n, 95).ngClassTouched, gl["ɵnov"](n, 95).ngClassPristine, gl["ɵnov"](n, 95).ngClassDirty, gl["ɵnov"](n, 95).ngClassValid, gl["ɵnov"](n, 95).ngClassInvalid, gl["ɵnov"](n, 95).ngClassPending); l(n, 106, 0, gl["ɵnov"](n, 107)._disabled, gl["ɵnov"](n, 112).ngClassUntouched, gl["ɵnov"](n, 112).ngClassTouched, gl["ɵnov"](n, 112).ngClassPristine, gl["ɵnov"](n, 112).ngClassDirty, gl["ɵnov"](n, 112).ngClassValid, gl["ɵnov"](n, 112).ngClassInvalid, gl["ɵnov"](n, 112).ngClassPending); l(n, 126, 0, gl["ɵnov"](n, 128).maxlength ? gl["ɵnov"](n, 128).maxlength : null, gl["ɵnov"](n, 132).ngClassUntouched, gl["ɵnov"](n, 132).ngClassTouched, gl["ɵnov"](n, 132).ngClassPristine, gl["ɵnov"](n, 132).ngClassDirty, gl["ɵnov"](n, 132).ngClassValid, gl["ɵnov"](n, 132).ngClassInvalid, gl["ɵnov"](n, 132).ngClassPending); l(n, 154, 0, gl["ɵnov"](n, 156).maxlength ? gl["ɵnov"](n, 156).maxlength : null, gl["ɵnov"](n, 160).ngClassUntouched, gl["ɵnov"](n, 160).ngClassTouched, gl["ɵnov"](n, 160).ngClassPristine, gl["ɵnov"](n, 160).ngClassDirty, gl["ɵnov"](n, 160).ngClassValid, gl["ɵnov"](n, 160).ngClassInvalid, gl["ɵnov"](n, 160).ngClassPending); l(n, 183, 0, gl["ɵnov"](n, 185).maxlength ? gl["ɵnov"](n, 185).maxlength : null, gl["ɵnov"](n, 189).ngClassUntouched, gl["ɵnov"](n, 189).ngClassTouched, gl["ɵnov"](n, 189).ngClassPristine, gl["ɵnov"](n, 189).ngClassDirty, gl["ɵnov"](n, 189).ngClassValid, gl["ɵnov"](n, 189).ngClassInvalid, gl["ɵnov"](n, 189).ngClassPending); l(n, 205, 0, gl["ɵnov"](n, 206)._sbPadding) }) } function V(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 13, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](1, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 2, { contentLabel: 0 }), gl["ɵqud"](603979776, 3, { _buttons: 1 }), gl["ɵqud"](603979776, 4, { _icons: 1 }), gl["ɵdid"](5, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](7, 0, null, 1, 2, "ion-label", [], null, null, null, null, null)), gl["ɵdid"](8, 16384, [[2, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, null], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](9, null, ["", ""])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](11, 0, null, 4, 1, "ion-radio", [], [[2, "radio-disabled", null]], [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== gl["ɵnov"](l, 12)._click(e) && u } return u }, Se.b, Se.a)), gl["ɵdid"](12, 245760, null, 0, qe.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Vn.a], [2, Oe.a]], { value: [0, "value"] }, null), (l()(), gl["ɵted"](-1, 2, ["\n      "]))], function (l, n) { l(n, 12, 0, gl["ɵinlineInterpolate"](1, "", n.context.$implicit.Texto, "")) }, function (l, n) { l(n, 9, 0, n.context.$implicit.Texto); l(n, 11, 0, gl["ɵnov"](n, 12)._disabled) }) } function F(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](3, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"], ["hideBackButton", "true"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], hideBackButton: [1, "hideBackButton"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n      "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n        Afiliación\n      "])), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n  \n  \n  "])), (l()(), gl["ɵeld"](12, 0, null, null, 56, "ion-content", [["padding", ""]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](13, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n    "])), (l()(), gl["ɵeld"](15, 0, null, 1, 1, "h5", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Seleccione un teléfono"])), (l()(), gl["ɵted"](-1, 1, ["\n\n    "])), (l()(), gl["ɵeld"](18, 0, null, 1, 49, "form", [["novalidate", ""]], [[2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "submit"], [null, "reset"]], function (l, n, e) { var u = !0; if ("submit" === n) { u = !1 !== gl["ɵnov"](l, 20).onSubmit(e) && u } if ("reset" === n) { u = !1 !== gl["ɵnov"](l, 20).onReset() && u } return u }, null, null)), gl["ɵdid"](19, 16384, null, 0, Ll.r, [], null, null), gl["ɵdid"](20, 540672, null, 0, Ll.f, [[8, null], [8, null]], { form: [0, "form"] }, null), gl["ɵprd"](2048, null, Ll.b, null, [Ll.f]), gl["ɵdid"](22, 16384, null, 0, Ll.n, [Ll.b], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](24, 0, null, null, 22, "ion-list", [["formControlName", "phoneChoose"], ["radio-group", ""], ["role", "radiogroup"]], [[2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], null, null, null, null)), gl["ɵdid"](25, 1064960, null, 1, Oe.a, [gl.Renderer, gl.ElementRef, gl.ChangeDetectorRef], null, null), gl["ɵqud"](335544320, 1, { _header: 0 }), gl["ɵprd"](1024, null, Ll.k, function (l) { return [l] }, [Oe.a]), gl["ɵdid"](28, 671744, null, 0, Ll.e, [[3, Ll.b], [8, null], [8, null], [2, Ll.k]], { name: [0, "name"] }, null), gl["ɵprd"](2048, null, Ll.l, null, [Ll.e]), gl["ɵdid"](30, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](31, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, V)), gl["ɵdid"](34, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](36, 0, null, null, 9, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](37, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 5, { contentLabel: 0 }), gl["ɵqud"](603979776, 6, { _buttons: 1 }), gl["ɵqud"](603979776, 7, { _icons: 1 }), gl["ɵdid"](41, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](43, 0, null, 2, 1, "small", [["class", "msgInfo"], ["text-wrap", ""]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["*Le será enviado un código de seguridad al teléfono que seleccione"])), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](48, 0, null, null, 18, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](49, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](51, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](52, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](54, 0, null, null, 2, "button", [["block", ""], ["color", "secondary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.notifyPhoneChoose() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](55, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Continuar"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](59, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](60, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](62, 0, null, null, 2, "button", [["block", ""], ["color", "primary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.cancelAffiliation() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](63, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Cancelar"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n  \n  "])), (l()(), gl["ɵeld"](70, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](71, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](73, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](74, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n      "])), (l()(), gl["ɵeld"](76, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](78, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](79, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](80, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { var e = n.component; l(n, 4, 0, "primary", "true"); l(n, 20, 0, e.chooseForm); l(n, 28, 0, "phoneChoose"); l(n, 34, 0, e.phones); l(n, 55, 0, "secondary", ""); l(n, 63, 0, "primary", "") }, function (l, n) { l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 12, 0, gl["ɵnov"](n, 13).statusbarPadding); l(n, 18, 0, gl["ɵnov"](n, 22).ngClassUntouched, gl["ɵnov"](n, 22).ngClassTouched, gl["ɵnov"](n, 22).ngClassPristine, gl["ɵnov"](n, 22).ngClassDirty, gl["ɵnov"](n, 22).ngClassValid, gl["ɵnov"](n, 22).ngClassInvalid, gl["ɵnov"](n, 22).ngClassPending); l(n, 24, 0, gl["ɵnov"](n, 30).ngClassUntouched, gl["ɵnov"](n, 30).ngClassTouched, gl["ɵnov"](n, 30).ngClassPristine, gl["ɵnov"](n, 30).ngClassDirty, gl["ɵnov"](n, 30).ngClassValid, gl["ɵnov"](n, 30).ngClassInvalid, gl["ɵnov"](n, 30).ngClassPending); l(n, 73, 0, gl["ɵnov"](n, 74)._sbPadding) }) } function U(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 42, "button", [["class", "item item-block"], ["detail-none", ""], ["ion-item", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.itemSelected(l.context.$implicit) && u } return u }, Bn.b, Bn.a)), gl["ɵdid"](1, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 1, { contentLabel: 0 }), gl["ɵqud"](603979776, 2, { _buttons: 1 }), gl["ɵqud"](603979776, 3, { _icons: 1 }), gl["ɵdid"](5, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](7, 0, null, 2, 34, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](8, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](10, 0, null, null, 5, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](11, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](13, 0, null, null, 1, "ion-icon", [["item-start", ""], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), gl["ɵdid"](14, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { name: [0, "name"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](17, 0, null, null, 15, "ion-col", [["class", "col"], ["col-auto", ""]], null, null, null, null, null)), gl["ɵdid"](18, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](20, 0, null, null, 2, "div", [], null, null, null, null, null)), (l()(), gl["ɵeld"](21, 0, null, null, 1, "span", [], null, null, null, null, null)), (l()(), gl["ɵted"](22, null, ["", ""])), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](24, 0, null, null, 2, "div", [], null, null, null, null, null)), (l()(), gl["ɵeld"](25, 0, null, null, 1, "span", [], null, null, null, null, null)), (l()(), gl["ɵted"](26, null, ["", ""])), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](28, 0, null, null, 3, "div", [], null, null, null, null, null)), (l()(), gl["ɵeld"](29, 0, null, null, 2, "span", [], null, null, null, null, null)), (l()(), gl["ɵted"](30, null, ["", ""])), gl["ɵppd"](31, 2), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](34, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](35, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](37, 0, null, null, 2, "div", [], null, null, null, null, null)), (l()(), gl["ɵeld"](38, 0, null, null, 1, "span", [], null, null, null, null, null)), (l()(), gl["ɵted"](39, null, ["", ""])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, 2, ["\n      "]))], function (l, n) { l(n, 14, 0, gl["ɵinlineInterpolate"](1, "", n.context.$implicit.codigo_resp, "")) }, function (l, n) { var e = n.component; l(n, 13, 0, gl["ɵnov"](n, 14)._hidden); l(n, 22, 0, n.context.$implicit.codigo_banco); l(n, 26, 0, e.maskPhone(n.context.$implicit.telefono)); l(n, 30, 0, gl["ɵunv"](n, 30, 0, l(n, 31, 0, gl["ɵnov"](n.parent, 0), n.context.$implicit.fecha_tran, "DATETIME"))); l(n, 39, 0, e.numberWithCommas(n.context.$implicit.monto)) }) } function z(l) { return gl["ɵvid"](0, [gl["ɵpid"](0, Pl, []), (l()(), gl["ɵeld"](1, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](2, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](4, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](5, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](7, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](8, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n      Pagos Recibidos\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](13, 0, null, null, 43, "ion-content", [], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](14, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵeld"](16, 0, null, 1, 39, "ion-card-content", [], null, null, null, null, null)), gl["ɵdid"](17, 16384, null, 0, On.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](20, 0, null, null, 26, "ion-row", [["class", "table-header row"]], null, null, null, null, null)), gl["ɵdid"](21, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](23, 0, null, null, 6, "ion-col", [["class", "col"], ["col-4", ""]], null, null, null, null, null)), gl["ɵdid"](24, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](26, 0, null, null, 2, "span", [], null, null, null, null, null)), (l()(), gl["ɵeld"](27, 0, null, null, 1, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["ESTADO"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](31, 0, null, null, 6, "ion-col", [["class", "col"], ["col-4", ""]], null, null, null, null, null)), gl["ɵdid"](32, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](34, 0, null, null, 2, "span", [], null, null, null, null, null)), (l()(), gl["ɵeld"](35, 0, null, null, 1, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["DESCRIPCIÓN"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](39, 0, null, null, 6, "ion-col", [["class", "col"], ["col-4", ""]], null, null, null, null, null)), gl["ɵdid"](40, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](42, 0, null, null, 2, "span", [], null, null, null, null, null)), (l()(), gl["ɵeld"](43, 0, null, null, 1, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["MONTO"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](49, 0, null, null, 5, "ion-grid", [["class", "grid"]], null, null, null, null, null)), gl["ɵdid"](50, 16384, null, 0, Ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, U)), gl["ɵdid"](53, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](58, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](59, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵeld"](61, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](62, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](64, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](66, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](67, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](68, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n\t"])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { var e = n.component; l(n, 5, 0, "primary"); l(n, 53, 0, e.items) }, function (l, n) { l(n, 4, 0, gl["ɵnov"](n, 5)._hidden, gl["ɵnov"](n, 5)._sbPadding); l(n, 13, 0, gl["ɵnov"](n, 14).statusbarPadding); l(n, 61, 0, gl["ɵnov"](n, 62)._sbPadding) }) } function H(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 42, "button", [["class", "item item-block"], ["detail-none", ""], ["ion-item", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.itemSelected(l.context.$implicit) && u } return u }, Bn.b, Bn.a)), gl["ɵdid"](1, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 1, { contentLabel: 0 }), gl["ɵqud"](603979776, 2, { _buttons: 1 }), gl["ɵqud"](603979776, 3, { _icons: 1 }), gl["ɵdid"](5, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](7, 0, null, 2, 34, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](8, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](10, 0, null, null, 5, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](11, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](13, 0, null, null, 1, "ion-icon", [["item-start", ""], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), gl["ɵdid"](14, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { name: [0, "name"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](17, 0, null, null, 15, "ion-col", [["class", "col"], ["col-auto", ""]], null, null, null, null, null)), gl["ɵdid"](18, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](20, 0, null, null, 2, "div", [], null, null, null, null, null)), (l()(), gl["ɵeld"](21, 0, null, null, 1, "span", [], null, null, null, null, null)), (l()(), gl["ɵted"](22, null, ["", ""])), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](24, 0, null, null, 2, "div", [], null, null, null, null, null)), (l()(), gl["ɵeld"](25, 0, null, null, 1, "span", [], null, null, null, null, null)), (l()(), gl["ɵted"](26, null, ["", ""])), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](28, 0, null, null, 3, "div", [], null, null, null, null, null)), (l()(), gl["ɵeld"](29, 0, null, null, 2, "span", [], null, null, null, null, null)), (l()(), gl["ɵted"](30, null, ["", ""])), gl["ɵppd"](31, 2), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](34, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](35, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](37, 0, null, null, 2, "div", [], null, null, null, null, null)), (l()(), gl["ɵeld"](38, 0, null, null, 1, "span", [], null, null, null, null, null)), (l()(), gl["ɵted"](39, null, ["", ""])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, 2, ["\n      "]))], function (l, n) { l(n, 14, 0, gl["ɵinlineInterpolate"](1, "", n.context.$implicit.codigo_resp, "")) }, function (l, n) { var e = n.component; l(n, 13, 0, gl["ɵnov"](n, 14)._hidden); l(n, 22, 0, n.context.$implicit.codigo_banco); l(n, 26, 0, e.maskPhone(n.context.$implicit.telefono)); l(n, 30, 0, gl["ɵunv"](n, 30, 0, l(n, 31, 0, gl["ɵnov"](n.parent, 0), n.context.$implicit.fecha_tran, "DATETIME"))); l(n, 39, 0, e.numberWithCommas(n.context.$implicit.monto)) }) } function K(l) { return gl["ɵvid"](0, [gl["ɵpid"](0, Pl, []), (l()(), gl["ɵeld"](1, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](2, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](4, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](5, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](7, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](8, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n      Pagos Emitidos\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](13, 0, null, null, 43, "ion-content", [], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](14, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵeld"](16, 0, null, 1, 39, "ion-card-content", [], null, null, null, null, null)), gl["ɵdid"](17, 16384, null, 0, On.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](20, 0, null, null, 26, "ion-row", [["class", "table-header row"]], null, null, null, null, null)), gl["ɵdid"](21, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](23, 0, null, null, 6, "ion-col", [["class", "col"], ["col-4", ""]], null, null, null, null, null)), gl["ɵdid"](24, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](26, 0, null, null, 2, "span", [], null, null, null, null, null)), (l()(), gl["ɵeld"](27, 0, null, null, 1, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["ESTADO"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](31, 0, null, null, 6, "ion-col", [["class", "col"], ["col-4", ""]], null, null, null, null, null)), gl["ɵdid"](32, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](34, 0, null, null, 2, "span", [], null, null, null, null, null)), (l()(), gl["ɵeld"](35, 0, null, null, 1, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["DESCRIPCIÓN"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](39, 0, null, null, 6, "ion-col", [["class", "col"], ["col-4", ""]], null, null, null, null, null)), gl["ɵdid"](40, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](42, 0, null, null, 2, "span", [], null, null, null, null, null)), (l()(), gl["ɵeld"](43, 0, null, null, 1, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["MONTO"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](49, 0, null, null, 5, "ion-grid", [["class", "grid"]], null, null, null, null, null)), gl["ɵdid"](50, 16384, null, 0, Ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, H)), gl["ɵdid"](53, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](58, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](59, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵeld"](61, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](62, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](64, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](66, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](67, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](68, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n\t"])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { var e = n.component; l(n, 5, 0, "primary"); l(n, 53, 0, e.items) }, function (l, n) { l(n, 4, 0, gl["ɵnov"](n, 5)._hidden, gl["ɵnov"](n, 5)._sbPadding); l(n, 13, 0, gl["ɵnov"](n, 14).statusbarPadding); l(n, 61, 0, gl["ɵnov"](n, 62)._sbPadding) }) } function $(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 22, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](3, 0, null, null, 18, "ion-navbar", [["class", "toolbar"], ["color", "primary"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["Confirmar Pago"])), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](10, 0, null, 2, 10, "ion-buttons", [["end", ""]], null, null, null, null, null)), gl["ɵdid"](11, 16384, null, 1, He.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), gl["ɵqud"](603979776, 1, { _buttons: 1 }), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](14, 0, null, null, 5, "button", [["icon-only", ""], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.close() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](15, 1097728, [[1, 4]], 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["\n        "])), (l()(), gl["ɵeld"](17, 0, null, 0, 1, "ion-icon", [["name", "close"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), gl["ɵdid"](18, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { name: [0, "name"] }, null), (l()(), gl["ɵted"](-1, 0, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n\n\n\n"])), (l()(), gl["ɵeld"](24, 0, null, null, 75, "ion-content", [["padding", ""]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](25, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵeld"](27, 0, null, 1, 3, "div", [["class", "container"]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](29, 0, null, null, 0, "img", [["alt", ""], ["src", "assets/images/logo_bicentenario.png"]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n\n\n  "])), (l()(), gl["ɵeld"](32, 0, null, 1, 66, "ion-list", [["no-lines", ""]], null, null, null, null, null)), gl["ɵdid"](33, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](35, 0, null, null, 2, "ion-label", [["class", "no-margin"]], null, null, null, null, null)), gl["ɵdid"](36, 16384, null, 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, null], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Banco Receptor"])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](39, 0, null, null, 9, "ion-item", [["class", "no-margin item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](40, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 2, { contentLabel: 0 }), gl["ɵqud"](603979776, 3, { _buttons: 1 }), gl["ɵqud"](603979776, 4, { _icons: 1 }), gl["ɵdid"](44, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](46, 0, null, 2, 1, "p", [], null, null, null, null, null)), (l()(), gl["ɵted"](47, null, ["", ""])), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](50, 0, null, null, 2, "ion-label", [["class", "no-margin"]], null, null, null, null, null)), gl["ɵdid"](51, 16384, null, 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, null], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Celular del Receptor"])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](54, 0, null, null, 9, "ion-item", [["class", "no-margin item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](55, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 5, { contentLabel: 0 }), gl["ɵqud"](603979776, 6, { _buttons: 1 }), gl["ɵqud"](603979776, 7, { _icons: 1 }), gl["ɵdid"](59, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](61, 0, null, 2, 1, "p", [], null, null, null, null, null)), (l()(), gl["ɵted"](62, null, ["", "-", ""])), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](65, 0, null, null, 2, "ion-label", [["class", "no-margin"]], null, null, null, null, null)), gl["ɵdid"](66, 16384, null, 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, null], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Documento del Receptor"])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](69, 0, null, null, 9, "ion-item", [["class", "no-margin item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](70, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 8, { contentLabel: 0 }), gl["ɵqud"](603979776, 9, { _buttons: 1 }), gl["ɵqud"](603979776, 10, { _icons: 1 }), gl["ɵdid"](74, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](76, 0, null, 2, 1, "p", [], null, null, null, null, null)), (l()(), gl["ɵted"](77, null, ["", "-", ""])), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](80, 0, null, null, 2, "ion-label", [["class", "no-margin"]], null, null, null, null, null)), gl["ɵdid"](81, 16384, null, 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, null], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Monto"])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](84, 0, null, null, 9, "ion-item", [["class", "no-margin item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](85, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 11, { contentLabel: 0 }), gl["ɵqud"](603979776, 12, { _buttons: 1 }), gl["ɵqud"](603979776, 13, { _icons: 1 }), gl["ɵdid"](89, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](91, 0, null, 2, 1, "p", [], null, null, null, null, null)), (l()(), gl["ɵted"](92, null, ["", ""])), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](95, 0, null, null, 2, "button", [["block", ""], ["color", "secondary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.paymentRequest() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](96, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Enviar"])), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n\n\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](101, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](102, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵeld"](104, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](105, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n\t\t"])), (l()(), gl["ɵeld"](107, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](109, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](110, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](111, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n\t"])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { l(n, 4, 0, "primary"); l(n, 18, 0, "close"); l(n, 96, 0, "secondary", "") }, function (l, n) { var e = n.component; l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 17, 0, gl["ɵnov"](n, 18)._hidden); l(n, 24, 0, gl["ɵnov"](n, 25).statusbarPadding); l(n, 47, 0, e.bankName); l(n, 62, 0, e.code, e.phone); l(n, 77, 0, e.idType, e.idNumber); l(n, 92, 0, e.formatAmount(e.amount)); l(n, 104, 0, gl["ɵnov"](n, 105)._sbPadding) }) } function G(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](2, null, ["\n          ", "  \n        "]))], null, function (l, n) { l(n, 2, 0, (n.parent.context.ngIf < 100 ? "0" : n.parent.context.ngIf.substr(0, 1)) + ":" + (n.parent.context.ngIf < 100 ? n.parent.context.ngIf : n.parent.context.ngIf.substr(1, 3))) }) } function Z(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 9, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](3, 0, null, null, 5, "button", [["class", "round-bt"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.resendValidCode() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](4, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["\n              "])), (l()(), gl["ɵeld"](6, 0, null, 0, 1, "ion-icon", [["name", "refresh"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), gl["ɵdid"](7, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { name: [0, "name"] }, null), (l()(), gl["ɵted"](-1, 0, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "]))], function (l, n) { l(n, 7, 0, "refresh") }, function (l, n) { l(n, 6, 0, gl["ɵnov"](n, 7)._hidden) }) } function J(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Tiempo restante para validar información"]))], null, null) } function X(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Reenviar código de seguridad"]))], null, null) } function Q(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 30, "ion-item", [["class", "item item-block"], ["text-center", ""]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](1, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 19, { contentLabel: 0 }), gl["ɵqud"](603979776, 20, { _buttons: 1 }), gl["ɵqud"](603979776, 21, { _icons: 1 }), gl["ɵdid"](5, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](7, 0, null, 2, 8, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](8, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, G)), gl["ɵdid"](11, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, Z)), gl["ɵdid"](14, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](17, 0, null, 2, 12, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](18, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](20, 0, null, null, 8, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](21, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, J)), gl["ɵdid"](24, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, X)), gl["ɵdid"](27, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, null, ["  \n      "])), (l()(), gl["ɵted"](-1, 2, ["\n    "]))], function (l, n) { l(n, 11, 0, n.context.ngIf > 0); l(n, 14, 0, 0 == n.context.ngIf); l(n, 24, 0, n.context.ngIf > 0); l(n, 27, 0, 0 == n.context.ngIf) }, null) } function Y(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](3, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n      Recuperar Contraseña\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n\n\n"])), (l()(), gl["ɵeld"](12, 0, null, null, 132, "ion-content", [["padding", ""]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](13, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n\n  "])), (l()(), gl["ɵeld"](15, 0, null, 1, 3, "div", [["class", "container"]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](17, 0, null, null, 0, "img", [["alt", ""], ["src", "assets/images/logo_bicentenario.png"]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n\n  "])), (l()(), gl["ɵeld"](20, 0, null, 1, 119, "ion-list", [], null, null, null, null, null)), gl["ɵdid"](21, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](23, 0, null, null, 11, "ion-item", [["class", "item item-block"], ["no-lines", ""]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](24, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 1, { contentLabel: 0 }), gl["ɵqud"](603979776, 2, { _buttons: 1 }), gl["ɵqud"](603979776, 3, { _icons: 1 }), gl["ɵdid"](28, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](30, 0, null, 1, 3, "ion-label", [], null, null, null, null, null)), gl["ɵdid"](31, 16384, [[1, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, null], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵeld"](32, 0, null, null, 1, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Pregunta Secreta:"])), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](36, 0, null, null, 10, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](37, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 4, { contentLabel: 0 }), gl["ɵqud"](603979776, 5, { _buttons: 1 }), gl["ɵqud"](603979776, 6, { _icons: 1 }), gl["ɵdid"](41, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n\n      "])), (l()(), gl["ɵeld"](43, 0, null, 1, 2, "ion-label", [], null, null, null, null, null)), gl["ɵdid"](44, 16384, [[4, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, null], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](45, null, ["", ""])), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n    \n    "])), (l()(), gl["ɵeld"](48, 0, null, null, 18, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](49, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 7, { contentLabel: 0 }), gl["ɵqud"](603979776, 8, { _buttons: 1 }), gl["ɵqud"](603979776, 9, { _icons: 1 }), gl["ɵdid"](53, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](55, 0, null, 1, 3, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](56, 16384, [[7, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵeld"](57, 0, null, null, 1, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Respuesta Secreta"])), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](60, 0, null, 3, 5, "ion-input", [["name", "newPassword"], ["type", "password"]], [[2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 61).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.reset.respuesta = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](61, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](62, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [8, null]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](64, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](65, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](68, 0, null, null, 24, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](69, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 10, { contentLabel: 0 }), gl["ɵqud"](603979776, 11, { _buttons: 1 }), gl["ɵqud"](603979776, 12, { _icons: 1 }), gl["ɵdid"](73, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](75, 0, null, 1, 3, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](76, 16384, [[10, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵeld"](77, 0, null, null, 1, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, [" Ingrese una nueva contraseña"])), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](80, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["name", "newPassword"], ["type", "password"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 81).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.reset.newPassword = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](81, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](82, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](84, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](86, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](87, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](89, 0, null, 4, 2, "button", [["ion-button", ""], ["item-right", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.showPasswordHelp() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](90, 1097728, [[11, 4]], 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["  ?  "])), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](94, 0, null, null, 20, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](95, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 13, { contentLabel: 0 }), gl["ɵqud"](603979776, 14, { _buttons: 1 }), gl["ɵqud"](603979776, 15, { _icons: 1 }), gl["ɵdid"](99, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](101, 0, null, 1, 3, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](102, 16384, [[13, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵeld"](103, 0, null, null, 1, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, [" Confirme su nueva contraseña"])), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](106, 0, null, 3, 7, "ion-input", [["maxlength", "16"], ["name", "newPasswordConfirm"], ["type", "password"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 107).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.reset.newPasswordConfirm = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](107, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](108, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](110, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](112, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](113, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n    \n    "])), (l()(), gl["ɵeld"](116, 0, null, null, 18, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](117, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 16, { contentLabel: 0 }), gl["ɵqud"](603979776, 17, { _buttons: 1 }), gl["ɵqud"](603979776, 18, { _icons: 1 }), gl["ɵdid"](121, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](123, 0, null, 1, 3, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](124, 16384, [[16, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵeld"](125, 0, null, null, 1, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Código de Seguridad"])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](128, 0, null, 3, 5, "ion-input", [["name", "codigo"], ["type", "text"]], [[2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 129).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.reset.codigo = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](129, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](130, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [8, null]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](132, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](133, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵand"](16777216, null, null, 2, null, Q)), gl["ɵdid"](137, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), gl["ɵpid"](131072, El.b, [gl.ChangeDetectorRef]), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵeld"](141, 0, null, 1, 2, "button", [["block", ""], ["color", "secondary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.validate() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](142, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Continuar"])), (l()(), gl["ɵted"](-1, 1, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](146, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](147, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵeld"](149, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](150, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](152, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](154, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](155, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](156, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n\t"])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { var e = n.component; l(n, 4, 0, "primary"); l(n, 61, 0, 0); l(n, 62, 0, "newPassword", e.reset.respuesta); l(n, 65, 0, "password"); l(n, 81, 0, 0); l(n, 82, 0, "16"); l(n, 84, 0, "newPassword", e.reset.newPassword); l(n, 87, 0, "password"); l(n, 107, 0, 0); l(n, 108, 0, "16"); l(n, 110, 0, "newPasswordConfirm", e.reset.newPasswordConfirm); l(n, 113, 0, "password"); l(n, 129, 0, 3); l(n, 130, 0, "codigo", e.reset.codigo); l(n, 133, 0, "text"); l(n, 137, 0, "" + gl["ɵunv"](n, 137, 0, gl["ɵnov"](n, 138).transform(e.countDown))); l(n, 142, 0, "secondary", "") }, function (l, n) { var e = n.component; l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 12, 0, gl["ɵnov"](n, 13).statusbarPadding); l(n, 45, 0, e.questionObject.pregunta); l(n, 60, 0, gl["ɵnov"](n, 64).ngClassUntouched, gl["ɵnov"](n, 64).ngClassTouched, gl["ɵnov"](n, 64).ngClassPristine, gl["ɵnov"](n, 64).ngClassDirty, gl["ɵnov"](n, 64).ngClassValid, gl["ɵnov"](n, 64).ngClassInvalid, gl["ɵnov"](n, 64).ngClassPending); l(n, 80, 0, gl["ɵnov"](n, 82).maxlength ? gl["ɵnov"](n, 82).maxlength : null, gl["ɵnov"](n, 86).ngClassUntouched, gl["ɵnov"](n, 86).ngClassTouched, gl["ɵnov"](n, 86).ngClassPristine, gl["ɵnov"](n, 86).ngClassDirty, gl["ɵnov"](n, 86).ngClassValid, gl["ɵnov"](n, 86).ngClassInvalid, gl["ɵnov"](n, 86).ngClassPending); l(n, 106, 0, gl["ɵnov"](n, 108).maxlength ? gl["ɵnov"](n, 108).maxlength : null, gl["ɵnov"](n, 112).ngClassUntouched, gl["ɵnov"](n, 112).ngClassTouched, gl["ɵnov"](n, 112).ngClassPristine, gl["ɵnov"](n, 112).ngClassDirty, gl["ɵnov"](n, 112).ngClassValid, gl["ɵnov"](n, 112).ngClassInvalid, gl["ɵnov"](n, 112).ngClassPending); l(n, 128, 0, gl["ɵnov"](n, 132).ngClassUntouched, gl["ɵnov"](n, 132).ngClassTouched, gl["ɵnov"](n, 132).ngClassPristine, gl["ɵnov"](n, 132).ngClassDirty, gl["ɵnov"](n, 132).ngClassValid, gl["ɵnov"](n, 132).ngClassInvalid, gl["ɵnov"](n, 132).ngClassPending); l(n, 149, 0, gl["ɵnov"](n, 150)._sbPadding) }) } function W(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](2, null, ["\n            ", "  \n          "]))], null, function (l, n) { l(n, 2, 0, (n.parent.context.ngIf < 100 ? "0" : n.parent.context.ngIf.substr(0, 1)) + ":" + (n.parent.context.ngIf < 100 ? n.parent.context.ngIf : n.parent.context.ngIf.substr(1, 3))) }) } function ll(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 9, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](3, 0, null, null, 5, "button", [["class", "round-bt"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.resendValidCode() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](4, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 0, ["\n                "])), (l()(), gl["ɵeld"](6, 0, null, 0, 1, "ion-icon", [["name", "refresh"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), gl["ɵdid"](7, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { name: [0, "name"] }, null), (l()(), gl["ɵted"](-1, 0, ["\n            "])), (l()(), gl["ɵted"](-1, null, ["\n          "]))], function (l, n) { l(n, 7, 0, "refresh") }, function (l, n) { l(n, 6, 0, gl["ɵnov"](n, 7)._hidden) }) } function nl(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Tiempo restante para validar información"]))], null, null) } function el(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Reenviar código de seguridad"]))], null, null) } function ul(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 30, "ion-item", [["class", "item item-block"], ["text-center", ""]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](1, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 7, { contentLabel: 0 }), gl["ɵqud"](603979776, 8, { _buttons: 1 }), gl["ɵqud"](603979776, 9, { _icons: 1 }), gl["ɵdid"](5, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](7, 0, null, 2, 8, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](8, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, W)), gl["ɵdid"](11, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, ll)), gl["ɵdid"](14, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](17, 0, null, 2, 12, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](18, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](20, 0, null, null, 8, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](21, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, nl)), gl["ɵdid"](24, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, el)), gl["ɵdid"](27, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["  \n        "])), (l()(), gl["ɵted"](-1, 2, ["\n      "]))], function (l, n) { l(n, 11, 0, n.context.ngIf > 0); l(n, 14, 0, 0 == n.context.ngIf); l(n, 24, 0, n.context.ngIf > 0); l(n, 27, 0, 0 == n.context.ngIf) }, null) } function tl(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](3, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"], ["hideBackButton", "true"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], hideBackButton: [1, "hideBackButton"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n      "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n        Afiliación\n      "])), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n  \n  \n  "])), (l()(), gl["ɵeld"](12, 0, null, null, 74, "ion-content", [["padding", ""]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](13, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n    "])), (l()(), gl["ɵeld"](15, 0, null, 1, 1, "h5", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Datos de verificación"])), (l()(), gl["ɵted"](-1, 1, ["\n    "])), (l()(), gl["ɵeld"](18, 0, null, 1, 47, "ion-list", [], null, null, null, null, null)), gl["ɵdid"](19, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](21, 0, null, null, 19, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](22, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 1, { contentLabel: 0 }), gl["ɵqud"](603979776, 2, { _buttons: 1 }), gl["ɵqud"](603979776, 3, { _icons: 1 }), gl["ɵdid"](26, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](28, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](29, 16384, [[1, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Código de Seguridad"])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](32, 0, null, 3, 7, "ion-input", [["maxlength", "12"], ["type", "text"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 33).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.validCode = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](33, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](34, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](36, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](38, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](39, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](42, 0, null, null, 18, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](43, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 4, { contentLabel: 0 }), gl["ɵqud"](603979776, 5, { _buttons: 1 }), gl["ɵqud"](603979776, 6, { _icons: 1 }), gl["ɵdid"](47, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](49, 0, null, 1, 2, "ion-label", [["floating", ""], ["text-wrap", ""]], null, null, null, null, null)), gl["ɵdid"](50, 16384, [[4, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Ultimos 4 dígitos de una de sus cuentas"])), (l()(), gl["ɵted"](-1, 2, ["\n        "])), (l()(), gl["ɵeld"](53, 0, null, 3, 6, "ion-input", [["maxlength", "4"], ["type", "tel"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"]], function (l, n, e) { var u = !0; if ("ngModelChange" === n) { u = !1 !== (l.component.idAccount = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](54, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](56, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](58, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](59, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵand"](16777216, null, null, 2, null, ul)), gl["ɵdid"](63, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), gl["ɵpid"](131072, El.b, [gl.ChangeDetectorRef]), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, 1, ["\n\n    "])), (l()(), gl["ɵeld"](67, 0, null, 1, 18, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](68, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](70, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](71, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](73, 0, null, null, 2, "button", [["block", ""], ["color", "secondary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.sendVerificationData() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](74, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Continuar"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](78, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](79, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](81, 0, null, null, 2, "button", [["block", ""], ["color", "primary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.cancelAffiliation() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](82, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Cancelar"])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n  \n  "])), (l()(), gl["ɵeld"](88, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](89, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](91, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](92, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n      "])), (l()(), gl["ɵeld"](94, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](96, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](97, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](98, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n\n"]))], function (l, n) { var e = n.component; l(n, 4, 0, "primary", "true"); l(n, 33, 0, 3); l(n, 34, 0, "12"); l(n, 36, 0, e.validCode); l(n, 39, 0, "text"); l(n, 54, 0, "4"); l(n, 56, 0, e.idAccount); l(n, 59, 0, "tel"); l(n, 63, 0, "" + gl["ɵunv"](n, 63, 0, gl["ɵnov"](n, 64).transform(e.countDown))); l(n, 74, 0, "secondary", ""); l(n, 82, 0, "primary", "") }, function (l, n) { l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 12, 0, gl["ɵnov"](n, 13).statusbarPadding); l(n, 32, 0, gl["ɵnov"](n, 34).maxlength ? gl["ɵnov"](n, 34).maxlength : null, gl["ɵnov"](n, 38).ngClassUntouched, gl["ɵnov"](n, 38).ngClassTouched, gl["ɵnov"](n, 38).ngClassPristine, gl["ɵnov"](n, 38).ngClassDirty, gl["ɵnov"](n, 38).ngClassValid, gl["ɵnov"](n, 38).ngClassInvalid, gl["ɵnov"](n, 38).ngClassPending); l(n, 53, 0, gl["ɵnov"](n, 54).maxlength ? gl["ɵnov"](n, 54).maxlength : null, gl["ɵnov"](n, 58).ngClassUntouched, gl["ɵnov"](n, 58).ngClassTouched, gl["ɵnov"](n, 58).ngClassPristine, gl["ɵnov"](n, 58).ngClassDirty, gl["ɵnov"](n, 58).ngClassValid, gl["ɵnov"](n, 58).ngClassInvalid, gl["ɵnov"](n, 58).ngClassPending); l(n, 91, 0, gl["ɵnov"](n, 92)._sbPadding) }) } function al(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 10, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](3, 0, null, null, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](8, 0, ["", ""])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n\n"])), (l()(), gl["ɵeld"](12, 0, null, null, 29, "ion-content", [["padding", ""]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](13, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵeld"](15, 0, null, 1, 21, "ion-list", [], null, null, null, null, null)), gl["ɵdid"](16, 16384, null, 0, jn.a, [Cn.a, gl.ElementRef, gl.Renderer, yn.a, En.l, In.a], null, null), (l()(), gl["ɵted"](-1, null, ["\n\n    "])), (l()(), gl["ɵeld"](18, 0, null, null, 17, "ion-item", [["class", "item item-block"]], null, null, null, Bn.b, Bn.a)), gl["ɵdid"](19, 1097728, null, 3, Vn.a, [Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Un.a]], null, null), gl["ɵqud"](335544320, 1, { contentLabel: 0 }), gl["ɵqud"](603979776, 2, { _buttons: 1 }), gl["ɵqud"](603979776, 3, { _icons: 1 }), gl["ɵdid"](23, 16384, null, 0, zn.a, [], null, null), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](25, 0, null, 1, 2, "ion-label", [["floating", ""]], null, null, null, null, null)), gl["ɵdid"](26, 16384, [[1, 4]], 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, ""], [8, null], [8, null], [8, null]], null, null), (l()(), gl["ɵted"](-1, null, ["Ingrese su nombre de usuario"])), (l()(), gl["ɵted"](-1, 2, ["\n      "])), (l()(), gl["ɵeld"](29, 0, null, 3, 5, "ion-input", [["name", "username"], ["type", "text"]], [[2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 30).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.user.username = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](30, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](31, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [8, null]], { name: [0, "name"], model: [1, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](33, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](34, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { type: [0, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, 2, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n\n\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵeld"](38, 0, null, 1, 2, "button", [["block", ""], ["color", "secondary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.validate() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](39, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Continuar"])), (l()(), gl["ɵted"](-1, 1, ["\n\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](43, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](44, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵeld"](46, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](47, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](49, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](51, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](52, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](53, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n\t"])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { var e = n.component; l(n, 4, 0, "primary"); l(n, 30, 0, 0); l(n, 31, 0, "username", e.user.username); l(n, 34, 0, "text"); l(n, 39, 0, "secondary", "") }, function (l, n) { var e = n.component; l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 8, 0, e.pageTitle); l(n, 12, 0, gl["ɵnov"](n, 13).statusbarPadding); l(n, 29, 0, gl["ɵnov"](n, 33).ngClassUntouched, gl["ɵnov"](n, 33).ngClassTouched, gl["ɵnov"](n, 33).ngClassPristine, gl["ɵnov"](n, 33).ngClassDirty, gl["ɵnov"](n, 33).ngClassValid, gl["ɵnov"](n, 33).ngClassInvalid, gl["ɵnov"](n, 33).ngClassPending); l(n, 46, 0, gl["ɵnov"](n, 47)._sbPadding) }) } function ol(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "ion-option", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, [[1, 4]], 0, ne.a, [gl.ElementRef], { value: [0, "value"] }, null), (l()(), gl["ɵted"](2, null, ["", ""]))], function (l, n) { l(n, 1, 0, gl["ɵinlineInterpolate"](1, "", n.context.$implicit.codigo, "")) }, function (l, n) { l(n, 2, 0, n.context.$implicit.nombre) }) } function il(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "ion-option", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, [[2, 4]], 0, ne.a, [gl.ElementRef], { value: [0, "value"] }, null), (l()(), gl["ɵted"](2, null, ["", ""]))], function (l, n) { l(n, 1, 0, gl["ɵinlineInterpolate"](1, "", n.context.$implicit.codigo, "")) }, function (l, n) { l(n, 2, 0, n.context.$implicit.codigo) }) } function dl(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "ion-option", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, [[3, 4]], 0, ne.a, [gl.ElementRef], { value: [0, "value"] }, null), (l()(), gl["ɵted"](2, null, ["", ""]))], function (l, n) { l(n, 1, 0, gl["ɵinlineInterpolate"](1, "", n.context.$implicit.codigo, "")) }, function (l, n) { l(n, 2, 0, n.context.$implicit.codigo) }) } function rl(l) { return gl["ɵvid"](0, [(l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](1, 0, null, null, 159, "ion-content", [["class", "main-view"]], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](2, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n      "])), (l()(), gl["ɵeld"](4, 0, null, 1, 0, "div", [["class", "overlay"]], null, null, null, null, null)), (l()(), gl["ɵted"](-1, 1, ["\n      "])), (l()(), gl["ɵeld"](6, 0, null, 1, 153, "ion-scroll", [["class", "modal_content"], ["scrollY", "true"]], [[2, "scroll-x", null], [2, "scroll-y", null]], null, null, We.b, We.a)), gl["ɵdid"](7, 49152, null, 0, lu.a, [], { scrollY: [0, "scrollY"] }, null), (l()(), gl["ɵted"](-1, 0, ["\n        "])), (l()(), gl["ɵeld"](9, 0, null, 0, 6, "ion-navbar", [["class", "toolbar"], ["color", "primary"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](10, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n          "])), (l()(), gl["ɵeld"](12, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](13, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["Nuevo Contacto"])), (l()(), gl["ɵted"](-1, 3, ["\n        "])), (l()(), gl["ɵted"](-1, 0, ["\n  \n        "])), (l()(), gl["ɵeld"](17, 0, null, 0, 25, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](18, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](20, 0, null, null, 21, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](21, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](23, 0, null, null, 17, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](25, 0, null, null, 14, "ion-select", [["class", "full-select"], ["interface", "popover"]], [[2, "select-disabled", null], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "click"], [null, "keyup.space"]], function (l, n, e) { var u = !0, t = l.component; if ("click" === n) { u = !1 !== gl["ɵnov"](l, 26)._click(e) && u } if ("keyup.space" === n) { u = !1 !== gl["ɵnov"](l, 26)._keyup() && u } if ("ngModelChange" === n) { u = !1 !== (t.contactBank = e) && u } return u }, ee.b, ee.a)), gl["ɵdid"](26, 1228800, null, 1, ue.a, [bn.a, Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Vn.a], wn.a], { interface: [0, "interface"] }, null), gl["ɵqud"](603979776, 1, { options: 1 }), gl["ɵprd"](1024, null, Ll.k, function (l) { return [l] }, [ue.a]), gl["ɵdid"](29, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [2, Ll.k]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](31, 16384, null, 0, Ll.m, [Ll.l], null, null), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵeld"](33, 0, null, null, 2, "ion-option", [["disabled", "true"], ["selected", "true"], ["value", ""]], null, null, null, null, null)), gl["ɵdid"](34, 16384, [[1, 4]], 0, ne.a, [gl.ElementRef], { disabled: [0, "disabled"], selected: [1, "selected"], value: [2, "value"] }, null), (l()(), gl["ɵted"](-1, null, ["Banco Receptor"])), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, ol)), gl["ɵdid"](38, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, 0, ["\n\n        "])), (l()(), gl["ɵeld"](44, 0, null, 0, 20, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](45, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](47, 0, null, null, 16, "ion-col", [["class", "padding-box col"]], null, null, null, null, null)), gl["ɵdid"](48, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](50, 0, null, null, 3, "ion-label", [["stacked", ""]], null, null, null, null, null)), gl["ɵdid"](51, 16384, null, 0, Hn.a, [Cn.a, gl.ElementRef, gl.Renderer, [8, null], [8, ""], [8, null], [8, null]], null, null), (l()(), gl["ɵeld"](52, 0, null, null, 1, "strong", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Nombre Contacto"])), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](55, 0, null, null, 7, "ion-input", [["maxlength", "20"], ["placeholder", "Ingrese el nombre del contacto"], ["type", "text"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 56).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.contactName = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](56, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](57, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](59, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](61, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](62, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { placeholder: [0, "placeholder"], type: [1, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, 0, ["\n\n        "])), (l()(), gl["ɵeld"](66, 0, null, 0, 35, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](67, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](69, 0, null, null, 18, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](70, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](72, 0, null, null, 14, "ion-select", [["interface", "popover"]], [[2, "select-disabled", null], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "click"], [null, "keyup.space"]], function (l, n, e) { var u = !0, t = l.component; if ("click" === n) { u = !1 !== gl["ɵnov"](l, 73)._click(e) && u } if ("keyup.space" === n) { u = !1 !== gl["ɵnov"](l, 73)._keyup() && u } if ("ngModelChange" === n) { u = !1 !== (t.contactPrefix = e) && u } return u }, ee.b, ee.a)), gl["ɵdid"](73, 1228800, null, 1, ue.a, [bn.a, Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Vn.a], wn.a], { interface: [0, "interface"] }, null), gl["ɵqud"](603979776, 2, { options: 1 }), gl["ɵprd"](1024, null, Ll.k, function (l) { return [l] }, [ue.a]), gl["ɵdid"](76, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [2, Ll.k]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](78, 16384, null, 0, Ll.m, [Ll.l], null, null), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵeld"](80, 0, null, null, 2, "ion-option", [["disabled", "true"], ["selected", "true"], ["value", ""]], null, null, null, null, null)), gl["ɵdid"](81, 16384, [[2, 4]], 0, ne.a, [gl.ElementRef], { disabled: [0, "disabled"], selected: [1, "selected"], value: [2, "value"] }, null), (l()(), gl["ɵted"](-1, null, ["Prefijo"])), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, il)), gl["ɵdid"](85, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n  \n          "])), (l()(), gl["ɵeld"](89, 0, null, null, 11, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](90, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](92, 0, null, null, 7, "ion-input", [["maxlength", "7"], ["placeholder", "Número"], ["type", "tel"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 93).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.contactPhone = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](93, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](94, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](96, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](98, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](99, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { placeholder: [0, "placeholder"], type: [1, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, 0, ["\n\n        "])), (l()(), gl["ɵeld"](103, 0, null, 0, 35, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](104, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](106, 0, null, null, 18, "ion-col", [["class", "col"], ["col-6", ""]], null, null, null, null, null)), gl["ɵdid"](107, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](109, 0, null, null, 14, "ion-select", [["interface", "popover"]], [[2, "select-disabled", null], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "click"], [null, "keyup.space"]], function (l, n, e) { var u = !0, t = l.component; if ("click" === n) { u = !1 !== gl["ɵnov"](l, 110)._click(e) && u } if ("keyup.space" === n) { u = !1 !== gl["ɵnov"](l, 110)._keyup() && u } if ("ngModelChange" === n) { u = !1 !== (t.contactType = e) && u } return u }, ee.b, ee.a)), gl["ɵdid"](110, 1228800, null, 1, ue.a, [bn.a, Fn.a, Cn.a, gl.ElementRef, gl.Renderer, [2, Vn.a], wn.a], { interface: [0, "interface"] }, null), gl["ɵqud"](603979776, 3, { options: 1 }), gl["ɵprd"](1024, null, Ll.k, function (l) { return [l] }, [ue.a]), gl["ɵdid"](113, 671744, null, 0, Ll.o, [[8, null], [8, null], [8, null], [2, Ll.k]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](115, 16384, null, 0, Ll.m, [Ll.l], null, null), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵeld"](117, 0, null, null, 2, "ion-option", [["disabled", "true"], ["selected", "true"], ["value", ""]], null, null, null, null, null)), gl["ɵdid"](118, 16384, [[3, 4]], 0, ne.a, [gl.ElementRef], { disabled: [0, "disabled"], selected: [1, "selected"], value: [2, "value"] }, null), (l()(), gl["ɵted"](-1, null, ["Documento"])), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵand"](16777216, null, null, 1, null, dl)), gl["ɵdid"](122, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n  \n          "])), (l()(), gl["ɵeld"](126, 0, null, null, 11, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](127, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](129, 0, null, null, 7, "ion-input", [["maxlength", "10"], ["placeholder", "N° Documento"], ["type", "tel"]], [[1, "maxlength", 0], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "blur"]], function (l, n, e) { var u = !0, t = l.component; if ("blur" === n) { u = !1 !== gl["ɵnov"](l, 130).onBlur(e.target) && u } if ("ngModelChange" === n) { u = !1 !== (t.contactID = e) && u } return u }, Kn.b, Kn.a)), gl["ɵdid"](130, 16384, null, 0, Cl, [], { inputType: [0, "inputType"] }, { ngModelChange: "ngModelChange" }), gl["ɵdid"](131, 540672, null, 0, Ll.h, [], { maxlength: [0, "maxlength"] }, null), gl["ɵprd"](1024, null, Ll.j, function (l) { return [l] }, [Ll.h]), gl["ɵdid"](133, 671744, null, 0, Ll.o, [[8, null], [2, Ll.j], [8, null], [8, null]], { model: [0, "model"] }, { update: "ngModelChange" }), gl["ɵprd"](2048, null, Ll.l, null, [Ll.o]), gl["ɵdid"](135, 16384, null, 0, Ll.m, [Ll.l], null, null), gl["ɵdid"](136, 2342912, null, 0, $n.a, [Cn.a, yn.a, Fn.a, bn.a, gl.ElementRef, gl.Renderer, [2, Sn.a], [2, Vn.a], [2, vn.a], [2, Ll.l], In.a], { placeholder: [0, "placeholder"], type: [1, "type"] }, { blur: "blur" }), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, 0, ["\n        \n        "])), (l()(), gl["ɵeld"](140, 0, null, 0, 18, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](141, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](143, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](144, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](146, 0, null, null, 2, "button", [["block", ""], ["color", "secondary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.validAdditionData() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](147, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Agregar"])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](151, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](152, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n            "])), (l()(), gl["ɵeld"](154, 0, null, null, 2, "button", [["block", ""], ["color", "primary"], ["ion-button", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.viewCtrl.dismiss() && u } return u }, Gn.b, Gn.a)), gl["ɵdid"](155, 1097728, null, 0, Zn.a, [[8, ""], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], block: [1, "block"] }, null), (l()(), gl["ɵted"](-1, 0, ["Cancelar"])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵted"](-1, 0, ["\n      "])), (l()(), gl["ɵted"](-1, 1, ["\n    "]))], function (l, n) { var e = n.component; l(n, 7, 0, "true"); l(n, 10, 0, "primary"); l(n, 26, 0, "popover"); l(n, 29, 0, e.contactBank); l(n, 34, 0, "true", "true", ""); l(n, 38, 0, e.bankList); l(n, 56, 0, 0); l(n, 57, 0, "20"); l(n, 59, 0, e.contactName); l(n, 62, 0, "Ingrese el nombre del contacto", "text"); l(n, 73, 0, "popover"); l(n, 76, 0, e.contactPrefix); l(n, 81, 0, "true", "true", ""); l(n, 85, 0, e.prefixList); l(n, 93, 0, 0); l(n, 94, 0, "7"); l(n, 96, 0, e.contactPhone); l(n, 99, 0, "Número", "tel"); l(n, 110, 0, "popover"); l(n, 113, 0, e.contactType); l(n, 118, 0, "true", "true", ""); l(n, 122, 0, e.docTypes); l(n, 130, 0, 0); l(n, 131, 0, "10"); l(n, 133, 0, e.contactID); l(n, 136, 0, "N° Documento", "tel"); l(n, 147, 0, "secondary", ""); l(n, 155, 0, "primary", "") }, function (l, n) { l(n, 1, 0, gl["ɵnov"](n, 2).statusbarPadding); l(n, 6, 0, gl["ɵnov"](n, 7).scrollX, gl["ɵnov"](n, 7).scrollY); l(n, 9, 0, gl["ɵnov"](n, 10)._hidden, gl["ɵnov"](n, 10)._sbPadding); l(n, 25, 0, gl["ɵnov"](n, 26)._disabled, gl["ɵnov"](n, 31).ngClassUntouched, gl["ɵnov"](n, 31).ngClassTouched, gl["ɵnov"](n, 31).ngClassPristine, gl["ɵnov"](n, 31).ngClassDirty, gl["ɵnov"](n, 31).ngClassValid, gl["ɵnov"](n, 31).ngClassInvalid, gl["ɵnov"](n, 31).ngClassPending); l(n, 55, 0, gl["ɵnov"](n, 57).maxlength ? gl["ɵnov"](n, 57).maxlength : null, gl["ɵnov"](n, 61).ngClassUntouched, gl["ɵnov"](n, 61).ngClassTouched, gl["ɵnov"](n, 61).ngClassPristine, gl["ɵnov"](n, 61).ngClassDirty, gl["ɵnov"](n, 61).ngClassValid, gl["ɵnov"](n, 61).ngClassInvalid, gl["ɵnov"](n, 61).ngClassPending); l(n, 72, 0, gl["ɵnov"](n, 73)._disabled, gl["ɵnov"](n, 78).ngClassUntouched, gl["ɵnov"](n, 78).ngClassTouched, gl["ɵnov"](n, 78).ngClassPristine, gl["ɵnov"](n, 78).ngClassDirty, gl["ɵnov"](n, 78).ngClassValid, gl["ɵnov"](n, 78).ngClassInvalid, gl["ɵnov"](n, 78).ngClassPending); l(n, 92, 0, gl["ɵnov"](n, 94).maxlength ? gl["ɵnov"](n, 94).maxlength : null, gl["ɵnov"](n, 98).ngClassUntouched, gl["ɵnov"](n, 98).ngClassTouched, gl["ɵnov"](n, 98).ngClassPristine, gl["ɵnov"](n, 98).ngClassDirty, gl["ɵnov"](n, 98).ngClassValid, gl["ɵnov"](n, 98).ngClassInvalid, gl["ɵnov"](n, 98).ngClassPending); l(n, 109, 0, gl["ɵnov"](n, 110)._disabled, gl["ɵnov"](n, 115).ngClassUntouched, gl["ɵnov"](n, 115).ngClassTouched, gl["ɵnov"](n, 115).ngClassPristine, gl["ɵnov"](n, 115).ngClassDirty, gl["ɵnov"](n, 115).ngClassValid, gl["ɵnov"](n, 115).ngClassInvalid, gl["ɵnov"](n, 115).ngClassPending); l(n, 129, 0, gl["ɵnov"](n, 131).maxlength ? gl["ɵnov"](n, 131).maxlength : null, gl["ɵnov"](n, 135).ngClassUntouched, gl["ɵnov"](n, 135).ngClassTouched, gl["ɵnov"](n, 135).ngClassPristine, gl["ɵnov"](n, 135).ngClassDirty, gl["ɵnov"](n, 135).ngClassValid, gl["ɵnov"](n, 135).ngClassInvalid, gl["ɵnov"](n, 135).ngClassPending) }) } function sl(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "p", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["No posee contactos frecuentes"]))], null, null) } function cl(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 52, "ion-card", [["class", "frecuent-card"]], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, qn.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵeld"](3, 0, null, null, 48, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](4, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](6, 0, null, null, 36, "ion-col", [["class", "col"]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.selectFrecuent(l.context.$implicit) && u } return u }, null, null)), gl["ɵdid"](7, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](9, 0, null, null, 10, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](10, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵeld"](12, 0, null, null, 6, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](13, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n                  "])), (l()(), gl["ɵeld"](15, 0, null, null, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](16, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](17, 0, ["", ""])), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n\n          "])), (l()(), gl["ɵeld"](21, 0, null, null, 20, "ion-row", [["class", "row"]], null, null, null, null, null)), gl["ɵdid"](22, 16384, null, 0, te.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵeld"](24, 0, null, null, 16, "ion-col", [["class", "col"]], null, null, null, null, null)), gl["ɵdid"](25, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n                  "])), (l()(), gl["ɵeld"](27, 0, null, null, 12, "ion-card-content", [["class", "compact"]], null, null, null, null, null)), gl["ɵdid"](28, 16384, null, 0, On.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, null, ["\n                      "])), (l()(), gl["ɵeld"](30, 0, null, null, 2, "div", [], null, null, null, null, null)), (l()(), gl["ɵeld"](31, 0, null, null, 1, "span", [], null, null, null, null, null)), (l()(), gl["ɵted"](32, null, ["", ""])), (l()(), gl["ɵted"](-1, null, ["\n                      "])), (l()(), gl["ɵeld"](34, 0, null, null, 1, "span", [], null, null, null, null, null)), (l()(), gl["ɵted"](35, null, ["", ""])), (l()(), gl["ɵted"](-1, null, ["  |  "])), (l()(), gl["ɵeld"](37, 0, null, null, 1, "span", [], null, null, null, null, null)), (l()(), gl["ɵted"](38, null, ["", "-", ""])), (l()(), gl["ɵted"](-1, null, ["\n                  "])), (l()(), gl["ɵted"](-1, null, ["\n              "])), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](44, 0, null, null, 6, "ion-col", [["class", "col"], ["col-1", ""]], null, null, null, null, null)), gl["ɵdid"](45, 16384, null, 0, ae.a, [], null, null), (l()(), gl["ɵted"](-1, null, ["\n          "])), (l()(), gl["ɵeld"](47, 0, null, null, 2, "strong", [], null, null, null, null, null)), (l()(), gl["ɵeld"](48, 0, null, null, 1, "ion-icon", [["color", "primary"], ["name", "trash"], ["role", "img"]], [[2, "hide", null]], [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.deleteFrecuent(l.context.$implicit) && u } return u }, null, null)), gl["ɵdid"](49, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"], name: [1, "name"] }, null), (l()(), gl["ɵted"](-1, null, ["  \n      "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, null, ["\n  "]))], function (l, n) { l(n, 49, 0, "primary", "trash") }, function (l, n) { l(n, 17, 0, n.context.$implicit.nombre); l(n, 32, 0, n.context.$implicit.bancoDesc); l(n, 35, 0, n.context.$implicit.telefono); l(n, 38, 0, n.context.$implicit.tipo, n.context.$implicit.cedula); l(n, 48, 0, gl["ɵnov"](n, 49)._hidden) }) } function pl(l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 21, "ion-header", [], null, null, null, null, null)), gl["ɵdid"](1, 16384, null, 0, _n.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n  "])), (l()(), gl["ɵeld"](3, 0, null, null, 17, "ion-navbar", [["class", "toolbar"], ["color", "primary"]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, Tn.b, Tn.a)), gl["ɵdid"](4, 49152, null, 0, An.a, [bn.a, [2, hn.a], [2, vn.a], Cn.a, gl.ElementRef, gl.Renderer], { color: [0, "color"] }, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](6, 0, null, 3, 2, "ion-title", [], null, null, null, Mn.b, Mn.a)), gl["ɵdid"](7, 49152, null, 0, Dn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), (l()(), gl["ɵted"](-1, 0, ["\n      Contactos Frecuentes\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n\n    "])), (l()(), gl["ɵeld"](10, 0, null, 2, 9, "ion-buttons", [["end", ""]], null, null, null, null, null)), gl["ɵdid"](11, 16384, null, 1, He.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, Ln.a], [2, An.a]], null, null), gl["ɵqud"](603979776, 1, { _buttons: 1 }), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵeld"](14, 0, null, null, 4, "button", [], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.viewCtrl.dismiss() && u } return u }, null, null)), (l()(), gl["ɵted"](-1, null, ["\n        "])), (l()(), gl["ɵeld"](16, 0, null, null, 1, "ion-icon", [["name", "close-circle"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), gl["ɵdid"](17, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { name: [0, "name"] }, null), (l()(), gl["ɵted"](-1, null, ["\n      "])), (l()(), gl["ɵted"](-1, null, ["\n    "])), (l()(), gl["ɵted"](-1, 3, ["\n  "])), (l()(), gl["ɵted"](-1, null, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](23, 0, null, null, 19, "ion-content", [], [[2, "statusbar-padding", null]], null, null, Nn.b, Nn.a)), gl["ɵdid"](24, 4374528, null, 0, Sn.a, [Cn.a, yn.a, In.a, gl.ElementRef, gl.Renderer, bn.a, Rn.a, gl.NgZone, [2, hn.a], [2, vn.a]], null, null), (l()(), gl["ɵted"](-1, 1, ["\n  "])), (l()(), gl["ɵand"](16777216, null, 1, 1, null, sl)), gl["ɵdid"](27, 16384, null, 0, El.k, [gl.ViewContainerRef, gl.TemplateRef], { ngIf: [0, "ngIf"] }, null), (l()(), gl["ɵted"](-1, 1, ["\n\n  "])), (l()(), gl["ɵand"](16777216, null, 1, 1, null, cl)), gl["ɵdid"](30, 802816, null, 0, El.j, [gl.ViewContainerRef, gl.TemplateRef, gl.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (l()(), gl["ɵted"](-1, 1, ["\n\n  "])), (l()(), gl["ɵeld"](32, 0, null, 0, 9, "ion-fab", [["bottom", ""], ["right", ""]], null, null, null, uu.b, uu.a)), gl["ɵdid"](33, 1228800, null, 2, tu.a, [yn.a], null, null), gl["ɵqud"](335544320, 2, { _mainButton: 0 }), gl["ɵqud"](603979776, 3, { _fabLists: 1 }), (l()(), gl["ɵted"](-1, 0, ["\n    "])), (l()(), gl["ɵeld"](37, 0, null, 0, 3, "button", [["ion-fab", ""]], null, [[null, "click"]], function (l, n, e) { var u = !0; if ("click" === n) { u = !1 !== l.component.showAddFrecuentView() && u } return u }, Me.b, Me.a)), gl["ɵdid"](38, 49152, [[2, 4]], 0, De.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵeld"](39, 0, null, 0, 1, "ion-icon", [["name", "person-add"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), gl["ɵdid"](40, 147456, null, 0, ge.a, [Cn.a, gl.ElementRef, gl.Renderer], { name: [0, "name"] }, null), (l()(), gl["ɵted"](-1, 0, ["\n  "])), (l()(), gl["ɵted"](-1, 1, ["\n"])), (l()(), gl["ɵted"](-1, null, ["\n\n"])), (l()(), gl["ɵeld"](44, 0, null, null, 13, "ion-footer", [["class", "hideElementOnKeyboardShown"]], null, null, null, null, null)), gl["ɵdid"](45, 16384, null, 0, Jn.a, [Cn.a, gl.ElementRef, gl.Renderer, [2, hn.a]], null, null), (l()(), gl["ɵted"](-1, null, ["\n\t"])), (l()(), gl["ɵeld"](47, 0, null, null, 9, "ion-toolbar", [["class", "toolbar"]], [[2, "statusbar-padding", null]], null, null, Xn.b, Xn.a)), gl["ɵdid"](48, 49152, null, 0, Ln.a, [Cn.a, gl.ElementRef, gl.Renderer], null, null), (l()(), gl["ɵted"](-1, 3, ["\n    "])), (l()(), gl["ɵeld"](50, 0, null, 3, 1, "small", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Comercializado por"])), (l()(), gl["ɵeld"](52, 0, null, 3, 0, "br", [], null, null, null, null, null)), (l()(), gl["ɵeld"](53, 0, null, 3, 2, "small", [], null, null, null, null, null)), (l()(), gl["ɵeld"](54, 0, null, null, 1, "b", [], null, null, null, null, null)), (l()(), gl["ɵted"](-1, null, ["Corporación Unidigital C.A. J-40148330-5."])), (l()(), gl["ɵted"](-1, 3, ["\n\t"])), (l()(), gl["ɵted"](-1, null, ["\n"]))], function (l, n) { var e = n.component; l(n, 4, 0, "primary"); l(n, 17, 0, "close-circle"); l(n, 27, 0, e.contactCero); l(n, 30, 0, e.frecuentList); l(n, 40, 0, "person-add") }, function (l, n) { l(n, 3, 0, gl["ɵnov"](n, 4)._hidden, gl["ɵnov"](n, 4)._sbPadding); l(n, 16, 0, gl["ɵnov"](n, 17)._hidden); l(n, 23, 0, gl["ɵnov"](n, 24).statusbarPadding); l(n, 39, 0, gl["ɵnov"](n, 40)._hidden); l(n, 47, 0, gl["ɵnov"](n, 48)._sbPadding) }) } Object.defineProperty(n, "__esModule", { value: !0 }); var ml = e(61), gl = e(0), fl = (e(1), e(29), e(126)), hl = e(127), vl = e(128), bl = e(85), Cl = (e(246), e(421), function () { function l() { this.ngModelChange = new gl.EventEmitter } return l.prototype.validInput = function (l) { switch (this.inputType) { case 0: break; case 1: if (0 == "0123456789".includes(l.key)) return void l.preventDefault(); break; case 3: if (console.log("valid as 3 > " + l.keyCode), !(" ".includes(l.key) || l.key.match("[0-9]") || l.key.match("[a-z]") || l.key.match("[A-Z]"))) return void l.preventDefault(); if (42 == l.keyCode || 45 == l.keyCode || 47 == l.keyCode) return void l.preventDefault(); break; case 4: if (console.log("valid as 4 > " + l.keyCode), !(" .-_*".includes(l.key) || l.key.match("[0-9]") || l.key.match("[a-z]") || l.key.match("[A-Z]"))) return void l.preventDefault(); if (47 == l.keyCode) return void l.preventDefault() } }, l.prototype.onBlur = function (l) { l.value.length > 0 && (l.value = l.value.trim(), this.ngModelChange.emit(l.value)) }, l }()), yl = function () { function l() { this.ngModelChange = new gl.EventEmitter, this.DECIMAL_SEPARATOR = ",", this.THOUSANDS_SEPARATOR = ".", this.validInput = !0 } return l.prototype.format = function (l) { var n = l.toString().trim(); return this.validInput = !0, !isNaN(l) && n.length > 0 ? n.indexOf(".") < 0 && n.indexOf(",") < 0 ? (n = n.replace(/\B(?=(\d{3})+(?!\d))/g, this.THOUSANDS_SEPARATOR), n += ",00") : n.indexOf(".") == n.lastIndexOf(".") && n.indexOf(",") < 0 ? (n = (n = n.replace(".", ",")).substring(0, n.indexOf(",")).replace(/\B(?=(\d{3})+(?!\d))/g, this.THOUSANDS_SEPARATOR) + n.substring(n.indexOf(","), n.length)).lastIndexOf(",") == n.length - 1 && (n += "00") : n.indexOf(",") == n.lastIndexOf(",") && (n.indexOf(".") < 0 || n.lastIndexOf(".") < n.lastIndexOf(",")) && (n = (n = n.replace(/\./gi, "")).substring(0, n.indexOf(",")).replace(/\B(?=(\d{3})+(?!\d))/g, this.THOUSANDS_SEPARATOR) + n.substring(n.indexOf(","), n.length)).lastIndexOf(",") == n.length - 1 && (n += "00") : n.indexOf(",") > 0 && n.indexOf(",") == n.lastIndexOf(",") && (n.indexOf(".") < 0 || n.lastIndexOf(".") < n.lastIndexOf(",")) ? (n = (n = n.replace(/\./gi, "")).substring(0, n.indexOf(",")).replace(/\B(?=(\d{3})+(?!\d))/g, this.THOUSANDS_SEPARATOR) + n.substring(n.indexOf(","), n.length)).lastIndexOf(",") == n.length - 1 && (n += "00") : this.validInput = !1, n.indexOf(",") >= 0 ? (n.indexOf(",") + 3 < n.length && (n = n.substring(0, n.indexOf(",") + 3)), 0 == n.indexOf(",") && (n = "0" + n), n.indexOf(",") + 1 == n.length && (n += "00")) : "." == n && (n = "0,00"), this.validInput && !isNaN(Number(n.replace(/\./g, "").replace(",", "."))) && (n = Number(n.replace(/\./g, "").replace(",", ".")).toFixed(2).replace(/\./gi, ",").replace(/\B(?=(\d{3})+(?!\d))/g, ".")), this.ngModelChange.emit(n), n }, l.prototype.cleanFormat = function (l) { var n = l.toString(); if (this.validInput) { for (; n.indexOf(".") >= 0;)n = n.replace(".", ""); n = n.replace(",", ".") } return n }, l }(), Rl = function () { return function () { } }(), El = e(15), Pl = function () { function l() { } return l.prototype.transform = function (l, n) { if (void 0 == n || "DATETIME" != n.toUpperCase() && "TIME" != n.toUpperCase()) return new El.e("es").transform(l, "dd/MM/yyyy"); var e = " AM", u = "TIME" == n.toUpperCase(), t = l.substring(l.indexOf("T") + 1, l.length), a = t.substring(0, 2); return parseInt(a) > 12 ? (1 == (a = (parseInt(a) - 12).toString()).length && (a = "0" + a), e = " PM") : 12 == parseInt(a) && (e = " PM"), a = "00" == a ? "12" : a, (u ? "" : new El.e("es").transform(l, "dd/MM/yyyy") + " ") + a + t.substring(2, 5) + e }, l }(), wl = function () { return function () { } }(), Il = e(131), kl = (e(179), e(383), e(385), function () { function l(l, n, e, u) { this.http = l, this.alertCtrl = n, this.loadingCtrl = e, this.app = u, this.baseUrl = "https://pagop2p.bicentenariobu.com.ve/WebApiP2PPro", this.appVersion = "1.3.2", this.seed = "!*8ZHMp$jdW6b&hA!k*?94&T+Vnf2d*4g+4y$5CA_xhR6=RugXQ-+Lg2%$c$p$-GDb2d2TqneAvGZw&znV2r9Lx588KarqeFZMB?!MVKV6nNAJr2TE4^6TEhYAN^mc_B", this.onViewMsgPresent = !1, this.SESSION_EXPIRED = "995", this.timeout = 35e3, this.accountInfo = { balance: "0,00", dailyLimit: "0,00", monthLimit: "0,00" } } return l.prototype.displayMessage = function (l, n) { var e = this, u = this.alertCtrl.create({ title: l, subTitle: n, buttons: ["OK"] }); this.onViewMsgPresent = !0, u.onDidDismiss(function () { e.onViewMsgPresent = !1 }), u.present() }, l.prototype.showPasswordHelp = function (l) { for (var n = "<p>Debe contener: <ul> <li>Mínimo 8 caracteres y máximo 16 caracteres</li><li>Al menos una letra mayúscula y una minúscula</li><li>Al menos un número</li><li>Al menos un caracter especial</li></ul></p><p>No debe contener: <ul><li>3 caracteres iguales consecutivos</li><li>Su nombre de usuario</li><li>Su Documento de Identificación</li><li>Sus nombres o apellidos</li><li>Espacios en blanco</li><li>Alguna de las siguientes palabras:<ul>", e = 0; e < l.length; e++)n += "<li>" + l[e].palabra + "</li>"; this.alertCtrl.create({ title: "Ayuda", message: n += "</ul></li></ul></p>", buttons: ["OK"] }).present() }, l.prototype.validatePassword = function (l, n, e, u, t, a) { if (a.toLowerCase().indexOf(l.toLowerCase()) >= 0) return !1; if (a.indexOf(e.substring(1)) >= 0) return !1; for (var o = n.replace(",", "").split(" "), i = 0; i < o.length; i++)if (a.toLowerCase().indexOf(o[i].toLowerCase()) >= 0) return !1; for (i = 0; i < u.length; i++)if (a.toLowerCase().indexOf(u[i].palabra.toLowerCase()) >= 0) return !1; return new RegExp(t).test(a) }, l.prototype.showAffiliationFieldsHelp = function (l, n) { var e = "<p>Debe contener: <ul> <li>Mínimo 4 caracteres y máximo 16 caracteres</li></ul></p><p>No debe contener: <ul><li>Caracteres especiales</li><li>Su Documento de Identificación</li><li>Sus nombres o apellidos</li>"; n && (e += "<li>Espacios en blanco</li>"), e += "<li>Alguna de las siguientes palabras:<ul>"; for (var u = 0; u < l.length; u++)e += "<li>" + l[u].palabra + "</li>"; this.alertCtrl.create({ title: "Ayuda", message: e += "</ul></li></ul></p>", buttons: ["OK"] }).present() }, l.prototype.showAffiliationUsernameHelp = function (l, n) { var e = "<p>Debe contener: <ul> <li>Mínimo 4 caracteres y máximo 16 caracteres</li></ul></p><p>No debe contener: <ul><li>Caracteres especiales</li><li>Su Documento de Identificación</li>"; n && (e += "<li>Espacios en blanco</li>"), e += "<li>Alguna de las siguientes palabras:<ul>"; for (var u = 0; u < l.length; u++)e += "<li>" + l[u].palabra + "</li>"; this.alertCtrl.create({ title: "Ayuda", message: e += "</ul></li></ul></p>", buttons: ["OK"] }).present() }, l.prototype.validateAffiliationFields = function (l, n, e, u) { if (u.indexOf(n.substring(1)) >= 0) return !1; for (var t = l.replace(",", "").split(" "), a = 0; a < t.length; a++)if (u.toLowerCase().indexOf(t[a].toLowerCase()) >= 0) return !1; for (a = 0; a < e.length; a++)if (u.toLowerCase().indexOf(e[a].palabra.toLowerCase()) >= 0) return !1; return !0 }, l.prototype.validateAffiliationUsername = function (l, n, e) { if (e.indexOf(l.substring(1)) >= 0) return !1; for (var u = 0; u < n.length; u++)if (e.toLowerCase().indexOf(n[u].palabra.toLowerCase()) >= 0) return !1; return !0 }, l.prototype.tokenRequest = function (l, n) { var e = this; this.user = l, this.password = Il.SHA512(n).toString(); var u, t = new vl.d; return t.set("Accept", "application/json; charset=utf-8"), t.append("Content-Type", "application/x-www-form-urlencoded"), u = new vl.i({ headers: t }), new Promise(function (n, t) { e.http.post(e.baseUrl + "/Token", "grant_type=password&username=" + l + "&password=" + e.password, u).map(function (l) { return l.json() }).timeout(e.timeout).subscribe(function (l) { e.data = l, e.token = l, n(e.data) }, function (l) { if (0 == l.status) e.displayMessage("Error", "Fallo en la conexión"); else if (l.name && "TimeoutError" == l.name) e.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."); else try { e.displayMessage("Error", JSON.parse(l._body).Message) } catch (l) { e.displayMessage("Error", "Ha ocurrido un error, intente nuevamente") } n(l) }) }) }, l.prototype.loginRequest = function (l) { var n = this; this.data = null; var e, u = new vl.d; u.set("Accept", "application/json; charset=utf-8"), u.append("Authorization", "Bearer " + this.token.access_token), e = new vl.i({ headers: u }); var t = l; return new Promise(function (l, u) { n.http.post(n.baseUrl + "/api/Afiliacion/Loginmovil", t, e).map(function (l) { return l.json() }).timeout(n.timeout).subscribe(function (e) { n.loginData = e, n.data = e, l(n.data) }, function (e) { 0 == e.status ? n.displayMessage("Error", "Fallo en la conexión") : e.name && "TimeoutError" == e.name && n.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), l(e) }) }) }, l.prototype.logoutRequest = function () { var l, n = this, e = new vl.d; return e.set("Accept", "application/json; charset=utf-8"), e.append("Authorization", "Bearer " + this.token.access_token), l = new vl.i({ headers: e }), new Promise(function (e, u) { n.http.post(n.baseUrl + "/api/Account/Logout", null, l).map(function (l) { return l.json() }).timeout(n.timeout).subscribe(function (l) { e(l) }, function (l) { 0 == l.status ? n.displayMessage("Error", "Fallo en la conexión") : l.name && "TimeoutError" == l.name && n.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), e(l) }) }) }, l.prototype.paymentsRequest = function (l) { var n = this; this.data = null; var e, u = new vl.d; u.set("Accept", "application/json; charset=utf-8"), u.append("Authorization", "Bearer " + this.token.access_token), e = new vl.i({ headers: u }); var t = l; return new Promise(function (l, u) { n.http.post(n.baseUrl + "/api/Movimientos/ListasMovEmiRec", t, e).map(function (l) { return l.json() }).timeout(n.timeout).subscribe(function (e) { n.sentPayments = e, n.data = e, l(n.data) }, function (e) { 0 == e.status ? n.displayMessage("Error", "Fallo en la conexión") : e.name && "TimeoutError" == e.name && n.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), l(e) }) }) }, l.prototype.paymentP2PRequest = function (l) { var n = this; this.data = null; var e, u = new vl.d; u.set("Accept", "application/json; charset=utf-8"), u.append("Authorization", "Bearer " + this.token.access_token), e = new vl.i({ headers: u }), l.firma = Il.SHA512(this.seed + l.username + l.codinstreceptor + l.tlfdestino + l.identificacion + l.monto).toString().toUpperCase(); var t = l; return new Promise(function (l, u) { n.http.post(n.baseUrl + "/api/Finance/Pagop2p", t, e).map(function (l) { return l.json() }).timeout(n.timeout).subscribe(function (e) { n.p2pData = e, n.data = e, l(n.data) }, function (e) { 0 == e.status ? n.displayMessage("Error", "Fallo en la conexión") : e.name && "TimeoutError" == e.name && n.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), l(e) }) }) }, l.prototype.changePasswordRequest = function (l) { var n = this; this.data = null; var e, u = new vl.d; u.set("Accept", "application/json; charset=utf-8"), u.append("Authorization", "Bearer " + this.token.access_token), e = new vl.i({ headers: u }); var t = l; return new Promise(function (l, u) { n.http.post(n.baseUrl + "/api/Account/ChangePassword", t, e).map(function (l) { return l.json() }).timeout(n.timeout).subscribe(function (e) { n.changePasswordData = e, n.data = e, l(n.data) }, function (e) { 0 == e.status ? n.displayMessage("Error", "Fallo en la conexión") : e.name && "TimeoutError" == e.name && n.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), l(e) }) }) }, l.prototype.questionRequest = function (l) { var n = this; this.data = null; var e, u = new vl.d; return u.set("Accept", "application/json; charset=utf-8"), e = new vl.i({ headers: u }), new Promise(function (u, t) { n.http.post(n.baseUrl + "/api/Afiliacion/BuscarDesafio", l, e).map(function (l) { return l.json() }).timeout(n.timeout).subscribe(function (l) { n.questionRequestData = l, n.data = l, u(n.data) }, function (l) { 0 == l.status ? n.displayMessage("Error", "Fallo en la conexión") : l.name && "TimeoutError" == l.name && n.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), u(l) }) }) }, l.prototype.resetPasswordRequest = function (l) { var n = this; this.data = null; var e, u = new vl.d; return u.set("Accept", "application/json; charset=utf-8"), e = new vl.i({ headers: u }), new Promise(function (u, t) { n.http.post(n.baseUrl + "/api/Account/ResetPassword", l, e).map(function (l) { return l.json() }).timeout(n.timeout).subscribe(function (l) { n.resetRequestData = l, n.data = l, u(n.data) }, function (l) { 0 == l.status ? n.displayMessage("Error", "Fallo en la conexión") : l.name && "TimeoutError" == l.name && n.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), u(l) }) }) }, l.prototype.getAffiliationDocTypes = function () { var l, n = this, e = new vl.d; return l = new vl.i({ headers: e }), new Promise(function (e, u) { n.http.get(n.baseUrl + "/api/Afiliacion/TiposAfiliados", l).map(function (l) { return l.json() }).timeout(n.timeout).subscribe(function (l) { e(l) }, function (l) { 0 == l.status ? n.displayMessage("Error", "Fallo en la conexión") : l.name && "TimeoutError" == l.name && n.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), e(l) }) }) }, l.prototype.getClientPhones = function (l, n) { var e, u = this, t = { Tipo: n, Cedula: l.toString().trim() }, a = new vl.d; return a.set("Accept", "application/json; charset=utf-8"), e = new vl.i({ headers: a }), new Promise(function (l, n) { u.http.post(u.baseUrl + "/api/Afiliacion/BuscarTelefonos", t, e).map(function (l) { return l.json() }).timeout(u.timeout).subscribe(function (n) { l(n) }, function (n) { 0 == n.status ? u.displayMessage("Error", "Fallo en la conexión") : n.name && "TimeoutError" == n.name && u.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), l(n) }) }) }, l.prototype.getAffiliationCode = function (l, n, e) { var u, t = this, a = { Tipo: l, Cedula: n, Telefono: e, Firma: Il.SHA512(this.seed + "" + l + n + e).toString().toUpperCase() }, o = new vl.d; return o.set("Accept", "application/json; charset=utf-8"), u = new vl.i({ headers: o }), new Promise(function (l, n) { t.http.post(t.baseUrl + "/api/Afiliacion/GenerarToken", a, u).map(function (l) { return l.json() }).timeout(t.timeout).subscribe(function (n) { l(n) }, function (n) { 0 == n.status ? t.displayMessage("Error", "Fallo en la conexión") : n.name && "TimeoutError" == n.name && t.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), l(n) }) }) }, l.prototype.validAffiliationCode = function (l, n) { var e, u = this, t = Il.SHA512(this.seed + "" + l.docType + l.docNumber + l.accountLast + n.toUpperCase()).toString().toUpperCase(), a = { Tipo: l.docType, Cedula: l.docNumber, Cuenta: l.accountLast, Otp: n.toUpperCase(), Firma: t }, o = new vl.d; return o.set("Accept", "application/json; charset=utf-8"), e = new vl.i({ headers: o }), new Promise(function (l, n) { u.http.post(u.baseUrl + "/api/Afiliacion/ValidarToken", a, e).map(function (l) { return l.json() }).timeout(u.timeout).subscribe(function (n) { l(n) }, function (n) { 0 == n.status ? u.displayMessage("Error", "Fallo en la conexión") : n.name && "TimeoutError" == n.name && u.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), l(n) }) }) }, l.prototype.sendUserAffiliation = function (l) { var n, e = this, u = Il.SHA512(l.psw).toString(), t = Il.SHA512(l.securityKey).toString(), a = Il.SHA512(l.questionAns).toString(), o = Il.SHA512(this.seed + l.userName + l.userName + u + "04" + l.docType + l.docNumber + l.userType + l.name + l.id + l.email + l.account + l.phone + t + l.questionSec + a + "0" + l.validationKey).toString().toUpperCase(), i = { ususesion: l.userName, canal: "04", fechahora_disp: new Date, id_cliente: l.id, clase_persona: l.userType, tipo: l.docType, cedula: l.docNumber, nombre: l.name, nro_cuenta: l.account, email: l.email, abonado: l.phone, username: l.userName, password: u, token: t, Firma: o, pregunta_desafio: l.questionSec, respuesta_desafio: a, tipo_limites: "0", min_trn_sms: "0", max_trn_sms: "0", min_trn_app: "0", max_trn_app: "0", lim_diario_sms: "0", lim_diario_app: "0", lim_mensual_sms: "0", lim_mensual_app: "0", otp: l.validationKey }, d = new vl.d; return d.set("Accept", "application/json; charset=utf-8"), n = new vl.i({ headers: d }), new Promise(function (l, u) { e.http.post(e.baseUrl + "/api/Account/Register", i, n).map(function (l) { return l.json() }).timeout(e.timeout).subscribe(function (n) { l(n) }, function (n) { 0 == n.status ? e.displayMessage("Error", "Fallo en la conexión") : n.name && "TimeoutError" == n.name && e.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), l(n) }) }) }, l.prototype.searchFrecuentList = function () { var l, n = this, e = new vl.d; e.set("Accept", "application/json; charset=utf-8"), e.append("Authorization", "Bearer " + this.token.access_token), l = new vl.i({ headers: e }); var u = { canal: "04", username: this.user }; return new Promise(function (e, t) { n.http.post(n.baseUrl + "/api/PagosFrecuentes/BuscarFrecuentes", u, l).map(function (l) { return l.json() }).timeout(n.timeout).subscribe(function (l) { e(l) }, function (l) { 0 == l.status ? n.displayMessage("Error", "Fallo en la conexión") : l.name && "TimeoutError" == l.name && n.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), e(l) }) }) }, l.prototype.modifyFrecuentList = function (l, n) { var e, u = this, t = new vl.d; t.set("Accept", "application/json; charset=utf-8"), t.append("Authorization", "Bearer " + this.token.access_token), e = new vl.i({ headers: t }); var a = { canal: "04", username: this.user, tipo: l.tipo, cedula: l.cedula, nombre: l.nombre, telefono: l.telefono, banco: l.banco }; return new Promise(function (l, t) { u.http.post(u.baseUrl + "/api/PagosFrecuentes/" + (n ? "EliminarFrecuentes" : "IncluirFrecuentes"), a, e).map(function (l) { return l.json() }).timeout(u.timeout).subscribe(function (n) { l(n) }, function (n) { 0 == n.status ? u.displayMessage("Error", "Fallo en la conexión") : n.name && "TimeoutError" == n.name && u.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), l(n) }) }) }, l.prototype.companyBalanceRequest = function () { var l, n = this, e = new vl.d, u = { username: this.user, canal: "04" }; return e.append("Authorization", "Bearer " + this.token.access_token), l = new vl.i({ headers: e }), new Promise(function (e, t) { n.http.post(n.baseUrl + "/api/P2C/ListasMovRecTot", u, l).map(function (l) { return l.json() }).timeout(n.timeout).subscribe(function (l) { e(l) }, function (l) { 0 == l.status ? n.displayMessage("Error", "Fallo en la conexión") : l.name && "TimeoutError" == l.name && n.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), e(l) }) }) }, l.prototype.companyTranBalanceRequest = function (l, n, e) { var u, t = this, a = new vl.d; a.append("Authorization", "Bearer " + this.token.access_token), u = new vl.i({ headers: a }); var o = { username: this.user, modo: null != l && null != n ? 1 : 0, horamindesde: l, horaminhasta: n, ultimo: null == e ? 0 : e, canal: "04" }; return new Promise(function (l, n) { t.http.post(t.baseUrl + "/api/P2C/ListasMovRecDet", o, u).map(function (l) { return l.json() }).timeout(t.timeout).subscribe(function (n) { l(n) }, function (n) { 0 == n.status ? t.displayMessage("Error", "Fallo en la conexión") : n.name && "TimeoutError" == n.name && t.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), l(n) }) }) }, l.prototype.companyPhoneBalanceRequest = function (l, n) { var e, u = this, t = new vl.d; t.append("Authorization", "Bearer " + this.token.access_token), e = new vl.i({ headers: t }); var a = { username: this.user, modo: 2, telefono: l, ultimo: null == n ? 0 : n, canal: "04" }; return new Promise(function (l, n) { u.http.post(u.baseUrl + "/api/P2C/ListasMovRecTlf", a, e).map(function (l) { return l.json() }).timeout(u.timeout).subscribe(function (n) { l(n) }, function (n) { 0 == n.status ? u.displayMessage("Error", "Fallo en la conexión") : n.name && "TimeoutError" == n.name && u.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), l(n) }) }) }, l.prototype.userSecurityChangeRequest = function (l) { var n, e = this, u = new vl.d; u.set("Accept", "application/json; charset=utf-8"), n = new vl.i({ headers: u }); var t = { usuario: l, canal: "04" }; return new Promise(function (l, u) { e.http.post(e.baseUrl + "/api/Afiliacion/GenerarOTP", t, n).map(function (l) { return l.json() }).timeout(e.timeout).subscribe(function (n) { l(n) }, function (n) { 0 == n.status ? e.displayMessage("Error", "Fallo en la conexión") : n.name && "TimeoutError" == n.name && e.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), l(n) }) }) }, l.prototype.userSecurityChangeQA = function (l, n, e, u) { var t, a = this, o = new vl.d; o.set("Accept", "application/json; charset=utf-8"), t = new vl.i({ headers: o }); var i = Il.SHA512(this.seed + l.trim() + n.trim() + Il.SHA512(e.trim()).toString().toUpperCase() + "04" + u.trim()).toString().toUpperCase(), d = { username: l.trim(), pregunta_desafio: n.trim(), respuesta_desafio: Il.SHA512(e.trim()).toString().toUpperCase(), otp: u.trim(), firma: i, canal: "04" }; return new Promise(function (l, n) { a.http.post(a.baseUrl + "/api/Afiliacion/modificarDesafio", d, t).map(function (l) { return l.json() }).timeout(a.timeout).subscribe(function (n) { l(n) }, function (n) { 0 == n.status ? a.displayMessage("Error", "Fallo en la conexión") : n.name && "TimeoutError" == n.name && a.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido."), l(n) }) }) }, l.prototype.logout = function () { this.displayMessage("Aviso", "La sesión ha caducado, por favor ingrese nuevamente"), this.app.getActiveNav().popToRoot() }, l }()), xl = e(174), _l = function () { function l(l) { this.viewCtrl = l } return l.prototype.takeTermsAction = function (l) { this.viewCtrl.dismiss({ id: l }) }, l }(), Tl = e(26), Al = function () { function l(l, n, e, u, t, a) { this.navCtrl = l, this.navParams = n, this.p2pServiceProvider = e, this.modalCtrl = u, this.alertCtrl = t, this.loadingCtrl = a; var o = n.get("clientInfo"); this.clientInfo = { id: o.id, userType: "N", name: o.name, docType: o.docType, docNumber: o.docNumber, email: o.email, phone: o.phone, validationKey: o.validationKey, account: "", userName: "", psw: "", pswConfirm: "", securityKey: "", questionSec: "", questionAns: "" }, this.accounts = o.accounts, this.regexPsw = o.regexPsw, this.forbidden = o.forbidden } return l.prototype.displayMessage = function (l, n, e) { this.alertCtrl.create({ title: l, subTitle: n, buttons: [e] }).present() }, l.prototype.cancelAffiliation = function () { this.navCtrl.popToRoot() }, l.prototype.showPasswordHelp = function () { this.p2pServiceProvider.showPasswordHelp(this.forbidden) }, l.prototype.showUserNameHelp = function () { this.p2pServiceProvider.showAffiliationUsernameHelp(this.forbidden, !0) }, l.prototype.showSecurityHelp = function () { this.p2pServiceProvider.showAffiliationFieldsHelp(this.forbidden, !1) }, l.prototype.sendAffiliation = function () { var l = this; if ("" == this.clientInfo.account) this.displayMessage("Error", "Debe seleccionar un número de cuenta.", "Cerrar"); else if ("" == this.clientInfo.userName || this.clientInfo.userName.length < 4 || 0 == new RegExp(/^[a-z0-9]+$/gi).test(this.clientInfo.userName) || 0 == this.p2pServiceProvider.validateAffiliationUsername(this.clientInfo.docType + "" + this.clientInfo.docNumber, this.forbidden, this.clientInfo.userName)) { this.alertCtrl.create({ title: "Error", subTitle: "El usuario no cumple con los requisitos.", buttons: [{ text: "OK" }, { text: "AYUDA", handler: function () { l.showUserNameHelp() } }] }).present() } else if ("" == this.clientInfo.psw || "" == this.clientInfo.pswConfirm) this.displayMessage("Error", "Debe ingresar la clave y su confirmación", "Cerrar"); else if ("" == this.clientInfo.questionSec || this.clientInfo.questionSec.length < 4 || 0 == new RegExp(/^[a-z0-9\s]+$/gi).test(this.clientInfo.questionSec) || 0 == this.p2pServiceProvider.validateAffiliationFields(this.clientInfo.name, this.clientInfo.docType + "" + this.clientInfo.docNumber, this.forbidden, this.clientInfo.questionSec)) { this.alertCtrl.create({ title: "Error", subTitle: "La pregunta secreta no cumple con los requisitos.", buttons: [{ text: "OK" }, { text: "AYUDA", handler: function () { l.showSecurityHelp() } }] }).present() } else if ("" == this.clientInfo.questionAns || this.clientInfo.questionAns.length < 4 || 0 == new RegExp(/^[a-z0-9\s]+$/gi).test(this.clientInfo.questionAns) || 0 == this.p2pServiceProvider.validateAffiliationFields(this.clientInfo.name, this.clientInfo.docType + "" + this.clientInfo.docNumber, this.forbidden, this.clientInfo.questionAns)) { this.alertCtrl.create({ title: "Error", subTitle: "La respuesta secreta no cumple con los requisitos.", buttons: [{ text: "OK" }, { text: "AYUDA", handler: function () { l.showSecurityHelp() } }] }).present() } else if (0 == this.clientInfo.securityKey.length) this.displayMessage("Error", "Debe ingresar la Clave Tu Pago Móvil (SMS).", "Cerrar"); else if (this.clientInfo.psw != this.clientInfo.pswConfirm) this.displayMessage("Error", "La confirmación de la clave debe ser igual a la clave ingresada.", "Cerrar"); else if (0 == new RegExp("[0-9]{4}").test(this.clientInfo.securityKey)) this.displayMessage("Error", "La Clave Tu Pago Móvil (SMS) debe ser de 4 números.", "Cerrar"); else if (0 == this.p2pServiceProvider.validatePassword(this.clientInfo.userName, this.clientInfo.name, this.clientInfo.docType + "" + this.clientInfo.docNumber, this.forbidden, this.regexPsw, this.clientInfo.psw)) { this.alertCtrl.create({ title: "Error", subTitle: "La nueva contraseña no cumple con los requisitos.", buttons: [{ text: "OK" }, { text: "AYUDA", handler: function () { l.showPasswordHelp() } }] }).present() } else { var n = this.modalCtrl.create(_l); n.onDidDismiss(function (n) { if (1 == n.id) { var e = l.loadingCtrl.create({ content: "Procesando..." }); e.present().then(function () { l.p2pServiceProvider.sendUserAffiliation(l.clientInfo).then(function (n) { var u = n; u.cod_respuesta && !isNaN(u.cod_respuesta) && 0 == parseInt(u.cod_respuesta) ? (e.dismiss(), l.displayMessage("Afiliación", "Usuario afiliado exitosamente", "OK"), l.navCtrl.popToRoot()) : (l.displayMessage("Error", u.cod_respuesta && u.descripcion_respuesta ? u.cod_respuesta + " - " + u.descripcion_respuesta : "Error de comunicación, mensaje no disponible", "Cerrar"), e.dismiss()) }) }) } }), n.present() } }, l }(), Ml = e(134), Dl = function () { function l(l, n, e, u, t) { this.navCtrl = l, this.navParams = n, this.p2pServiceProvider = e, this.loadingCtrl = u, this.alertCtrl = t, this.counter = 300, this.clientInfo = { docType: n.get("clientIdType"), docNumber: n.get("clientId"), phone: n.get("clientPhone"), id: "", name: "", email: "", accountLast: "", accounts: [], regexPsw: "", forbidden: [], validationKey: "" } } return l.prototype.ionViewDidLoad = function () { var l = this; this.countDown = Ml.Observable.timer(0, 1e3).take(this.counter).map(function () { return l.counter = 0 == l.counter ? 0 : l.counter % 100 == 0 ? l.counter - 41 : l.counter - 1 }) }, l.prototype.cancelAffiliation = function () { this.navCtrl.popToRoot() }, l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["Cerrar"] }).present() }, l.prototype.sendVerificationData = function () { var l = this; if (this.validCode && this.idAccount && this.validCode.length >= 8 && 4 == this.idAccount.toString().trim().length && !isNaN(this.idAccount.valueOf()) && "0000" != this.idAccount.toString() && this.validCode.match("^[a-zA-Z0-9]*$")) { this.clientInfo.accountLast = this.idAccount.toString(), this.clientInfo.validationKey = this.validCode.toUpperCase(); var n = this.loadingCtrl.create({ content: "Procesando..." }); n.present().then(function () { l.p2pServiceProvider.validAffiliationCode(l.clientInfo, l.validCode).then(function (e) { var u = e; if (u.cod_respuesta && !isNaN(u.cod_respuesta) && 0 == parseInt(u.cod_respuesta)) { l.clientInfo.id = u.nro_cliente, l.clientInfo.name = u.nombre, l.clientInfo.email = u.email, l.clientInfo.forbidden = u.PalabrasRestringidas, l.clientInfo.regexPsw = u.expresion_regular; for (var t = [{ id: u.cuentas[0] }], a = 1; a < u.cuentas.length;)t.push({ id: u.cuentas[a] }), a++; l.clientInfo.accounts = t, n.dismiss(), l.navCtrl.push(Al, { clientInfo: l.clientInfo }) } else l.displayMessage("Error", u.cod_respuesta && u.descripcion_respuesta ? u.cod_respuesta + " - " + u.descripcion_respuesta : "Error de comunicación, mensaje no disponible"), n.dismiss() }) }) } else this.idAccount && (isNaN(this.idAccount.valueOf()) || "0000" == this.idAccount.toString()) ? this.displayMessage("Error", "Debe ingresar un código de cuenta valido.") : this.validCode && !this.validCode.match("^[a-zA-Z0-9]*$") ? this.displayMessage("Error", "El código de validación debe solo contener letras y/o números.") : this.displayMessage("Error", "Debe completar los datos correctamente") }, l.prototype.resendValidCode = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); n.present().then(function () { l.p2pServiceProvider.getAffiliationCode(l.clientInfo.docType, l.clientInfo.docNumber, l.clientInfo.phone).then(function (e) { var u = e; u.cod_respuesta && !isNaN(u.cod_respuesta) && 0 == parseInt(u.cod_respuesta) ? (n.dismiss(), l.counter = 300, l.ionViewDidLoad()) : (l.displayMessage("Error", u.cod_respuesta && u.descripcion_respuesta ? u.cod_respuesta + " - " + u.descripcion_respuesta : "Error de comunicación, mensaje no disponible"), n.dismiss()) }) }) }, l }(), Ll = e(23), Nl = e(30), Sl = function () { function l(l, n, e, u, t, a) { this.navCtrl = l, this.navParams = n, this.formBuilder = e, this.loadingCtrl = u, this.p2pServiceProvider = t, this.alertCtrl = a, this.clientID = n.get("clientId"), this.clientIdType = n.get("clientIdType"), this.chooseForm = this.formBuilder.group({ phoneChoose: "" }), this.phones = this.navParams.get("phones") } return l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["Cerrar"] }).present() }, l.prototype.cancelAffiliation = function () { this.navCtrl.popToRoot() }, l.prototype.notifyPhoneChoose = function () { var l = this; if (0 == this.chooseForm.get("phoneChoose").value.length) this.displayMessage("Error", "Debe seleccionar un teléfono"); else { var n = this.loadingCtrl.create({ content: "Procesando..." }); n.present().then(function () { l.p2pServiceProvider.getAffiliationCode(l.clientIdType, l.clientID, l.chooseForm.get("phoneChoose").value).then(function (e) { var u = e; u.cod_respuesta && !isNaN(u.cod_respuesta) && 0 == parseInt(u.cod_respuesta) ? (n.dismiss(), l.navCtrl.push(Dl, { clientId: l.clientID, clientIdType: l.clientIdType, clientPhone: l.chooseForm.get("phoneChoose").value })) : (l.displayMessage("Error", u.cod_respuesta && u.descripcion_respuesta ? u.cod_respuesta + " - " + u.descripcion_respuesta : "Error de comunicación, mensaje no disponible"), n.dismiss()) }) }) } }, l }(), ql = function () { function l(l, n, e, u, t, a) { this.navCtrl = l, this.navParams = n, this.alertCtrl = e, this.platform = u, this.loadingCtrl = t, this.p2pServiceProvider = a, this.docTypeList(), this.navCtrl.swipeBackEnabled = !1 } return l.prototype.ionViewWillLeave = function () { console.log("function" == typeof this.unregisterBackAction), this.unregisterBackAction && "function" == typeof this.unregisterBackAction && this.unregisterBackAction() }, l.prototype.cancelAffiliation = function () { this.ionViewWillLeave(), this.navCtrl.popToRoot() }, l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["OK"] }).present() }, l.prototype.docTypeList = function () { var l = this, n = this.loadingCtrl.create({ content: "Espere por favor" }); n.present().then(function () { l.p2pServiceProvider.getAffiliationDocTypes().then(function (e) { var u = e; u.cod_respuesta && !isNaN(u.cod_respuesta) && 0 == parseInt(u.cod_respuesta) ? (n.dismiss(), l.typesList = u.TiposAfiliados) : (l.displayMessage("Error", u.cod_respuesta && u.descripcion_respuesta ? u.cod_respuesta + " - " + u.descripcion_respuesta : "Error de comunicación, mensaje no disponible"), n.dismiss()) }) }) }, l.prototype.validClientID = function () { var l = this; if (!this.idType || "" == this.idType.toString() || !this.id || this.id.toString().length < 6) this.displayMessage("Error", "Debe ingresar un documento de identificación válido"); else if (isNaN(this.id.valueOf()) || 0 == this.id.toString().trim().length) this.displayMessage("Error", "Debe ingresar solo números en el número de documento"); else { var n = this.loadingCtrl.create({ content: "Procesando..." }); this.p2pServiceProvider.onViewMsgPresent = !0, n.onDidDismiss(function () { l.p2pServiceProvider.onViewMsgPresent = !1 }), n.present().then(function () { l.p2pServiceProvider.getClientPhones(l.id, l.idType).then(function (e) { var u = e; console.log("Valid res " + u + " with property " + u.Telefonos), u.cod_respuesta && !isNaN(u.cod_respuesta) && 0 == parseInt(u.cod_respuesta) ? (n.dismiss(), l.navCtrl.push(Sl, { clientId: l.id, clientIdType: l.idType, phones: u.Telefonos })) : (l.displayMessage("Error", u.cod_respuesta && u.descripcion_respuesta ? u.cod_respuesta + " - " + u.descripcion_respuesta : "Error de comunicación, mensaje no disponible"), n.dismiss(), l.cancelAffiliation()) }) }) } }, l }(), Ol = function () { function l(l, n, e, u, t) { this.navCtrl = l, this.navParams = n, this.alertCtrl = e, this.loadingCtrl = u, this.p2pServiceProvider = t, this.questionObject = { username: "", pregunta: "", expresion_regular: "", cedula: "", nombre_afiliado: "", lista_palabras: [{ palabra: "" }] }, this.reset = { codigo: "", newPasswordConfirm: "", newPassword: "", respuesta: "" }, this.counter = 300, this.questionObject.username = n.get("usuario"), this.questionObject.pregunta = n.get("pregunta"), this.questionObject.expresion_regular = n.get("expresion_regular"), this.questionObject.cedula = n.get("cedula"), this.questionObject.nombre_afiliado = n.get("nombre_afiliado"), this.questionObject.lista_palabras = n.get("lista_palabras") } return l.prototype.ionViewDidLoad = function () { var l = this; this.countDown = Ml.Observable.timer(0, 1e3).take(this.counter).map(function () { return l.counter = 0 == l.counter ? 0 : l.counter % 100 == 0 ? l.counter - 41 : l.counter - 1 }) }, l.prototype.showPasswordHelp = function () { this.p2pServiceProvider.showPasswordHelp(this.questionObject.lista_palabras) }, l.prototype.validate = function () { var l = this; if ("" == this.reset.newPassword || "" == this.reset.newPasswordConfirm && "" == this.reset.respuesta) this.displayMessage("Error", "Complete todos los campos correctamente."); else if (this.reset.codigo.trim().length < 8) this.displayMessage("Error", "El código de seguridad debe contener mínimo 8 letras y/o números"); else if (this.reset.codigo.match("^[a-zA-Z0-9]*$")) if (this.reset.newPassword != this.reset.newPasswordConfirm) this.displayMessage("Error", "Las contraseñas deben ser iguales."); else if (0 == this.p2pServiceProvider.validatePassword(this.questionObject.username, this.questionObject.nombre_afiliado, this.questionObject.cedula, this.questionObject.lista_palabras, this.questionObject.expresion_regular, this.reset.newPassword)) { this.alertCtrl.create({ title: "Error", subTitle: "La nueva contraseña no cumple con los requisitos.", buttons: [{ text: "OK" }, { text: "AYUDA", handler: function () { l.showPasswordHelp() } }] }).present() } else this.resetRequest(); else this.displayMessage("Error", "El código de seguridad debe solo contener letras y/o números") }, l.prototype.resetRequest = function () { var l = this, n = { username: this.questionObject.username, newpassword: Il.SHA512(this.reset.newPassword).toString(), respuesta: Il.SHA512(this.reset.respuesta).toString().toUpperCase(), canal: "04", otp: this.reset.codigo, fechahora_disp: new Date }, e = this.loadingCtrl.create({ content: "Procesando..." }); e.present().then(function () { l.p2pServiceProvider.resetPasswordRequest(n).then(function (n) { l.resetRequestData = n, null == l.resetRequestData._body && null == l.resetRequestData.name && "000" == l.resetRequestData.cod_respuesta ? (l.displayMessage("Aviso", "Operación Exitosa"), e.dismiss(), l.navCtrl.setRoot(Yl), l.navCtrl.popToRoot()) : (null == l.resetRequestData._body && null == l.resetRequestData.name && l.displayMessage("Error", l.resetRequestData.cod_respuesta + " - " + l.resetRequestData.descripcion_respuesta), e.dismiss()) }) }) }, l.prototype.resendValidCode = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); n.present().then(function () { l.p2pServiceProvider.userSecurityChangeRequest(l.questionObject.username.toLowerCase()).then(function (e) { var u = e; null == u._body && null == u.name && 0 == parseInt(u.cod_respuesta) ? (n.dismiss(), l.counter = 300, l.ionViewDidLoad()) : (null == u._body && null == u.name && l.displayMessage("Error", u.cod_respuesta + " - " + u.descripcion_respuesta), n.dismiss()) }) }) }, l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["OK"] }).present() }, l }(), jl = function () { function l(l, n, e, u, t, a) { this.navCtrl = l, this.navParams = n, this.alertCtrl = e, this.platform = u, this.loadingCtrl = t, this.p2pServiceProvider = a, this.counter = 300, this.securityInfo = { username: "", userId: "", baseRegExp: "", forbidden: "" }, this.navCtrl.swipeBackEnabled = !1, this.securityCode = "", this.securityQuestion = "", this.securityAnswer = "", this.securityInfo.username = n.get("usuario"), this.securityInfo.baseRegExp = n.get("expresion_regular"), this.securityInfo.userId = n.get("cedula"), this.securityInfo.forbidden = n.get("lista_palabras"), n.get("isLoginCall") && this.resendValidCode() } return l.prototype.ionViewDidLoad = function () { var l = this; this.countDown = Ml.Observable.timer(0, 1e3).take(this.counter).map(function () { return l.counter = 0 == l.counter ? 0 : l.counter % 100 == 0 ? l.counter - 41 : l.counter - 1 }) }, l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["OK"] }).present() }, l.prototype.showSecurityHelp = function () { this.p2pServiceProvider.showAffiliationFieldsHelp(this.securityInfo.forbidden, !1) }, l.prototype.validateSecurityChange = function () { var l = !1; this.securityCode && this.securityCode.length >= 8 && this.securityCode.match("^[a-zA-Z0-9]*$") && (l = !0), l ? "" == this.securityQuestion || this.securityQuestion.length < 4 || 0 == new RegExp(/^[a-z0-9\s]+$/gi).test(this.securityQuestion) || 0 == this.p2pServiceProvider.validateAffiliationFields(this.securityInfo.username, this.securityInfo.userId, this.securityInfo.forbidden, this.securityQuestion) ? this.displayMessage("Error", "La pregunta secreta no cumple con los requisitos") : "" == this.securityAnswer || this.securityAnswer.length < 4 || 0 == new RegExp(/^[a-z0-9\s]+$/gi).test(this.securityAnswer) || 0 == this.p2pServiceProvider.validateAffiliationFields(this.securityInfo.username, this.securityInfo.userId, this.securityInfo.forbidden, this.securityAnswer) ? this.displayMessage("Error", "La respuesta secreta no cumple con los requisitos") : this.userSecurityChange() : this.displayMessage("Error", "El código de seguridad debe solo contener letras y/o números") }, l.prototype.resendValidCode = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); n.present().then(function () { l.p2pServiceProvider.userSecurityChangeRequest(l.securityInfo.username.toLowerCase()).then(function (e) { var u = e; null == u._body && null == u.name && 0 == parseInt(u.cod_respuesta) ? (n.dismiss(), l.counter = 300, l.ionViewDidLoad()) : (null == u._body && null == u.name && l.displayMessage("Error", u.cod_respuesta + " - " + u.descripcion_respuesta), n.dismiss()) }) }) }, l.prototype.userSecurityChange = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); n.present().then(function () { l.p2pServiceProvider.userSecurityChangeQA(l.securityInfo.username.toLowerCase(), l.securityQuestion, l.securityAnswer, l.securityCode).then(function (e) { var u = e; null == u._body && null == u.name && 0 == parseInt(u.cod_respuesta) ? (l.displayMessage("Aviso", "Operación Exitosa"), n.dismiss(), l.navCtrl.setRoot(Yl), l.navCtrl.popToRoot()) : (null == u._body && null == u.name && l.displayMessage("Error", u.cod_respuesta + " - " + u.descripcion_respuesta), n.dismiss()) }) }) }, l }(), Bl = function () { function l(l, n, e, u, t) { switch (this.navCtrl = l, this.navParams = n, this.alertCtrl = e, this.loadingCtrl = u, this.p2pServiceProvider = t, this.user = { username: "" }, this.typeRequest = n.get("typeRequest"), this.typeRequest) { case 0: this.pageTitle = "Recuperar Contraseña"; break; case 1: this.pageTitle = "Modificar Pregunta Secreta"; break; default: this.pageTitle = "" } } return l.prototype.validate = function () { "" != this.user.username ? this.userSecurityChangeRequest() : this.displayMessage("Error", "Introduzca un nombre de usuario") }, l.prototype.userSecurityChangeRequest = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); n.present().then(function () { l.p2pServiceProvider.userSecurityChangeRequest(l.user.username.toLowerCase()).then(function (e) { l.userSecurityData = e, null == l.userSecurityData._body && null == l.userSecurityData.name && 0 == parseInt(l.userSecurityData.cod_respuesta) ? (n.dismiss(), l.questionRequest()) : (null == l.userSecurityData._body && null == l.userSecurityData.name && l.displayMessage("Error", l.userSecurityData.cod_respuesta + " - " + l.userSecurityData.descripcion_respuesta), n.dismiss()) }) }) }, l.prototype.questionRequest = function () { var l = this, n = { username: this.user.username.toLowerCase(), canal: "04", fechahora_disp: new Date }, e = this.loadingCtrl.create({ content: "Procesando..." }); e.present().then(function () { l.p2pServiceProvider.questionRequest(n).then(function (n) { if (l.questionRequestData = n, null == l.questionRequestData._body && null == l.questionRequestData.name && "000" == l.questionRequestData.cod_respuesta) switch (e.dismiss(), l.typeRequest) { case 0: l.navCtrl.push(Ol, l.questionRequestData); break; case 1: l.navCtrl.push(jl, l.questionRequestData) } else null == l.questionRequestData._body && null == l.questionRequestData.name && l.displayMessage("Error", l.questionRequestData.cod_respuesta + " - " + l.questionRequestData.descripcion_respuesta), e.dismiss() }) }) }, l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["OK"] }).present() }, l }(), Vl = function () { function l(l, n, e, u, t) { var a = this; this.idle = l, this.keepalive = n, this.alertCtrl = e, this.p2pServiceProvider = u, this.app = t, this.lastPing = null, this.timedOut = !1, l.setIdle(90), l.setTimeout(90), l.setInterrupts(xl.a), l.onTimeout.subscribe(function () { a.app.getActiveNav().getActive().instance instanceof Al || a.app.getActiveNav().getActive().instance instanceof _l || a.app.getActiveNav().getActive().instance instanceof ql || a.app.getActiveNav().getActive().instance instanceof Yl || a.app.getActiveNav().getActive().instance instanceof Sl || a.app.getActiveNav().getActive().instance instanceof Bl || a.app.getActiveNav().getActive().instance instanceof Ol || a.app.getActiveNav().getActive().instance instanceof Dl || (a.timedOut = !0, a.displayMessage("Aviso", "La sesión ha caducado, por favor ingrese nuevamente"), a.app.getActiveNav().popToRoot(), a.p2pServiceProvider.logoutRequest()), a.reset() }), this.keepalive.interval(15), this.keepalive.onPing.subscribe(function () { return a.lastPing = new Date }), this.reset() } return l.prototype.reset = function () { this.idle.watch(), this.timedOut = !1 }, l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["OK"] }).present() }, l }(), Fl = function () { function l(l, n, e, u, t, a, o, i) { this.navCtrl = l, this.navParams = n, this.modalCtrl = e, this.alertCtrl = u, this.loadingCtrl = t, this.p2pServiceProvider = a, this.datePipe = o, this.timer = i, this.items = [], this.loginData = n.get("loginData"), this.username = n.get("username"), this.paymentsRequest() } return l.prototype.paymentsRequest = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); this.p2pServiceProvider.onViewMsgPresent = !0, n.onDidDismiss(function () { l.p2pServiceProvider.onViewMsgPresent = !1 }), n.present().then(function () { var e = { username: l.username, canal: "04", fechahora_disp: new Date, tipomov: "R" }; l.p2pServiceProvider.paymentsRequest(e).then(function (e) { l.payments = e, null == l.payments.name ? (n.dismiss(), l.createList(l.payments)) : (n.dismiss(), l.navCtrl.pop()) }) }) }, l.prototype.itemSelected = function (l) { this.alertCtrl.create({ title: "Detalle del Pago", message: '<b>Transacción Exitosa</b><hr/><b id="dateHead">Banco:</b> ' + l.codigo_banco + '<br/><b id="dateHead">Fecha:</b> ' + this.datePipe.transform(l.fecha_tran, "DATETIME") + '<br/><b id="dateHead">Monto:</b> ' + this.numberWithCommas(l.monto) + ' Bs.<br/><b id="dateHead">Concepto:</b> ' + l.concepto + '<br/><b id="dateHead">Ref. Quantum:</b> ' + l.trace_quantum + '<br/><b id="dateHead">Ref. Suiche:</b> ' + l.codigo_suiche, buttons: ["CERRAR"] }).present() }, l.prototype.createList = function (l) { if (null != l.lista_mov && l.lista_mov.length > 0) { this.manageBankList(l.lista_mov); for (var n = 0, e = l.lista_mov; n < e.length; n++) { var u = e[n]; u.codigo_resp = "00" == u.codigo_resp ? "checkmark-circle-outline" : "close-circle", this.items.push(u) } } else this.payments.cod_respuesta == this.p2pServiceProvider.SESSION_EXPIRED ? (this.displayMessage("Error", this.payments.cod_respuesta + " - " + this.payments.descripcion_respuesta), this.navCtrl.popToRoot()) : (this.displayMessage("Aviso", "No existen movimientos registrados"), this.navCtrl.pop()) }, l.prototype.manageBankList = function (l) { for (var n = 0, e = l; n < e.length; n++)for (var u = e[n], t = 0, a = this.loginData.lista_bancos; t < a.length; t++) { var o = a[t]; u.codigo_banco == o.codigo && (u.codigo_banco = o.nombre) } return l }, l.prototype.numberWithCommas = function (l) { var n = l; return l = (l = l.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")).replace(/\./gi, "-"), l = l.replace(/\,/gi, "."), l = l.replace(/\*/gi, "."), l = l.replace("-", ","), n % 1 == 0 && (l += ",00"), l }, l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["OK"] }).present() }, l.prototype.maskPhone = function (l) { return l.length > 10 && (l = l.substring(0, 4) + "XXX" + l.substring(7, l.length + 1)), l }, l }(), Ul = function () { function l(l, n, e, u, t, a, o, i) { this.navCtrl = l, this.navParams = n, this.modalCtrl = e, this.alertCtrl = u, this.loadingCtrl = t, this.p2pServiceProvider = a, this.datePipe = o, this.timer = i, this.items = [], this.loginData = n.get("loginData"), this.username = n.get("username"), this.paymentsRequest() } return l.prototype.paymentsRequest = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); this.p2pServiceProvider.onViewMsgPresent = !0, n.onDidDismiss(function () { l.p2pServiceProvider.onViewMsgPresent = !1 }), n.present().then(function () { var e = { username: l.username, canal: "04", fechahora_disp: new Date, tipomov: "E" }; l.p2pServiceProvider.paymentsRequest(e).then(function (e) { l.payments = e, null == l.payments.name ? (n.dismiss(), l.createList(l.payments)) : (n.dismiss(), l.navCtrl.pop()) }) }) }, l.prototype.itemSelected = function (l) { this.alertCtrl.create({ title: "Detalle del Pago", message: "<b>" + ("checkmark-circle-outline" == l.codigo_resp ? "Transacción Exitosa" : "Transacción Fallida") + '</b><hr/><b id="dateHead">Banco:</b> ' + l.codigo_banco + '<br/><b id="dateHead">Fecha:</b> ' + this.datePipe.transform(l.fecha_tran, "DATETIME") + '<br/><b id="dateHead">Monto:</b> ' + this.numberWithCommas(l.monto) + ' Bs.<br/><b id="dateHead">Concepto:</b> ' + l.concepto + '<br/><b id="dateHead">Ref. Quantum:</b> ' + l.trace_quantum + '<br/><b id="dateHead">Ref. Suiche:</b> ' + l.codigo_suiche, buttons: ["CERRAR"] }).present() }, l.prototype.createList = function (l) { if (null != l.lista_mov && l.lista_mov.length > 0) { this.manageBankList(l.lista_mov); for (var n = 0, e = l.lista_mov; n < e.length; n++) { var u = e[n]; u.codigo_resp = "00" == u.codigo_resp ? "checkmark-circle-outline" : "close-circle", this.items.push(u) } } else this.payments.cod_respuesta == this.p2pServiceProvider.SESSION_EXPIRED ? (this.displayMessage("Error", this.payments.cod_respuesta + " - " + this.payments.descripcion_respuesta), this.navCtrl.popToRoot()) : (this.displayMessage("Aviso", "No existen movimientos registrados"), this.navCtrl.pop()) }, l.prototype.manageBankList = function (l) { for (var n = 0, e = l; n < e.length; n++)for (var u = e[n], t = 0, a = this.loginData.lista_bancos; t < a.length; t++) { var o = a[t]; u.codigo_banco == o.codigo && (u.codigo_banco = o.nombre) } return l }, l.prototype.numberWithCommas = function (l) { var n = l; return l = (l = l.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")).replace(/\./gi, "-"), l = l.replace(/\,/gi, "."), l = l.replace(/\*/gi, "."), l = l.replace("-", ","), n % 1 == 0 && (l += ",00"), l }, l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["OK"] }).present() }, l.prototype.maskPhone = function (l) { return l.length > 10 && (l = l.substring(0, 4) + "XXX" + l.substring(7, l.length + 1)), l }, l }(), zl = function () { function l(l, n, e, u, t, a, o) { this.navCtrl = l, this.navParams = n, this.viewCrtl = e, this.loadingCtrl = u, this.alertCtrl = t, this.p2pServiceProvider = a, this.timer = o, this.bankName = this.navParams.get("bankName"), this.code = this.navParams.get("code"), this.phone = this.navParams.get("phone"), this.idType = this.navParams.get("idType"), this.idNumber = this.navParams.get("idNumber"), this.amount = this.navParams.get("amount"), null != this.navParams.get("concept") && (this.concept = this.navParams.get("concept")), this.username = n.get("username"), this.loginData = n.get("loginData") } return l.prototype.close = function () { this.viewCrtl.dismiss({ status: !1 }) }, l.prototype.getBankCode = function (l) { for (var n = "", e = 0, u = this.loginData.lista_bancos; e < u.length; e++) { var t = u[e]; t.nombre == l && (n = t.codigo) } return n }, l.prototype.paymentRequest = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); this.p2pServiceProvider.onViewMsgPresent = !0, n.onDidDismiss(function () { l.p2pServiceProvider.onViewMsgPresent = !1 }), n.present().then(function () { var e = { username: l.username, canal: "04", codinstreceptor: l.getBankCode(l.bankName), tlfdestino: l.code + l.phone, concepto: l.concept, identificacion: l.idType + l.idNumber, monto: l.amount }; l.p2pServiceProvider.paymentP2PRequest(e).then(function (e) { l.p2pResponse = e, l.viewCrtl.dismiss({ response: l.p2pResponse, status: !0 }), n.dismiss() }) }) }, l.prototype.formatAmount = function (l) { return l.replace(/\./gi, ",").replace(/\B(?=(\d{3})+(?!\d))/g, ".") }, l }(), Hl = function () { function l(l, n, e, u, t, a) { this.alertCtrl = l, this.loadingCtrl = n, this.navCtrl = e, this.navParams = u, this.p2pServiceProvider = t, this.viewCtrl = a } return l.prototype.ionViewDidLoad = function () { console.log("ionViewDidLoad FrecuentAdditionPage"), this.bankList = this.p2pServiceProvider.loginData.lista_bancos, this.docTypes = this.p2pServiceProvider.loginData.lista_tipoafi, this.prefixList = this.p2pServiceProvider.loginData.lista_operadoras }, l.prototype.ionViewDidLeave = function () { this.p2pServiceProvider.onViewMsgPresent = !1 }, l.prototype.dismissAdditionView = function (l) { this.viewCtrl.dismiss({ updateView: l }) }, l.prototype.displayMessage = function (l, n) { var e = this; this.p2pServiceProvider.onViewMsgPresent = !0; var u = this.alertCtrl.create({ title: l, subTitle: n, buttons: ["OK"] }); u.onDidDismiss(function () { e.p2pServiceProvider.onViewMsgPresent = !1 }), u.present() }, l.prototype.validAdditionData = function () { var l = this; if (!this.contactBank || this.contactBank.trim().length < 4) this.displayMessage("Error", "Debe seleccionar un banco"); else if (this.contactPrefix) if (!this.contactPhone || isNaN(this.contactPhone.valueOf())) this.displayMessage("Error", "Debe ingresar un número de teléfono valido"); else if (this.contactType && 0 != this.contactType.trim().length && this.contactID && 0 != this.contactID.toString().trim().length) if (isNaN(this.contactID.valueOf())) this.displayMessage("Error", "Debe ingresar solo números en el número de documento"); else if (!this.contactName || 0 == this.contactName.trim().length || this.contactName.trim().length < 4 || 0 == new RegExp(/^[a-z0-9ñÑ\u00E1\u00E9\u00ED\u00F3\u00FA\u00FC\u00C1\u00C9\u00CD\u00D3\u00DA\u00DC\s]+$/gi).test(this.contactName)) this.displayMessage("Error", "El nombre debe contener como mínimo 4 caracteres"); else if (this.contactPhone.toString().trim().length < 7 || 0 == new RegExp(/^[0-9]+$/gi).test(this.contactPhone.toString())) this.displayMessage("Error", "El número de teléfono debe contener mínimo 7 dígitos numéricos"); else if (this.contactID.toString().length < 6 || 0 == new RegExp(/^[0-9]+$/gi).test(this.contactID.toString())) this.displayMessage("Error", "El número de documento debe contener mínimo 6 dígitos numéricos"); else { var n = this.loadingCtrl.create({ content: "Procesando..." }); this.p2pServiceProvider.onViewMsgPresent = !0; var e = { banco: this.contactBank, telefono: this.contactPrefix + this.contactPhone, tipo: this.contactType, cedula: this.contactID, nombre: this.contactName }; n.present().then(function () { l.p2pServiceProvider.modifyFrecuentList(e, !1).then(function (e) { var u = e; n.dismiss(), u.cod_respuesta && u.descripcion_respuesta ? isNaN(u.cod_respuesta) || 0 != parseInt(u.cod_respuesta) ? (l.displayMessage("Error", u.cod_respuesta + " - " + u.descripcion_respuesta), u.cod_respuesta == l.p2pServiceProvider.SESSION_EXPIRED && l.viewCtrl.dismiss({ cod_respuesta: u.cod_respuesta })) : l.dismissAdditionView(!0) : l.displayMessage("Error", "Error de comunicación, mensaje no disponible") }) }) } else this.displayMessage("Error", "Debe ingresar un documento válido"); else this.displayMessage("Error", "Debe ingresar el prefijo del número de teléfono") }, l }(), Kl = function () { function l(l, n, e, u, t, a, o, i) { this.alertCtrl = l, this.loadingCtrl = n, this.modalCtrl = e, this.navCtrl = u, this.navParams = t, this.p2pServiceProvider = a, this.timer = o, this.viewCtrl = i, this.contactCero = !1 } return l.prototype.ionViewDidLoad = function () { this.searchFrecuentList() }, l.prototype.ionViewDidLeave = function () { this.p2pServiceProvider.onViewMsgPresent = !1 }, l.prototype.getBankName = function (l) { for (var n = 0, e = this.p2pServiceProvider.loginData.lista_bancos; n < e.length; n++) { var u = e[n]; if (u.codigo == l.banco) return u.nombre } }, l.prototype.displayMessage = function (l, n) { var e = this, u = this.alertCtrl.create({ title: l, subTitle: n, buttons: ["OK"] }); u.onDidDismiss(function () { e.p2pServiceProvider.onViewMsgPresent = !1 }), u.present() }, l.prototype.searchFrecuentList = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); this.contactCero = !1, this.p2pServiceProvider.onViewMsgPresent = !0, n.present().then(function () { l.p2pServiceProvider.searchFrecuentList().then(function (e) { var u = e; n.dismiss(), u.cod_respuesta && u.descripcion_respuesta ? isNaN(u.cod_respuesta) || 0 != parseInt(u.cod_respuesta) ? (l.displayMessage("Error", u.cod_respuesta + " - " + u.descripcion_respuesta), u.cod_respuesta == l.p2pServiceProvider.SESSION_EXPIRED && l.viewCtrl.dismiss({ cod_respuesta: u.cod_respuesta })) : (u.lista_frecuentes && 0 != u.lista_frecuentes.length ? u.lista_frecuentes.forEach(function (n) { n.bancoDesc = l.getBankName(n) }) : l.contactCero = !0, l.frecuentList = u.lista_frecuentes, l.p2pServiceProvider.onViewMsgPresent = !1) : l.displayMessage("Error", "Error de comunicación, mensaje no disponible") }) }) }, l.prototype.selectFrecuent = function (l) { var n = { bank: l.bancoDesc, completeName: l.nombre, documentType: l.tipo, documentID: l.cedula, phoneCode: l.telefono.substring(0, 4), phone: l.telefono.substring(4, l.telefono.length) }; this.viewCtrl.dismiss(n) }, l.prototype.deleteFrecuent = function (l) { var n = this; this.p2pServiceProvider.onViewMsgPresent = !0; this.alertCtrl.create({ enableBackdropDismiss: !1, title: "Confirmación", subTitle: "Eliminar de pagos frecuentes los siguientes datos", message: "<p><strong>Nombre: </strong>" + l.nombre + "</p><p><strong>Banco: </strong>" + l.bancoDesc + "</p><p><strong>Documento: </strong>" + l.tipo + "-" + l.cedula + "</p><p><strong>Teléfono: </strong>" + l.telefono + "</p>", buttons: [{ text: "NO" }, { text: "SI", handler: function () { var e = n.loadingCtrl.create({ content: "Procesando..." }); e.present().then(function () { n.p2pServiceProvider.modifyFrecuentList(l, !0).then(function (l) { var u = l; if (e.dismiss(), u.cod_respuesta && u.descripcion_respuesta) if (isNaN(u.cod_respuesta) || 0 != parseInt(u.cod_respuesta)) n.displayMessage("Error", u.cod_respuesta + " - " + u.descripcion_respuesta), u.cod_respuesta == n.p2pServiceProvider.SESSION_EXPIRED && n.viewCtrl.dismiss({ cod_respuesta: u.cod_respuesta }); else { var t = n.alertCtrl.create({ title: "Exito", subTitle: "Pago frecuente eliminado exitosamente", buttons: ["OK"] }); t.onDidDismiss(function () { n.searchFrecuentList() }), t.present() } else n.displayMessage("Error", "Error de comunicación, mensaje no disponible") }) }) } }] }).present() }, l.prototype.showAddFrecuentView = function () { var l = this, n = this.modalCtrl.create(Hl); n.onDidDismiss(function (n) { var e = n; e && 1 == e.updateView ? l.searchFrecuentList() : e && e.cod_respuesta && e.cod_respuesta == l.p2pServiceProvider.SESSION_EXPIRED && l.viewCtrl.dismiss({ cod_respuesta: e.cod_respuesta }) }), n.present() }, l }(), $l = function () { function l(l, n, e, u, t, a, o) { this.navCtrl = l, this.navParams = n, this.modalCtrl = e, this.alertCtrl = u, this.loadingCtrl = t, this.p2pServiceProvider = a, this.timer = o, this.order = { bankName: "", code: "", phone: "", idType: "", idNumber: "", amount: "", concept: "" }, this.username = n.get("username"), this.loginData = n.get("loginData") } return l.prototype.validate = function () { 0 == this.order.amount.trim().length || "0,00" == this.order.amount ? this.displayMessage("Error", "Debe ingresar un monto válido mayor a cero") : "" == this.order.amount.trim() || "" == this.order.bankName || "" == this.order.code || "" == this.order.idNumber || "" == this.order.idType || "" == this.order.phone || 1 != new RegExp(/^\d{1,3}[\.(?=\d{3})]*,\d{1,2}/g).test(this.order.amount) || isNaN(Number(this.order.amount.replace(/\./g, "").replace(",", "."))) ? this.displayMessage("Error", "Complete los campos correctamente.") : this.logForm() }, l.prototype.logForm = function () { this.goToOrderDetail(this.order) }, l.prototype.goToOrderDetail = function (l) { var n = this, e = this.modalCtrl.create(zl, { bankName: l.bankName, code: l.code, phone: l.phone, idType: l.idType, idNumber: l.idNumber, amount: Number(l.amount.replace(/\./g, "").replace(",", ".")).toFixed(2), concept: l.concept, username: this.username, loginData: this.loginData }); e.present(), e.onDidDismiss(function (e) { if (e) if (1 == e.status && "000" == e.response.cod_respuesta) { var u = "<p><b>Banco:</b> " + l.bankName + "</p><p><b>Teléfono:</b> " + l.code + "-" + l.phone + "</p><p><b>Documento:</b> " + l.idType + "-" + l.idNumber + "</p><p><b>Monto:</b> " + l.amount + "</p><p><b>Referencia:</b> " + e.response.cod_aprobacion + "</p>"; n.p2pServiceProvider.accountInfo.balance = n.formatAmount(Number(e.response.saldo_disponible).toFixed(2)), n.p2pServiceProvider.accountInfo.dailyLimit = n.formatAmount(Number(n.loginData.limite_diario - e.response.acu_diario).toFixed(2)), n.p2pServiceProvider.accountInfo.monthLimit = n.formatAmount(Number(n.loginData.limite_mensual - e.response.acu_mensual).toFixed(2)); n.alertCtrl.create({ title: "Pago Exitoso", message: u, buttons: [{ text: "Cerrar Sesión", handler: function () { n.logout() } }, { text: "Continuar", handler: function () { n.navCtrl.pop() } }] }).present() } else 1 == e.status && "000" != e.response.cod_respuesta && null == e.response.name && (n.displayMessage("Error", e.response.cod_respuesta + " - " + e.response.descripcion_respuesta), e.response.ind_act && 0 == e.response.ind_act && (n.p2pServiceProvider.accountInfo.balance = n.formatAmount(Number(e.response.saldo_disponible).toFixed(2))), e.response.cod_respuesta == n.p2pServiceProvider.SESSION_EXPIRED && n.navCtrl.popToRoot()) }) }, l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["OK"] }).present() }, l.prototype.formatAmount = function (l) { return l.replace(/\./gi, ",").replace(/\B(?=(\d{3})+(?!\d))/g, ".") }, l.prototype.getFrecuentView = function () { var l = this, n = this.modalCtrl.create(Kl); n.onDidDismiss(function (n) { var e = n; e && e.bank ? (l.order.bankName = e.bank, l.order.idType = e.documentType, l.order.idNumber = e.documentID, l.order.code = e.phoneCode, l.order.phone = e.phone) : e && e.cod_respuesta && e.cod_respuesta == l.p2pServiceProvider.SESSION_EXPIRED && l.navCtrl.popToRoot() }), n.present() }, l.prototype.logout = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); n.present().then(function () { l.p2pServiceProvider.logoutRequest().then(function (e) { n.dismiss(), l.navCtrl.setRoot(Yl), l.navCtrl.popToRoot() }) }) }, l }(), Gl = function () { function l(l, n, e, u, t) { this.navCtrl = l, this.navParams = n, this.alertCtrl = e, this.p2pServiceProvider = u, this.loadingCtrl = t, this.counter = 300, this.change = { oldPassword: "", newPassword: "", newPasswordConfirm: "", securityCode: "" }, this.username = n.get("username"), this.loginData = n.get("loginData") } return l.prototype.ionViewDidLoad = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); n.present().then(function () { l.p2pServiceProvider.userSecurityChangeRequest(l.username.toLowerCase()).then(function (e) { var u = e; null == u._body && null == u.name && 0 == parseInt(u.cod_respuesta) ? (n.dismiss(), l.counter = 300, l.countDown = Ml.Observable.timer(0, 1e3).take(l.counter).map(function () { return l.counter = 0 == l.counter ? 0 : l.counter % 100 == 0 ? l.counter - 41 : l.counter - 1 })) : (null == u._body && null == u.name && l.displayMessage("Error", u.cod_respuesta + " - " + u.descripcion_respuesta), n.dismiss()) }) }) }, l.prototype.validate = function () { var l = this; if ("" == this.change.oldPassword || "" == this.change.newPassword || "" == this.change.newPasswordConfirm) this.displayMessage("Error", "Complete los campos correctamente."); else if (this.change.securityCode.trim().length < 8) this.displayMessage("Error", "El código de seguridad debe contener mínimo 8 letras y/o números"); else if (this.change.securityCode.match("^[a-zA-Z0-9]*$")) if (this.change.newPassword != this.change.newPasswordConfirm) this.displayMessage("Error", "Las contraseñas no coinciden"); else if (0 == this.p2pServiceProvider.validatePassword(this.username, this.loginData.nombre_afiliado, this.loginData.cedula, this.loginData.lista_palabras, this.loginData.expresion_regular, this.change.newPassword)) { this.alertCtrl.create({ title: "Error", subTitle: "La nueva contraseña no cumple con los requisitos.", buttons: [{ text: "OK" }, { text: "AYUDA", handler: function () { l.showPasswordHelp() } }] }).present() } else this.changePasswordRequest(); else this.displayMessage("Error", "El código de seguridad debe solo contener letras y/o números") }, l.prototype.changePasswordRequest = function () { var l = this, n = { username: this.username, oldpassword: Il.SHA512(this.change.oldPassword).toString(), newpassword: Il.SHA512(this.change.newPassword).toString(), canal: "04", otp: this.change.securityCode, fechahora_disp: new Date }, e = this.loadingCtrl.create({ content: "Procesando..." }); e.present().then(function () { l.p2pServiceProvider.changePasswordRequest(n).then(function (n) { l.changePasswordResult = n, null == l.changePasswordResult._body && null == l.changePasswordResult.name && "000" == l.changePasswordResult.cod_respuesta ? (l.displayMessage("Aviso", "Operación Exitosa"), l.logout()) : null == l.changePasswordResult._body && null == l.changePasswordResult.name && (l.displayMessage("Error", l.changePasswordResult.cod_respuesta + " - " + l.changePasswordResult.descripcion_respuesta), l.changePasswordResult.cod_respuesta == l.p2pServiceProvider.SESSION_EXPIRED && l.navCtrl.popToRoot()), e.dismiss() }) }) }, l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["OK"] }).present() }, l.prototype.logout = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); n.present().then(function () { l.p2pServiceProvider.logoutRequest().then(function (e) { n.dismiss(), l.navCtrl.setRoot(Yl), l.navCtrl.popToRoot() }) }) }, l.prototype.showPasswordHelp = function () { this.p2pServiceProvider.showPasswordHelp(this.loginData.lista_palabras) }, l }(), Zl = e(2), Jl = (e(387), function () { function l(l, n, e, u, t) { this.alertCtrl = l, this.loadingCtrl = n, this.navCtrl = e, this.navParams = u, this.p2pServiceProvider = t, this.accountBalance = "0,00" } return l.prototype.ionViewDidLoad = function () { this.getCompanyBalance() }, l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["CERRAR"] }).present() }, l.prototype.getCompanyBalance = function () { var l = this; this.isFreezeTime = !0, Zl.Observable.interval(11e3).subscribe(function () { return l.isFreezeTime = !1 }); var n, e = this.loadingCtrl.create({ content: "Procesando..." }); this.p2pServiceProvider.onViewMsgPresent = !0, e.onDidDismiss(function () { l.p2pServiceProvider.onViewMsgPresent = !1 }), e.present(), this.p2pServiceProvider.companyBalanceRequest().then(function (u) { e.dismiss(), (n = u) && 0 == parseInt(n.cod_respuesta) ? void 0 != n.monto && (l.accountBalance = l.formatAmount(n.monto.toString())) : l.displayMessage("Error", n.cod_respuesta && n.descripcion_respuesta ? n.cod_respuesta + " - " + n.descripcion_respuesta : "Error de comunicación, mensaje no disponible") }) }, l.prototype.formatAmount = function (l) { var n = l.toString().replace(/\./gi, ",").replace(/\B(?=(\d{3})+(?!\d))/g, "."); return n.indexOf(",") < 0 ? n + ",00" : n }, l }()), Xl = function () { function l(l, n, e, u, t, a) { this.alertCtrl = l, this.dateView = n, this.loadingCtrl = e, this.navCtrl = u, this.navParams = t, this.p2pServiceProvider = a, this.onGetMore = !1, this.noResult = !1, this.viewFilter = 0, this.payments = [], this.loginData = this.navParams.get("loginData") } return l.prototype.ionViewDidLoad = function () { this.getReceivedPayments(null, null, 0) }, l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["CERRAR"] }).present() }, l.prototype.formatAmount = function (l) { var n = l.toString().replace(/\./gi, ",").replace(/\B(?=(\d{3})+(?!\d))/g, "."); return n.indexOf(",") < 0 ? n + ",00" : n }, l.prototype.getBankName = function (l) { var n = this.loginData.lista_bancos.filter(function (n) { return n.codigo == l }); return null == n || 0 == n.length ? "" : n[0].nombre }, l.prototype.maskPhone = function (l) { return l.length > 10 && (l = l.substring(0, 4) + "XXX" + l.substring(7, l.length + 1)), l }, l.prototype.getDividerFormat = function (l) { if (console.log("Date reference: " + l), parseInt(l) >= 1300) switch ((l = (parseInt(l) - 1300).toString()).length) { case 3: return l.substring(0, 1) + ":" + l.substring(1, 3) + " pm"; case 4: return l.substring(0, 2) + ":" + l.substring(2, 4) + " pm" }switch (l.length) { case 3: return l.substring(0, 1) + ":" + l.substring(1, 3) + " am"; case 4: return l.substring(0, 2) + ":" + l.substring(2, 4) + " am" } }, l.prototype.filterByDate = function () { var l = this.beginDate.substring(this.beginDate.indexOf("T") + 1, this.beginDate.indexOf("T") + 6), n = this.topDate.substring(this.topDate.indexOf("T") + 1, this.topDate.indexOf("T") + 6); l = l.replace(":", ""), n = n.replace(":", ""), parseInt(l) > parseInt(n) ? this.displayMessage("Error", "La hora hasta debe ser mayor a la hora desde.") : (this.onGetMore = !1, this.getReceivedPayments(l, n, 0)) }, l.prototype.filterByPhone = function () { console.log("Filter me by Phone"), void 0 == this.phonecode || 0 == this.phonecode.length ? this.displayMessage("Error", "Debe seleccionar un prefijo válido.") : void 0 == this.phone || this.phone.toString().trim().length < 7 || 0 == new RegExp(/^[0-9]+$/gi).test(this.phone.toString()) ? this.displayMessage("Error", "El número de teléfono debe contener mínimo 7 dígitos numéricos") : (console.log("Aquí vamos a consultar con el teléfono"), this.onGetMore = !1, this.getPhoneReceivedPayments(0)) }, l.prototype.detailView = function (l) { this.alertCtrl.create({ title: "Detalle del Pago", message: '<b>Transacción Exitosa</b><hr/><b id="dateHead">Banco:</b> ' + this.payments[l].bank + '<br/><b id="dateHead">Fecha:</b> ' + this.dateView.transform(this.payments[l].tranDate, "DATETIME") + '<br/><b id="dateHead">Monto:</b> ' + this.payments[l].formatAmount + ' Bs.<br/><b id="dateHead">Concepto:</b> ' + this.payments[l].concept + '<br/><b id="dateHead">Ref. Quantum:</b> ' + this.payments[l].traceQuantum + '<br/><b id="dateHead">Ref. Suiche:</b> ' + this.payments[l].switchCode, buttons: ["CERRAR"] }).present() }, l.prototype.getPayments = function (l) { if (this.viewFilter != l) switch (this.viewFilter = l, l) { case 0: this.onGetMore = !1, this.getReceivedPayments(null, null, 0); break; case 1: var n = new Date, e = n.getHours() < 10 ? "0" + n.getHours() : n.getHours().toString(); e += ":" + n.getMinutes(), this.beginDate = e; var u = new Date(n.getTime() + 36e5); e = u.getHours() < 10 ? "0" + u.getHours() : u.getHours().toString(), e += ":" + n.getMinutes(), this.topDate = e; break; case 2: this.phonecode = "", this.phone = "" } }, l.prototype.getMorePayments = function (l) { switch (this.onGetMore = !0, this.viewFilter) { case 0: this.getReceivedPayments(null, null, l); break; case 1: var n = this.beginDate.substring(this.beginDate.indexOf("T") + 1, this.beginDate.indexOf("T") + 6), e = this.topDate.substring(this.topDate.indexOf("T") + 1, this.topDate.indexOf("T") + 6); this.getReceivedPayments(n.replace(":", ""), e.replace(":", ""), l); break; case 2: this.getPhoneReceivedPayments(l) } }, l.prototype.getReceivedPayments = function (l, n, e) { var u, t = this, a = this.loadingCtrl.create({ content: "Procesando..." }); this.p2pServiceProvider.onViewMsgPresent = !0, a.onDidDismiss(function () { t.p2pServiceProvider.onViewMsgPresent = !1 }), a.present(), this.p2pServiceProvider.companyTranBalanceRequest(l, n, e).then(function (l) { if (a.dismiss(), u = l, 0 == t.onGetMore && (t.payments = []), u && 0 == parseInt(u.cod_respuesta)) if (u.lista_mov && u.lista_mov.length > 0) { t.noResult = !1; for (var n = 0, e = u.lista_mov; n < e.length; n++) { var o = e[n], i = { id: o.id, bank: t.getBankName(o.codigo_banco), bankCode: o.codigo_banco, amount: o.monto, formatAmount: t.formatAmount(o.monto), phone: o.telefono, concept: o.concepto, tranDate: o.fecha_tran, traceQuantum: o.trace_quantum, switchCode: o.codigo_suiche }; t.payments.push(i) } } else t.noResult = !0; else u.cod_respuesta && u.descripcion_respuesta ? (t.noResult = !0, t.displayMessage("Error", u.cod_respuesta + " - " + u.descripcion_respuesta)) : (t.noResult = !0, t.displayMessage("Error", "Error de comunicación, mensaje no disponible")) }) }, l.prototype.getPhoneReceivedPayments = function (l) { var n, e = this, u = this.loadingCtrl.create({ content: "Procesando..." }); this.p2pServiceProvider.onViewMsgPresent = !0, u.onDidDismiss(function () { e.p2pServiceProvider.onViewMsgPresent = !1 }), u.present(), this.p2pServiceProvider.companyPhoneBalanceRequest(this.phonecode + this.phone, l).then(function (l) { if (u.dismiss(), n = l, console.log("Active getMore ? " + e.onGetMore), 0 == e.onGetMore && (e.payments = []), n && 0 == parseInt(n.cod_respuesta)) if (n.lista_mov && n.lista_mov.length > 0) { e.noResult = !1; for (var t = 0, a = n.lista_mov; t < a.length; t++) { var o = a[t], i = { id: o.id, bank: e.getBankName(o.codigo_banco), bankCode: o.codigo_banco, amount: o.monto, formatAmount: e.formatAmount(o.monto), phone: o.telefono, concept: o.concepto, tranDate: o.fecha_tran, traceQuantum: o.trace_quantum, switchCode: o.codigo_suiche }; e.payments.push(i) } } else e.noResult = !0; else n.cod_respuesta && n.descripcion_respuesta ? (e.noResult = !0, e.displayMessage("Error", n.cod_respuesta + " - " + n.descripcion_respuesta)) : (e.noResult = !0, e.displayMessage("Error", "Error de comunicación, mensaje no disponible")) }) }, l }(), Ql = function () { function l(l, n, e, u, t) { this.navCtrl = l, this.navParams = n, this.loadingCtrl = e, this.p2pServiceProvider = u, this.timer = t, this.loginData = n.get("loginData"), this.password = n.get("password"), this.username = n.get("username"), this.p2pServiceProvider.accountInfo.balance = this.formatAmount(Number(this.loginData.saldo_disponible).toFixed(2)), this.p2pServiceProvider.accountInfo.dailyLimit = this.formatAmount(Number(this.loginData.limite_diario - this.loginData.acum_diario).toFixed(2)), this.p2pServiceProvider.accountInfo.monthLimit = this.formatAmount(Number(this.loginData.limite_mensual - this.loginData.acum_mensual).toFixed(2)) } return l.prototype.isCompany = function () { return 1 == this.loginData.tipo_afiliado }, l.prototype.formatAmount = function (l) { return l.replace(/\./gi, ",").replace(/\B(?=(\d{3})+(?!\d))/g, ".") }, l.prototype.nextPage = function (l) { var n = { loginData: this.loginData, username: this.username, password: this.password }; switch (l) { case 1: this.navCtrl.push($l, n); break; case 2: this.navCtrl.push(Ul, n); break; case 3: this.navCtrl.push(Fl, n); break; case 4: this.navCtrl.push(Gl, n); break; case 5: this.logout(); break; case 6: this.navCtrl.push(Jl, n); break; case 7: this.navCtrl.push(Xl, n) } }, l.prototype.logout = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); this.p2pServiceProvider.onViewMsgPresent = !0, n.onDidDismiss(function () { l.p2pServiceProvider.onViewMsgPresent = !1 }), n.present().then(function () { l.p2pServiceProvider.logoutRequest().then(function (e) { n.dismiss(), l.navCtrl.setRoot(Yl), l.navCtrl.popToRoot() }) }) }, l }(), Yl = function () { function l(l, n, e, u, t, a, o, i) { if (this.navCtrl = l, this.loadingCtrl = n, this.p2pServiceProvider = e, this.alertCtrl = u, this.keyboard = t, this.navParams = a, this.platform = o, this.toastCtrl = i, this.formLoginData = { username: "", password: "" }, this.username = "", this.password = "", this.isenabled = !1, this.enableButtons(!0), a.get("affiliationMsg")) { this.toastCtrl.create({ message: "Usuario afiliado exitosamente", showCloseButton: !0 }).present() } } return l.prototype.displayMessage = function (l, n) { this.alertCtrl.create({ title: l, subTitle: n, buttons: ["OK"] }).present() }, l.prototype.validate = function () { "" != this.formLoginData.username && "" != this.formLoginData.password ? this.tokenRequest() : this.displayMessage("Error", "Complete todos los campos correctamente") }, l.prototype.tokenRequest = function () { var l = this; this.enableButtons(!1); var n = this.loadingCtrl.create({ content: "Procesando..." }); n.present().then(function () { l.p2pServiceProvider.tokenRequest(l.formLoginData.username.toLowerCase(), l.formLoginData.password).then(function (e) { var u = e; l.username = l.formLoginData.username.toLowerCase(), l.password = l.formLoginData.password, null != u._body || null != u.name ? n.dismiss() : (n.dismiss(), l.loginInApi(), l.username = l.formLoginData.username.toLowerCase(), l.password = l.formLoginData.password) }), l.enableButtons(!0) }) }, l.prototype.loginInApi = function () { var l = this; this.enableButtons(!1); var n = { username: this.username, password: Il.SHA512(this.password).toString(), canal: "04", fechahora_disp: new Date, version: this.p2pServiceProvider.appVersion }, e = this.loadingCtrl.create({ content: "Procesando..." }); e.present().then(function () { l.p2pServiceProvider.loginRequest(n).then(function (n) { if (l.loginResponse = n, null != l.loginResponse._body || null != l.loginResponse.name) e.dismiss(); else if (e.dismiss(), l.clearForm(), l.p2pServiceProvider.loginData = n, l.enableButtons(!0), "107" == l.p2pServiceProvider.loginData.cod_respuesta) { l.displayMessage("Aviso", l.p2pServiceProvider.loginData.descripcion_respuesta); (u = n).isLoginCall = !0, l.navCtrl.push(Gl, { loginData: u, password: Il.SHA512(l.password).toString(), username: l.username }) } else if ("900" == l.loginResponse.cod_respuesta) { l.alertCtrl.create({ title: "Atención", message: l.loginResponse.descripcion_respuesta, buttons: [{ text: "OK", handler: function () { l.platform.exitApp() } }] }).present() } else if ("123" == l.loginResponse.cod_respuesta) { l.displayMessage("Aviso", l.p2pServiceProvider.loginData.descripcion_respuesta); var u; (u = n).usuario = l.username, u.isLoginCall = !0, l.navCtrl.push(jl, u) } else l.navCtrl.push(Ql, { loginData: n, password: Il.SHA512(l.password).toString(), username: l.username }) }) }) }, l.prototype.goToResetPassword = function () { this.navCtrl.push(Bl, { typeRequest: 0 }) }, l.prototype.enableButtons = function (l) { this.isenabled = !!l }, l.prototype.clearForm = function () { this.formLoginData.username = "", this.formLoginData.password = "" }, l.prototype.getViewAffiliation = function () { this.navCtrl.push(ql) }, l.prototype.goToChangeQA = function () { this.navCtrl.push(Bl, { typeRequest: 1 }) }, l }(), Wl = function () { function l(l, n, e, u, t, a, o, i) { var d = this; this.platform = l, this.statusBar = n, this.splashScreen = e, this.keyboard = u, this.app = t, this.alertCtrl = a, this.loadingCtrl = o, this.p2pServiceProvider = i, this.rootPage = Yl, this.idleState = "Not started.", this.timedOut = !1, this.lastPing = null, this.backLogoutActive = !1, l.ready().then(function () { d.statusBar.styleDefault(), d.splashScreen.hide(), d.keyboard.onKeyboardShow().subscribe(function () { document.body.classList.add("keyboard-is-open") }), d.keyboard.onKeyboardHide().subscribe(function () { document.body.classList.remove("keyboard-is-open") }), l.registerBackButtonAction(function () { if (d.p2pServiceProvider.onViewMsgPresent); else if (d.app.getActiveNav().getActive().instance instanceof Ql) { if (0 == d.backLogoutActive) { var l = d.alertCtrl.create({ title: "Salir", message: "¿Desea salir de la aplicación?", enableBackdropDismiss: !1, buttons: [{ text: "SI", handler: function () { d.app.getActiveNav().getActive().instance instanceof Ql ? d.logout() : d.backLogoutActive = !1 } }, { text: "NO", handler: function () { d.backLogoutActive = !1 } }] }); d.backLogoutActive = !0, l.present() } } else d.app.getActiveNav().getActive().instance instanceof Yl ? d.platform.exitApp() : d.app.getActiveNav().pop() }) }) } return l.prototype.logout = function () { var l = this, n = this.loadingCtrl.create({ content: "Procesando..." }); n.present().then(function () { l.p2pServiceProvider.logoutRequest().then(function (e) { n.dismiss(), l.backLogoutActive = !1, l.app.getActiveNav().popToRoot() }) }) }, l }(), ln = e(408), nn = function () { return function () { } }(), en = e(90), un = e(702), tn = e(703), an = e(704), on = e(705), dn = e(706), rn = e(707), sn = e(708), cn = e(709), pn = e(710), mn = e(711), gn = e(77), fn = e(95), hn = e(7), vn = e(17), bn = e(9), Cn = e(4), yn = e(5), Rn = e(21), En = e(11), Pn = e(68), wn = e(32), In = e(10), kn = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), xn = gl["ɵccf"]("ng-component", Wl, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "ng-component", [], null, null, null, u, kn)), gl["ɵdid"](1, 49152, null, 0, Wl, [yn.a, hl.a, fl.a, bl.a, bn.a, Nl.a, Tl.a, kl], null, null)], null, null) }, {}, {}, []), _n = e(33), Tn = e(36), An = e(25), Mn = e(37), Dn = e(31), Ln = e(27), Nn = e(38), Sn = e(24), qn = e(81), On = e(74), jn = e(52), Bn = e(53), Vn = e(20), Fn = e(18), Un = e(34), zn = e(46), Hn = e(43), Kn = e(57), $n = e(55), Gn = e(28), Zn = e(22), Jn = e(35), Xn = e(48), Qn = e(14), Yn = e(124), Wn = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), le = gl["ɵccf"]("page-home", Yl, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-home", [], null, null, null, t, Wn)), gl["ɵdid"](1, 49152, null, 0, Yl, [vn.a, Tl.a, kl, Nl.a, bl.a, Qn.a, yn.a, Yn.a], null, null)], null, null) }, {}, {}, []), ne = e(71), ee = e(100), ue = e(72), te = e(45), ae = e(44), oe = e(70), ie = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), de = gl["ɵccf"]("page-affiliation", Al, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-affiliation", [], null, null, null, o, ie)), gl["ɵdid"](1, 49152, null, 0, Al, [vn.a, Qn.a, kl, oe.a, Nl.a, Tl.a], null, null)], null, null) }, {}, {}, []), re = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), se = gl["ɵccf"]("page-affiliation-terms", _l, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-affiliation-terms", [], null, null, null, i, re)), gl["ɵdid"](1, 49152, null, 0, _l, [hn.a], null, null)], null, null) }, {}, {}, []), ce = e(144), pe = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), me = gl["ɵccf"]("page-options", Ql, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-options", [], null, null, null, c, pe)), gl["ɵdid"](1, 49152, null, 0, Ql, [vn.a, Qn.a, Tl.a, kl, Vl], null, null)], null, null) }, {}, {}, []), ge = e(41), fe = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), he = gl["ɵccf"]("page-change-password", Gl, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-change-password", [], null, null, null, v, fe)), gl["ɵdid"](1, 49152, null, 0, Gl, [vn.a, Qn.a, Nl.a, kl, Tl.a], null, null)], null, null) }, {}, {}, []), ve = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), be = gl["ɵccf"]("page-clientid-request", ql, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-clientid-request", [], null, null, null, C, ve)), gl["ɵdid"](1, 49152, null, 0, ql, [vn.a, Qn.a, Nl.a, yn.a, Tl.a, kl], null, null)], null, null) }, {}, {}, []), Ce = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), ye = gl["ɵccf"]("page-client-qa-request", jl, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-client-qa-request", [], null, null, null, I, Ce)), gl["ɵdid"](1, 49152, null, 0, jl, [vn.a, Qn.a, Nl.a, yn.a, Tl.a, kl], null, null)], null, null) }, {}, {}, []), Re = e(145), Ee = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), Pe = gl["ɵccf"]("page-company-balance", Jl, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-company-balance", [], null, null, null, k, Ee)), gl["ɵdid"](1, 49152, null, 0, Jl, [Nl.a, Tl.a, vn.a, Qn.a, kl], null, null)], null, null) }, {}, {}, []), we = e(712), Ie = e(111), ke = e(82), xe = e(156), _e = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), Te = gl["ɵccf"]("page-company-received", Xl, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "page-company-received", [], null, null, null, S, _e)), gl["ɵprd"](512, null, Pl, Pl, []), gl["ɵdid"](2, 49152, null, 0, Xl, [Nl.a, Pl, Tl.a, vn.a, Qn.a, kl], null, null)], null, null) }, {}, {}, []), Ae = e(94), Me = e(410), De = e(76), Le = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), Ne = gl["ɵccf"]("page-payment-order", $l, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-payment-order", [], null, null, null, B, Le)), gl["ɵdid"](1, 49152, null, 0, $l, [vn.a, Qn.a, oe.a, Nl.a, Tl.a, kl, Vl], null, null)], null, null) }, {}, {}, []), Se = e(409), qe = e(96), Oe = e(84), je = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), Be = gl["ɵccf"]("page-phone-chooser", Sl, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-phone-chooser", [], null, null, null, F, je)), gl["ɵdid"](1, 49152, null, 0, Sl, [vn.a, Qn.a, Ll.d, Tl.a, kl, Nl.a], null, null)], null, null) }, {}, {}, []), Ve = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), Fe = gl["ɵccf"]("page-received-payments", Fl, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "page-received-payments", [], null, null, null, z, Ve)), gl["ɵprd"](512, null, Pl, Pl, []), gl["ɵdid"](2, 49152, null, 0, Fl, [vn.a, Qn.a, oe.a, Nl.a, Tl.a, kl, Pl, Vl], null, null)], null, null) }, {}, {}, []), Ue = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), ze = gl["ɵccf"]("page-sent-payments", Ul, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 2, "page-sent-payments", [], null, null, null, K, Ue)), gl["ɵprd"](512, null, Pl, Pl, []), gl["ɵdid"](2, 49152, null, 0, Ul, [vn.a, Qn.a, oe.a, Nl.a, Tl.a, kl, Pl, Vl], null, null)], null, null) }, {}, {}, []), He = e(125), Ke = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), $e = gl["ɵccf"]("page-order-detail", zl, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-order-detail", [], null, null, null, $, Ke)), gl["ɵdid"](1, 49152, null, 0, zl, [vn.a, Qn.a, hn.a, Tl.a, Nl.a, kl, Vl], null, null)], null, null) }, {}, {}, []), Ge = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), Ze = gl["ɵccf"]("page-reset-password", Ol, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-reset-password", [], null, null, null, Y, Ge)), gl["ɵdid"](1, 49152, null, 0, Ol, [vn.a, Qn.a, Nl.a, Tl.a, kl], null, null)], null, null) }, {}, {}, []), Je = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), Xe = gl["ɵccf"]("page-verify-affiliation", Dl, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-verify-affiliation", [], null, null, null, tl, Je)), gl["ɵdid"](1, 49152, null, 0, Dl, [vn.a, Qn.a, kl, Tl.a, Nl.a], null, null)], null, null) }, {}, {}, []), Qe = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), Ye = gl["ɵccf"]("page-question-request", Bl, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-question-request", [], null, null, null, al, Qe)), gl["ɵdid"](1, 49152, null, 0, Bl, [vn.a, Qn.a, Nl.a, Tl.a, kl], null, null)], null, null) }, {}, {}, []), We = e(713), lu = e(120), nu = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), eu = gl["ɵccf"]("page-frecuent-addition", Hl, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-frecuent-addition", [], null, null, null, rl, nu)), gl["ɵdid"](1, 49152, null, 0, Hl, [Nl.a, Tl.a, vn.a, Qn.a, kl, hn.a], null, null)], null, null) }, {}, {}, []), uu = e(714), tu = e(113), au = gl["ɵcrt"]({ encapsulation: 2, styles: [], data: {} }), ou = gl["ɵccf"]("page-frecuent-selection", Kl, function (l) { return gl["ɵvid"](0, [(l()(), gl["ɵeld"](0, 0, null, null, 1, "page-frecuent-selection", [], null, null, null, pl, au)), gl["ɵdid"](1, 49152, null, 0, Kl, [Nl.a, Tl.a, oe.a, vn.a, Qn.a, kl, Vl, hn.a], null, null)], null, null) }, {}, {}, []), iu = e(170), du = e(130), ru = e(129), su = e(86), cu = e(173), pu = e(176), mu = e(175), gu = e(142), fu = e(167), hu = e(69), vu = e(243), bu = e(166), Cu = e(83), yu = e(154), Ru = e(165), Eu = e(242), Pu = e(168), wu = e(65), Iu = e(150), ku = e(169), xu = e(375), _u = e(248), Tu = e(249), Au = gl["ɵcmf"](nn, [en.b], function (l) { return gl["ɵmod"]([gl["ɵmpd"](512, gl.ComponentFactoryResolver, gl["ɵCodegenComponentFactoryResolver"], [[8, [un.a, tn.a, an.a, on.a, dn.a, rn.a, sn.a, cn.a, pn.a, xn, le, de, se, me, he, be, ye, Pe, Te, Ne, Be, Fe, ze, $e, Ze, Xe, Ye, eu, ou]], [3, gl.ComponentFactoryResolver], gl.NgModuleRef]), gl["ɵmpd"](5120, gl.LOCALE_ID, gl["ɵm"], [[3, gl.LOCALE_ID]]), gl["ɵmpd"](4608, El.m, El.l, [gl.LOCALE_ID]), gl["ɵmpd"](5120, gl.APP_ID, gl["ɵf"], []), gl["ɵmpd"](5120, gl.IterableDiffers, gl["ɵk"], []), gl["ɵmpd"](5120, gl.KeyValueDiffers, gl["ɵl"], []), gl["ɵmpd"](4608, ml.c, ml.s, [El.d]), gl["ɵmpd"](6144, gl.Sanitizer, null, [ml.c]), gl["ɵmpd"](4608, ml.f, iu.a, []), gl["ɵmpd"](5120, ml.d, function (l, n, e, u) { return [new ml.l(l), new ml.p(n), new ml.o(e, u)] }, [El.d, El.d, El.d, ml.f]), gl["ɵmpd"](4608, ml.e, ml.e, [ml.d, gl.NgZone]), gl["ɵmpd"](135680, ml.n, ml.n, [El.d]), gl["ɵmpd"](4608, ml.m, ml.m, [ml.e, ml.n]), gl["ɵmpd"](6144, gl.RendererFactory2, null, [ml.m]), gl["ɵmpd"](6144, ml.q, null, [ml.n]), gl["ɵmpd"](4608, gl.Testability, gl.Testability, [gl.NgZone]), gl["ɵmpd"](4608, ml.h, ml.h, [El.d]), gl["ɵmpd"](4608, ml.j, ml.j, [El.d]), gl["ɵmpd"](4608, vl.c, vl.c, []), gl["ɵmpd"](4608, vl.j, vl.b, []), gl["ɵmpd"](5120, vl.l, vl.m, []), gl["ɵmpd"](4608, vl.k, vl.k, [vl.c, vl.j, vl.l]), gl["ɵmpd"](4608, vl.i, vl.a, []), gl["ɵmpd"](5120, vl.e, vl.n, [vl.k, vl.i]), gl["ɵmpd"](4608, ln.h, ln.m, [El.d, gl.PLATFORM_ID, ln.k]), gl["ɵmpd"](4608, ln.n, ln.n, [ln.h, ln.l]), gl["ɵmpd"](5120, ln.a, function (l) { return [l] }, [ln.n]), gl["ɵmpd"](4608, ln.j, ln.j, []), gl["ɵmpd"](6144, ln.i, null, [ln.j]), gl["ɵmpd"](4608, ln.g, ln.g, [ln.i]), gl["ɵmpd"](6144, ln.b, null, [ln.g]), gl["ɵmpd"](5120, ln.f, ln.o, [ln.b, [2, ln.a]]), gl["ɵmpd"](4608, ln.c, ln.c, [ln.f]), gl["ɵmpd"](4608, du.a, du.a, []), gl["ɵmpd"](4608, ru.a, ru.a, [du.a]), gl["ɵmpd"](6144, su.a, null, [ru.a]), gl["ɵmpd"](135680, cu.a, cu.a, [vl.e]), gl["ɵmpd"](6144, pu.a, null, [cu.a]), gl["ɵmpd"](135680, mu.a, mu.a, [su.a, [2, pu.a]]), gl["ɵmpd"](4608, Ll.s, Ll.s, []), gl["ɵmpd"](4608, Ll.d, Ll.d, []), gl["ɵmpd"](4608, gu.a, gu.a, [bn.a, Cn.a]), gl["ɵmpd"](4608, Nl.a, Nl.a, [bn.a, Cn.a]), gl["ɵmpd"](4608, fu.a, fu.a, []), gl["ɵmpd"](4608, Fn.a, Fn.a, []), gl["ɵmpd"](4608, hu.a, hu.a, [yn.a]), gl["ɵmpd"](4608, Rn.a, Rn.a, [Cn.a, yn.a, gl.NgZone, In.a]), gl["ɵmpd"](4608, Tl.a, Tl.a, [bn.a, Cn.a]), gl["ɵmpd"](5120, El.h, vu.b, [El.s, [2, El.a], Cn.a]), gl["ɵmpd"](4608, El.g, El.g, [El.h]), gl["ɵmpd"](5120, bu.b, bu.c, [bu.a]), gl["ɵmpd"](5120, wn.a, wn.b, [bn.a, bu.b, El.g, Cu.b, gl.ComponentFactoryResolver]), gl["ɵmpd"](4608, oe.a, oe.a, [bn.a, Cn.a, wn.a]), gl["ɵmpd"](4608, ke.a, ke.a, [bn.a, Cn.a]), gl["ɵmpd"](4608, yu.a, yu.a, [bn.a, Cn.a, wn.a]), gl["ɵmpd"](4608, Ru.a, Ru.a, [Cn.a, yn.a, In.a, bn.a, En.l]), gl["ɵmpd"](4608, Yn.a, Yn.a, [bn.a, Cn.a]), gl["ɵmpd"](4608, Pn.a, Pn.a, [yn.a, Cn.a]), gl["ɵmpd"](4608, hl.a, hl.a, []), gl["ɵmpd"](4608, fl.a, fl.a, []), gl["ɵmpd"](4608, bl.a, bl.a, []), gl["ɵmpd"](4608, kl, kl, [vl.e, Nl.a, Tl.a, bn.a]), gl["ɵmpd"](4608, Vl, Vl, [mu.a, cu.a, Nl.a, kl, bn.a]), gl["ɵmpd"](512, El.c, El.c, []), gl["ɵmpd"](512, gl.ErrorHandler, Eu.a, []), gl["ɵmpd"](256, Cn.b, { backButtonText: "", iconMode: "ios", modalEnter: "modal-slide-in", modalLeave: "modal-slide-out", tabsPlacement: "bottom", pageTransition: "ios-transition" }, []), gl["ɵmpd"](1024, Pu.a, Pu.b, []), gl["ɵmpd"](1024, yn.a, yn.b, [ml.b, Pu.a, gl.NgZone]), gl["ɵmpd"](1024, Cn.a, Cn.c, [Cn.b, yn.a]), gl["ɵmpd"](512, In.a, In.a, [yn.a]), gl["ɵmpd"](512, wu.a, wu.a, []), gl["ɵmpd"](512, bn.a, bn.a, [Cn.a, yn.a, [2, wu.a]]), gl["ɵmpd"](512, En.l, En.l, [bn.a]), gl["ɵmpd"](256, bu.a, { links: [] }, []), gl["ɵmpd"](512, gl.Compiler, gl.Compiler, []), gl["ɵmpd"](512, Iu.a, Iu.a, [gl.Compiler]), gl["ɵmpd"](1024, Cu.b, Cu.c, [Iu.a, gl.Injector]), gl["ɵmpd"](1024, gl.APP_INITIALIZER, function (l, n, e, u, t, a, o, i, d, r, s, c, p, m) { return [ml.r(l, n), ku.a(e), fu.b(u, t), Ru.b(a, o, i, d, r), Cu.d(s, c, p, m)] }, [[2, ml.i], [2, gl.NgProbeToken], Cn.a, yn.a, In.a, Cn.a, yn.a, In.a, bn.a, En.l, Cn.a, bu.a, Cu.b, gl.NgZone]), gl["ɵmpd"](512, gl.ApplicationInitStatus, gl.ApplicationInitStatus, [[2, gl.APP_INITIALIZER]]), gl["ɵmpd"](131584, gl["ɵe"], gl["ɵe"], [gl.NgZone, gl["ɵConsole"], gl.Injector, gl.ErrorHandler, gl.ComponentFactoryResolver, gl.ApplicationInitStatus]), gl["ɵmpd"](2048, gl.ApplicationRef, null, [gl["ɵe"]]), gl["ɵmpd"](512, gl.ApplicationModule, gl.ApplicationModule, [gl.ApplicationRef]), gl["ɵmpd"](512, ml.a, ml.a, [[3, ml.a]]), gl["ɵmpd"](512, vl.f, vl.f, []), gl["ɵmpd"](512, ln.e, ln.e, []), gl["ɵmpd"](512, ln.d, ln.d, []), gl["ɵmpd"](512, xu.MomentModule, xu.MomentModule, []), gl["ɵmpd"](512, Rl, Rl, []), gl["ɵmpd"](512, wl, wl, []), gl["ɵmpd"](512, _u.a, _u.a, []), gl["ɵmpd"](512, Tu.a, Tu.a, []), gl["ɵmpd"](512, Ll.q, Ll.q, []), gl["ɵmpd"](512, Ll.g, Ll.g, []), gl["ɵmpd"](512, Ll.p, Ll.p, []), gl["ɵmpd"](512, vu.a, vu.a, []), gl["ɵmpd"](512, nn, nn, []), gl["ɵmpd"](256, ln.k, "XSRF-TOKEN", []), gl["ɵmpd"](256, ln.l, "X-XSRF-TOKEN", []), gl["ɵmpd"](256, en.a, Wl, []), gl["ɵmpd"](256, El.a, "/", [])]) }); Object(gl.enableProdMode)(), Object(ml.k)().bootstrapModuleFactory(Au) }, 423: function (l, n, e) { function u(l) { return e(t(l)) } function t(l) { var n = a[l]; if (!(n + 1)) throw new Error("Cannot find module '" + l + "'."); return n } var a = { "./af": 251, "./af.js": 251, "./ar": 252, "./ar-dz": 253, "./ar-dz.js": 253, "./ar-kw": 254, "./ar-kw.js": 254, "./ar-ly": 255, "./ar-ly.js": 255, "./ar-ma": 256, "./ar-ma.js": 256, "./ar-sa": 257, "./ar-sa.js": 257, "./ar-tn": 258, "./ar-tn.js": 258, "./ar.js": 252, "./az": 259, "./az.js": 259, "./be": 260, "./be.js": 260, "./bg": 261, "./bg.js": 261, "./bm": 262, "./bm.js": 262, "./bn": 263, "./bn.js": 263, "./bo": 264, "./bo.js": 264, "./br": 265, "./br.js": 265, "./bs": 266, "./bs.js": 266, "./ca": 267, "./ca.js": 267, "./cs": 268, "./cs.js": 268, "./cv": 269, "./cv.js": 269, "./cy": 270, "./cy.js": 270, "./da": 271, "./da.js": 271, "./de": 272, "./de-at": 273, "./de-at.js": 273, "./de-ch": 274, "./de-ch.js": 274, "./de.js": 272, "./dv": 275, "./dv.js": 275, "./el": 276, "./el.js": 276, "./en-au": 277, "./en-au.js": 277, "./en-ca": 278, "./en-ca.js": 278, "./en-gb": 279, "./en-gb.js": 279, "./en-ie": 280, "./en-ie.js": 280, "./en-nz": 281, "./en-nz.js": 281, "./eo": 282, "./eo.js": 282, "./es": 283, "./es-do": 284, "./es-do.js": 284, "./es-us": 285, "./es-us.js": 285, "./es.js": 283, "./et": 286, "./et.js": 286, "./eu": 287, "./eu.js": 287, "./fa": 288, "./fa.js": 288, "./fi": 289, "./fi.js": 289, "./fo": 290, "./fo.js": 290, "./fr": 291, "./fr-ca": 292, "./fr-ca.js": 292, "./fr-ch": 293, "./fr-ch.js": 293, "./fr.js": 291, "./fy": 294, "./fy.js": 294, "./gd": 295, "./gd.js": 295, "./gl": 296, "./gl.js": 296, "./gom-latn": 297, "./gom-latn.js": 297, "./gu": 298, "./gu.js": 298, "./he": 299, "./he.js": 299, "./hi": 300, "./hi.js": 300, "./hr": 301, "./hr.js": 301, "./hu": 302, "./hu.js": 302, "./hy-am": 303, "./hy-am.js": 303, "./id": 304, "./id.js": 304, "./is": 305, "./is.js": 305, "./it": 306, "./it.js": 306, "./ja": 307, "./ja.js": 307, "./jv": 308, "./jv.js": 308, "./ka": 309, "./ka.js": 309, "./kk": 310, "./kk.js": 310, "./km": 311, "./km.js": 311, "./kn": 312, "./kn.js": 312, "./ko": 313, "./ko.js": 313, "./ky": 314, "./ky.js": 314, "./lb": 315, "./lb.js": 315, "./lo": 316, "./lo.js": 316, "./lt": 317, "./lt.js": 317, "./lv": 318, "./lv.js": 318, "./me": 319, "./me.js": 319, "./mi": 320, "./mi.js": 320, "./mk": 321, "./mk.js": 321, "./ml": 322, "./ml.js": 322, "./mr": 323, "./mr.js": 323, "./ms": 324, "./ms-my": 325, "./ms-my.js": 325, "./ms.js": 324, "./my": 326, "./my.js": 326, "./nb": 327, "./nb.js": 327, "./ne": 328, "./ne.js": 328, "./nl": 329, "./nl-be": 330, "./nl-be.js": 330, "./nl.js": 329, "./nn": 331, "./nn.js": 331, "./pa-in": 332, "./pa-in.js": 332, "./pl": 333, "./pl.js": 333, "./pt": 334, "./pt-br": 335, "./pt-br.js": 335, "./pt.js": 334, "./ro": 336, "./ro.js": 336, "./ru": 337, "./ru.js": 337, "./sd": 338, "./sd.js": 338, "./se": 339, "./se.js": 339, "./si": 340, "./si.js": 340, "./sk": 341, "./sk.js": 341, "./sl": 342, "./sl.js": 342, "./sq": 343, "./sq.js": 343, "./sr": 344, "./sr-cyrl": 345, "./sr-cyrl.js": 345, "./sr.js": 344, "./ss": 346, "./ss.js": 346, "./sv": 347, "./sv.js": 347, "./sw": 348, "./sw.js": 348, "./ta": 349, "./ta.js": 349, "./te": 350, "./te.js": 350, "./tet": 351, "./tet.js": 351, "./th": 352, "./th.js": 352, "./tl-ph": 353, "./tl-ph.js": 353, "./tlh": 354, "./tlh.js": 354, "./tr": 355, "./tr.js": 355, "./tzl": 356, "./tzl.js": 356, "./tzm": 357, "./tzm-latn": 358, "./tzm-latn.js": 358, "./tzm.js": 357, "./uk": 359, "./uk.js": 359, "./ur": 360, "./ur.js": 360, "./uz": 361, "./uz-latn": 362, "./uz-latn.js": 362, "./uz.js": 361, "./vi": 363, "./vi.js": 363, "./x-pseudo": 364, "./x-pseudo.js": 364, "./yo": 365, "./yo.js": 365, "./zh-cn": 366, "./zh-cn.js": 366, "./zh-hk": 367, "./zh-hk.js": 367, "./zh-tw": 368, "./zh-tw.js": 368 }; u.keys = function () { return Object.keys(a) }, u.resolve = t, l.exports = u, u.id = 423 } }, [411]);
+webpackJsonp([0],{
+
+/***/ 15:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return P2PServiceProvider; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_add_operator_catch__ = __webpack_require__(444);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_add_operator_catch___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_rxjs_add_operator_catch__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map__ = __webpack_require__(161);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_timeout__ = __webpack_require__(446);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_timeout___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_timeout__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_common_http__ = __webpack_require__(103);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_crypto_js__ = __webpack_require__(89);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_crypto_js___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_crypto_js__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_ionic_angular__ = __webpack_require__(13);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+//Modules & Components
+
+
+
+
+
+
+
+var P2PServiceProvider = /** @class */ (function () {
+    function P2PServiceProvider(http, alertCtrl, loadingCtrl, app) {
+        this.http = http;
+        this.alertCtrl = alertCtrl;
+        this.loadingCtrl = loadingCtrl;
+        this.app = app;
+        // Ambiente de Produccion
+        this.baseUrl = "https://pagop2p.bicentenariobu.com.ve/WebApiP2PPro";
+        // Ambiente de Calidad
+        // public baseUrl = "http://10.112.2.65/WebApiP2PApk";
+        // Ambiente de Desarrollo
+        // public baseUrl = "http://10.112.2.203/WebApiP2PApk";
+        // Ambiente de Desarrollo
+        // public baseUrl = "http://10.112.23.8/WebApiP2PApk";
+        // Version de la Aplicacion
+        this.appVersion = "1.3.5";
+        this.seed = "!*8ZHMp$jdW6b&hA!k*?94&T+Vnf2d*4g+4y$5CA_xhR6=RugXQ-+Lg2%$c$p$-GDb2d2TqneAvGZw&znV2r9Lx588KarqeFZMB?!MVKV6nNAJr2TE4^6TEhYAN^mc_B";
+        this.onViewMsgPresent = false;
+        this.SESSION_EXPIRED = "995";
+        this.timeout = 35000;
+        this.accountInfo = {
+            balance: "0,00",
+            dailyLimit: "0,00",
+            monthLimit: "0,00"
+        };
+    }
+    P2PServiceProvider.prototype.displayMessage = function (titulo, message) {
+        var _this = this;
+        var alert = this.alertCtrl.create({
+            title: titulo,
+            subTitle: message,
+            buttons: ['OK']
+        });
+        this.onViewMsgPresent = true;
+        alert.onDidDismiss(function () { _this.onViewMsgPresent = false; });
+        alert.present();
+    };
+    P2PServiceProvider.prototype.showPasswordHelp = function (forbiddenWords) {
+        var helpMessage = "<p>Debe contener: <ul> <li>Mínimo 8 caracteres y máximo 16 caracteres</li>" +
+            "<li>Al menos una letra mayúscula y una minúscula</li>" +
+            "<li>Al menos un número</li>" +
+            "<li>Al menos un caracter especial</li></ul></p>" +
+            "<p>No debe contener: <ul><li>3 caracteres iguales consecutivos</li>" +
+            "<li>Su nombre de usuario</li>" +
+            "<li>Su Documento de Identificación</li>" +
+            "<li>Sus nombres o apellidos</li>" +
+            "<li>Espacios en blanco</li>" +
+            "<li>Alguna de las siguientes palabras:<ul>";
+        for (var i = 0; i < forbiddenWords.length; i++) {
+            helpMessage += "<li>" + forbiddenWords[i].palabra + "</li>";
+        }
+        helpMessage += "</ul></li></ul></p>";
+        var alert = this.alertCtrl.create({
+            title: "Ayuda",
+            message: helpMessage,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    P2PServiceProvider.prototype.validatePassword = function (userName, name, userDoc, forbiddenWords, validRegex, password) {
+        if (password.toLowerCase().indexOf(userName.toLowerCase()) >= 0) {
+            return false;
+        }
+        if (password.indexOf(userDoc.substring(1)) >= 0) {
+            return false;
+        }
+        var nameStr = name.replace(',', '').split(' ');
+        for (var i = 0; i < nameStr.length; i++) {
+            if (password.toLowerCase().indexOf(nameStr[i].toLowerCase()) >= 0) {
+                return false;
+            }
+        }
+        for (var i = 0; i < forbiddenWords.length; i++) {
+            if (password.toLowerCase().indexOf(forbiddenWords[i].palabra.toLowerCase()) >= 0) {
+                return false;
+            }
+        }
+        var regexp = new RegExp(validRegex);
+        return regexp.test(password);
+    };
+    P2PServiceProvider.prototype.showAffiliationFieldsHelp = function (forbiddenWords, withSpaces) {
+        var helpMessage = "<p>Debe contener: <ul> <li>Mínimo 4 caracteres y máximo 16 caracteres</li></ul></p>" +
+            "<p>No debe contener: <ul><li>Caracteres especiales</li>" +
+            "<li>Su Documento de Identificación</li>" +
+            "<li>Sus nombres o apellidos</li>";
+        if (withSpaces)
+            helpMessage += "<li>Espacios en blanco</li>";
+        helpMessage += "<li>Alguna de las siguientes palabras:<ul>";
+        for (var i = 0; i < forbiddenWords.length; i++) {
+            helpMessage += "<li>" + forbiddenWords[i].palabra + "</li>";
+        }
+        helpMessage += "</ul></li></ul></p>";
+        var alert = this.alertCtrl.create({
+            title: "Ayuda",
+            message: helpMessage,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    P2PServiceProvider.prototype.showAffiliationUsernameHelp = function (forbiddenWords, withSpaces) {
+        var helpMessage = "<p>Debe contener: <ul> <li>Mínimo 4 caracteres y máximo 16 caracteres</li></ul></p>" +
+            "<p>No debe contener: <ul><li>Caracteres especiales</li>" +
+            "<li>Su Documento de Identificación</li>";
+        if (withSpaces)
+            helpMessage += "<li>Espacios en blanco</li>";
+        helpMessage += "<li>Alguna de las siguientes palabras:<ul>";
+        for (var i = 0; i < forbiddenWords.length; i++) {
+            helpMessage += "<li>" + forbiddenWords[i].palabra + "</li>";
+        }
+        helpMessage += "</ul></li></ul></p>";
+        var alert = this.alertCtrl.create({
+            title: "Ayuda",
+            message: helpMessage,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    P2PServiceProvider.prototype.validateAffiliationFields = function (name, userDoc, forbiddenWords, fieldValue) {
+        if (fieldValue.indexOf(userDoc.substring(1)) >= 0) {
+            return false;
+        }
+        var nameStr = name.replace(',', '').split(' ');
+        for (var i = 0; i < nameStr.length; i++) {
+            if (fieldValue.toLowerCase().indexOf(nameStr[i].toLowerCase()) >= 0) {
+                return false;
+            }
+        }
+        for (var i = 0; i < forbiddenWords.length; i++) {
+            if (fieldValue.toLowerCase().indexOf(forbiddenWords[i].palabra.toLowerCase()) >= 0) {
+                return false;
+            }
+        }
+        return true;
+    };
+    P2PServiceProvider.prototype.validateAffiliationUsername = function (userDoc, forbiddenWords, fieldValue) {
+        if (fieldValue.indexOf(userDoc.substring(1)) >= 0) {
+            return false;
+        }
+        for (var i = 0; i < forbiddenWords.length; i++) {
+            if (fieldValue.toLowerCase().indexOf(forbiddenWords[i].palabra.toLowerCase()) >= 0) {
+                return false;
+            }
+        }
+        return true;
+    };
+    P2PServiceProvider.prototype.tokenRequest = function (user, password) {
+        var _this = this;
+        this.user = user;
+        this.password = __WEBPACK_IMPORTED_MODULE_5_crypto_js__["SHA512"](password).toString();
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */];
+        myHeaders.set('Accept', 'application/json; charset=utf-8');
+        myHeaders.append('Content-Type', 'application/x-www-form-urlencoded');
+        var opt = {
+            headers: myHeaders
+        };
+        return new Promise(function (resolve, reject) {
+            var body = 'grant_type=password&username=' + user + '&password=' + _this.password;
+            _this.http.post(_this.baseUrl + '/Token', body, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                _this.data = data;
+                _this.token = data;
+                resolve(_this.data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                else {
+                    try {
+                        _this.displayMessage("Error", JSON.parse(errorResponse._body).Message);
+                    }
+                    catch (e) {
+                        _this.displayMessage("Error", "Ha ocurrido un error, intente nuevamente");
+                    }
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.loginRequest = function (loginObject) {
+        var _this = this;
+        this.data = null;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8',
+            'Authorization': "Bearer " + this.token.access_token
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        var body = loginObject;
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/Afiliacion/Loginmovil', body, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                console.log(data);
+                _this.loginData = data;
+                _this.data = data;
+                resolve(_this.data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.logoutRequest = function () {
+        var _this = this;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8',
+            'Authorization': "Bearer " + this.token.access_token
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/Account/Logout', null, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                resolve(data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.paymentsRequest = function (paymentsObject) {
+        var _this = this;
+        this.data = null;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8',
+            'Authorization': "Bearer " + this.token.access_token
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        var body = paymentsObject;
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/Movimientos/ListasMovEmiRec', body, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                _this.sentPayments = data;
+                _this.data = data;
+                resolve(_this.data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.paymentP2PRequest = function (p2pObject) {
+        var _this = this;
+        this.data = null;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8',
+            'Authorization': "Bearer " + this.token.access_token
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        p2pObject.firma = __WEBPACK_IMPORTED_MODULE_5_crypto_js__["SHA512"](this.seed + p2pObject.username + p2pObject.codinstreceptor
+            + p2pObject.tlfdestino + p2pObject.identificacion + p2pObject.monto).toString().toUpperCase();
+        var body = p2pObject;
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/Finance/Pagop2p', body, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                _this.p2pData = data;
+                _this.data = data;
+                resolve(_this.data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.changePasswordRequest = function (changePasswordObject) {
+        var _this = this;
+        this.data = null;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8',
+            'Authorization': "Bearer " + this.token.access_token
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        var body = changePasswordObject;
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/Account/ChangePassword', body, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                _this.changePasswordData = data;
+                _this.data = data;
+                resolve(_this.data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.questionRequest = function (questionObject) {
+        var _this = this;
+        this.data = null;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8'
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        return new Promise(function (resolve, reject) {
+            var body = questionObject;
+            _this.http.post(_this.baseUrl + '/api/Afiliacion/BuscarDesafio', body, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                _this.questionRequestData = data;
+                _this.data = data;
+                resolve(_this.data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.resetPasswordRequest = function (resetObject) {
+        var _this = this;
+        this.data = null;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8'
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        return new Promise(function (resolve, reject) {
+            var body = resetObject;
+            _this.http.post(_this.baseUrl + '/api/Account/ResetPassword', body, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                _this.resetRequestData = data;
+                _this.data = data;
+                resolve(_this.data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.getAffiliationDocTypes = function () {
+        var _this = this;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */];
+        var opt = {
+            headers: myHeaders
+        };
+        return new Promise(function (resolve, reject) {
+            _this.http.get(_this.baseUrl + '/api/Afiliacion/TiposAfiliados', opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                resolve(data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.getClientPhones = function (id, idType) {
+        var _this = this;
+        var clientInfo = { "Tipo": idType, "Cedula": id.toString().trim() };
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8'
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/Afiliacion/BuscarTelefonos', clientInfo, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                resolve(data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.getAffiliationCode = function (clientIdType, clientID, phone) {
+        var _this = this;
+        var securityFirm = __WEBPACK_IMPORTED_MODULE_5_crypto_js__["SHA512"](this.seed + '' + clientIdType + clientID + phone).toString().toUpperCase();
+        var clientInfo = { "Tipo": clientIdType, "Cedula": clientID, "Telefono": phone, "Firma": securityFirm };
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8'
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/Afiliacion/GenerarToken', clientInfo, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                resolve(data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.validAffiliationCode = function (clientInfo, validCode) {
+        var _this = this;
+        var securityFirm = __WEBPACK_IMPORTED_MODULE_5_crypto_js__["SHA512"](this.seed + '' + clientInfo.docType + clientInfo.docNumber
+            + clientInfo.accountLast + validCode.toUpperCase()).toString().toUpperCase();
+        var requestData = {
+            "Tipo": clientInfo.docType, "Cedula": clientInfo.docNumber,
+            "Cuenta": clientInfo.accountLast, "Otp": validCode.toUpperCase(), "Firma": securityFirm
+        };
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8'
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/Afiliacion/ValidarToken', requestData, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                resolve(data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.sendUserAffiliation = function (affiliationData) {
+        var _this = this;
+        var affiliationKey = __WEBPACK_IMPORTED_MODULE_5_crypto_js__["SHA512"](affiliationData.psw).toString();
+        var securityKey = __WEBPACK_IMPORTED_MODULE_5_crypto_js__["SHA512"](affiliationData.securityKey).toString();
+        var securityAnswer = __WEBPACK_IMPORTED_MODULE_5_crypto_js__["SHA512"](affiliationData.questionAns).toString();
+        var securityFirm = __WEBPACK_IMPORTED_MODULE_5_crypto_js__["SHA512"](this.seed + affiliationData.userName + affiliationData.userName + affiliationKey + '04' +
+            affiliationData.docType + affiliationData.docNumber + affiliationData.userType + affiliationData.name +
+            affiliationData.id + affiliationData.email + affiliationData.account + affiliationData.phone + securityKey +
+            affiliationData.questionSec + securityAnswer + '0' + affiliationData.validationKey).toString().toUpperCase();
+        var requestData = {
+            "ususesion": affiliationData.userName, "canal": "04", "fechahora_disp": new Date(),
+            "id_cliente": affiliationData.id, "clase_persona": affiliationData.userType,
+            "tipo": affiliationData.docType, "cedula": affiliationData.docNumber, "nombre": affiliationData.name,
+            "nro_cuenta": affiliationData.account, "email": affiliationData.email, "abonado": affiliationData.phone,
+            "username": affiliationData.userName, "password": affiliationKey, "token": securityKey, "Firma": securityFirm,
+            "pregunta_desafio": affiliationData.questionSec, "respuesta_desafio": securityAnswer, "tipo_limites": "0",
+            "min_trn_sms": "0", "max_trn_sms": "0", "min_trn_app": "0", "max_trn_app": "0", "lim_diario_sms": "0",
+            "lim_diario_app": "0", "lim_mensual_sms": "0", "lim_mensual_app": "0", "otp": affiliationData.validationKey
+        };
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8'
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/Account/Register', requestData, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                resolve(data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.searchFrecuentList = function () {
+        var _this = this;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8',
+            'Authorization': "Bearer " + this.token.access_token
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        var requestData = { "canal": "04", "username": this.user };
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/PagosFrecuentes/BuscarFrecuentes', requestData, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                resolve(data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.modifyFrecuentList = function (info, isDelete) {
+        var _this = this;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8',
+            'Authorization': "Bearer " + this.token.access_token
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        var requestData = {
+            "canal": "04", "username": this.user, "tipo": info.tipo, "cedula": info.cedula,
+            "nombre": info.nombre, "telefono": info.telefono, "banco": info.banco
+        };
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/PagosFrecuentes/' + (isDelete ? 'EliminarFrecuentes' : 'IncluirFrecuentes'), requestData, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                resolve(data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.companyBalanceRequest = function () {
+        var _this = this;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Authorization': "Bearer " + this.token.access_token
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        var requestData = { username: this.user, canal: '04' };
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/P2C/ListasMovRecTot', requestData, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                resolve(data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.companyTranBalanceRequest = function (fromDate, toDate, reference) {
+        var _this = this;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Authorization': "Bearer " + this.token.access_token
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        var requestData = {
+            username: this.user,
+            modo: (fromDate != null && toDate != null) ? 1 : 0,
+            horamindesde: fromDate,
+            horaminhasta: toDate,
+            ultimo: reference == null ? 0 : reference,
+            canal: '04'
+        };
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/P2C/ListasMovRecDet', requestData, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                resolve(data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.companyPhoneBalanceRequest = function (phone, reference) {
+        var _this = this;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Authorization': "Bearer " + this.token.access_token
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        var requestData = {
+            username: this.user,
+            modo: 2,
+            telefono: phone,
+            ultimo: reference == null ? 0 : reference,
+            canal: '04'
+        };
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/P2C/ListasMovRecTlf', requestData, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                resolve(data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.userSecurityChangeRequest = function (username) {
+        var _this = this;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8'
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        var requestData = {
+            usuario: username,
+            canal: '04'
+        };
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/Afiliacion/GenerarOTP', requestData, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                resolve(data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.userSecurityChangeQA = function (username, userQuestion, userAnswer, secureCode) {
+        var _this = this;
+        var myHeaders = new __WEBPACK_IMPORTED_MODULE_3__angular_common_http__["c" /* HttpHeaders */]({
+            'Accept': 'application/json; charset=utf-8'
+        });
+        var opt = {
+            headers: myHeaders
+        };
+        var secureFirm = __WEBPACK_IMPORTED_MODULE_5_crypto_js__["SHA512"](this.seed + username.trim() + userQuestion.trim()
+            + __WEBPACK_IMPORTED_MODULE_5_crypto_js__["SHA512"](userAnswer.trim()).toString().toUpperCase()
+            + '04' + secureCode.trim()).toString().toUpperCase();
+        var requestData = {
+            username: username.trim(),
+            pregunta_desafio: userQuestion.trim(),
+            respuesta_desafio: __WEBPACK_IMPORTED_MODULE_5_crypto_js__["SHA512"](userAnswer.trim()).toString().toUpperCase(),
+            otp: secureCode.trim(),
+            firma: secureFirm,
+            canal: '04'
+        };
+        return new Promise(function (resolve, reject) {
+            _this.http.post(_this.baseUrl + '/api/Afiliacion/modificarDesafio', requestData, opt)
+                .timeout(_this.timeout)
+                .subscribe(function (data) {
+                resolve(data);
+            }, function (errorResponse) {
+                if (errorResponse.status == 0) {
+                    _this.displayMessage("Error", "Fallo en la conexión");
+                }
+                else if (errorResponse.name && (errorResponse.name == "TimeoutError")) {
+                    _this.displayMessage("Error", "Fallo en la conexión, tiempo límite excedido.");
+                }
+                resolve(errorResponse);
+            });
+        });
+    };
+    P2PServiceProvider.prototype.logout = function () {
+        this.displayMessage("Aviso", "La sesión ha caducado, por favor ingrese nuevamente");
+        this.app.getActiveNav().popToRoot();
+    };
+    P2PServiceProvider = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_4__angular_core__["Injectable"])(),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_3__angular_common_http__["a" /* HttpClient */],
+            __WEBPACK_IMPORTED_MODULE_6_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_6_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_6_ionic_angular__["b" /* App */]])
+    ], P2PServiceProvider);
+    return P2PServiceProvider;
+}());
+
+//# sourceMappingURL=p2p-service.js.map
+
+/***/ }),
+
+/***/ 159:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AffiliationTermsPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var AffiliationTermsPage = /** @class */ (function () {
+    function AffiliationTermsPage(viewCtrl) {
+        this.viewCtrl = viewCtrl;
+    }
+    AffiliationTermsPage.prototype.takeTermsAction = function (action) {
+        var resp = { id: action };
+        this.viewCtrl.dismiss(resp);
+    };
+    AffiliationTermsPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-affiliation-terms',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\affiliation-terms\affiliation-terms.html"*/'<ion-header>\n\n  <ion-navbar color="primary" hideBackButton="true">\n\n    <ion-title>\n\n      Términos de Afiliación\n\n    </ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content padding>\n\n  <p text-center style="font-weight:bold">TÉRMINOS Y CONDICIONES DEL SERVICIO TU PAGO MÓVIL</p>\n\n  <p>\n\n      Los términos y condiciones que se detallan a continuación, expresan de forma directa las condiciones de uso del servicio TU PAGO MÓVIL, por lo cual es necesario que antes de continuar con el proceso de instalación de la aplicación, lo lea con detenimiento para conocer los derechos y obligaciones que posee.\n\n      <br/>\n\n      <b>1)	DEFINICIONES:</b> A los efectos de interpretar el presente contrato se ha establecido las siguientes definiciones, las cuales tendrán el significado que se indica en la presente cláusula, pudiendo ser utilizados tanto en plural como en singular, masculino, femenino o cualquier forma verbal según el contexto en que se presente:  A) EL BANCO: Es BANCO BICENTENARIO DEL PUEBLO, DE LA CLASE OBRERA, MUJER Y COMUNAS, BANCO UNIVERSAL, C.A., sociedad mercantil adscrita al MINISTERIO DEL PODER POPULAR DE ECONOMÍA Y FINANZAS conforme al Decreto N° 2.651 de fecha 4 de enero de 2017, publicado en la Gaceta Oficial de la República Bolivariana de Venezuela N° 41.067 de esa misma fecha, domiciliada en Caracas; B) EL CLIENTE: Es toda persona natural o firma personal titular de cuenta(s) colocación(es) crédito(s) línea(s) de crédito, así como de cualquier otro producto financiero que EL BANCO ofrezca actualmente o en el futuro. Este término, comprende a los cuentahabientes, prestatarios, usuarios, personas autorizadas de conformidad con lo dispuesto en la oferta pública de servicios bancarios; AFILIACIÓN: Incorporación de productos y servicios a la Banca TU PAGO MÓVIL BICENTENARIO, por parte de LOS CLIENTES, para efecto de realizar operaciones o transacciones. C) DESAFILIACIÓN: Proceso mediante el cual  EL CLIENTE solicita a  EL BANCO sea desincorporado del servicio ofrecido a través de Banca TU PAGO MÓVIL BICENTENARIO;  D) AUTENTICACIÓN: Conjunto de técnicas y procedimientos tecnológicos utilizados para verificar la identidad de EL CLIENTE; E) BANCA MÓVIL: Canal electrónico ofrecido por EL BANCO a LOS CLIENTES para facilitar el acceso a través de mensajes de texto basados para las transferencias interbancarias; F) AFILIACIÓN AL SERVICIO BANCA TU PAGO MÓVIL BICENTENARIO: Formulario impreso o suministrado a través de la Banca en línea creado por EL BANCO, a través del cual EL CLIENTE suministra los datos e información requeridos, para poder obtener y hacer uso de los servicios ofrecidos por EL BANCO, a través de la Banca TU PAGO MÓVIL BICENTENARIO; G) TU PAGO MÓVIL BICENTENARIO: Servicios ofrecidos por EL BANCO, el cual provee a personas naturales y/o firmas personas, a través de una red de servicio interbancarios con la funcionalidad de realizar pagos rápidos y en líneas, de montos con límites establecidos. Igualmente EL CLIENTE deberá contar con un equipo móvil el cual tenga capacidad para procesar Mensajería de Texto (SMS) a los fines de tramitar transacciones y notificaciones vía SMS, según las especificaciones emitidas por la Asociación Bancaria de Venezuela y de acuerdo a la normativa emitida por la Superintendencia de las Instituciones del Sector Bancario (SUDEBAN); H) PAGO MÓVIL P2P: Es el servicio ofrecido por EL BANCO con la finalidad que LOS CLIENTES realicen pagos a través de una red de servicio interbancario, utilizando únicamente el número móvil asociado al cliente como medio autorizado para movilizar los fondos; I) SMS: Es el servicio de notificación de operaciones vía mensajes de texto que EL BANCO pone a disposición de sus CLIENTES; J) OPERADORES DE TELEFONÍA MÓVIL: Empresas de Telefonía Móvil Celular Operativas en Venezuela, entre las cuales se encuentra Digitel, Movistar, Movilnet; K) CONTENIDO DEL MENSAJE DE TEXTO: Es la información contentiva del mensaje de texto, la cual será suministrada por EL BANCO a EL CLIENTE.; M) APLICACIONES MÓVILES: Es una aplicación informática diseñada para ser ejecutada en teléfonos inteligentes, tabletas y otros dispositivos móviles y que permite al usuario efectuar una operaciones bancarias,  facilitando las gestiones  o actividades de  pagos interbancarios el cual se descargara a través de Play Store para teléfonos de sistema Android y Apple store para los teléfonos de sistema Apple o cualquier otro sistema operativo en el cual la entidad financiera adapta la aplicación del servicio TU PAGO MÓVIL BICENTENARIO . \n\n      <br/>\n\n      <b>2)	OBJETO:</b> El Servicio TU PAGO MÓVIL BICENTENARIO, tiene como finalidad enviar y/o recibir pagos móviles interbancarios de persona a persona pudiendo esta persona estar representada en una firma personal (dinero electrónico) a través de una aplicación móvil o mensajería de texto, en el cual los CLIENTES deberán previamente afiliarse al servicio, mediante los canales que disponga el banco para dicha afiliación. El proceso de afiliación debe garantizar el cumplimiento de la regulación actual de Banca Electrónica. De esta manera, la relación entre EL BANCO y EL CLIENTE empezara a regir y, por ende, se entenderán aceptadas por EL CLIENTE, al suscribir el presente contrato de los servicios de TU PAGO MÓVIL BICENTENARIO, autorizara automáticamente el uso de la cuenta seleccionada por EL CLIENTE para respaldar las operaciones de Banca TU PAGO MÓVIL BICENTENARIO. \n\n      <br/>\n\n      <b>3)	USO DEL SERVICIO TU PAGO MOVIL:</b> El producto está orientado a pagos interbancarios rápidos y en líneas con un límite de monto previamente establecido. De igual manera, los emisores y beneficiarios del Servicio de Pago Móvil P2P, serán notificados de la transacción por sus respectivos bancos de acuerdo a la normativa vigente. La utilización del servicios de TU PAGO MÓVIL BICENTENARIO, se considerará efectuado exclusivamente por EL CLIENTE, en consecuencia EL CLIENTE, autoriza expresa e irrevocablemente a EL BANCO a proporcionar los servicios requeridos, en el entendido que en todo caso se presumirá que el servicio ha sido solicitado por este último, sin que en tal sentido nada pueda reclamar a EL BANCO, de esta forma, EL CLIENTE es responsable por la guarda y custodia de su línea telefónica la cual está afiliada al servicio de TU PAGO MÓVIL BICENTENARIO, por lo que en caso de robo, hurto, pérdida del mismo EL BANCO queda exento de responsabilidad sobre las operaciones que se efectúen desde el mismo. De igual forma EL CLIENTE deberá notificar a EL BANCO, a la mayor brevedad posible la perdida de la guarda y custodia de su línea telefónica. EL CLIENTE haciendo uso del servicio de TU PAGO MÓVIL BICENTENARIO, podrá procesar pagos a terceras personas con su saldo disponible de su cuenta, a través del teléfono móvil afiliado y conforme a lo previsto en esta oferta, siempre y cuando EL CLIENTE suministre correctamente el número de móvil, dos últimos dígitos de la cédula de identidad del Beneficiario, banco beneficiario,  monto del pago, concepto del pago, así como cualquier otra información adicional requerida por EL BANCO para cada operación. \n\n      <br/>\n\n      <b>4)	FORMA DE AFILIACIÓN DEL SERVICIO TU PAGO MOVIL:</b> La Afiliación del servicio Pago Móvil P2P, se realizara a través de un número móvil con su número de identificación (cédula de identidad, pasaporte, RIF), con datos necesarios para enviar y/o recibir pagos móviles persona a persona. El cliente del banco emisor, dispondrá de un medio de pago (cuenta de depósito, billetera electrónica, u otro), el cual estará asociado a su número móvil como identificador en el sistema del servicio TU PAGO MÓVIL BICENTENARIO, de esta manera, únicamente se utilizara el número del móvil para el envío de los pagos. De las operaciones realizadas por EL CLIENTE, EL BANCO llevará un registro computarizado en el cual se expresará el número de la cuenta involucrada en ella, el día, la hora, el tipo de operación, su monto y cualquier otra información adicional que sea procedente. \n\n      <br/>\n\n      <b>5)	OBLIGACIONES DEL CLIENTE:</b> 1.- Los fondos para procesar las transacciones deberá ser provistos por EL CLIENTE y estar disponibles en la cuenta afiliada al servicio para el momento en que este realice el respectivo débito. EL BANCO no estará obligado a cumplir con las instrucciones impartidas y a realizar las operaciones financieras transmitidas por medio de mensajes de datos, si  EL CLIENTE no cuenta con la provisión de fondos suficientes para realizarlas; 2.- Mantener el móvil y clave en la mejor Custodia y Secreto posible, utilizándola adecuadamente y con la mayor prudencia igualmente posible; y 3.- EL CLIENTE asume toda la responsabilidad que acarrea el uso de este servicio y libera a EL BANCO de toda responsabilidad por errores en el monto de abonos o cargos a su cuenta o a las cuentas de destino, por cuanto toda la información es ingresada y remitida por EL CLIENTE, sin participación de EL BANCO; 4.- Si  EL CLIENTE posee dos o más cuentas bancarias en nuestra entidad financiera deberá elegir solo una cuenta para el goce del servicio Banca TU PAGO MÓVIL BICENTENARIO; 5.- En caso de robo o extravió de la línea telefónica afiliada al servicio TU PAGO MÓVIL BICENTENARIO  EL CLIENTE deberá  notificar al banco a través de Call Center o la red de agencias los medios que determine EL BANCO para su suspensión del servicio del  cual está afiliado. \n\n      <br/>\n\n      <b>6)	DERECHOS DEL CLIENTE:</b> La relación contractual originada de este contrato quedará sin ningún efecto cuando EL CLIENTE decida cerrar la cuenta o el instrumento que tenga afiliado al servicio TU PAGO MÓVIL BICENTENARIO. \n\n      <br/>\n\n      <b>7)	DERECHOS DEL BANCO:</b> EL BANCO podrá suspender o revocar, en cualquier momento, la concesión de uso de TU PAGO MÓVIL BICENTENARIO, ofrecido por EL BANCO, notificando previamente a EL CLIENTE de dicha suspensión o revocación, por cualquier medio de notificación permitidos por la Ley. EL BANCO no será responsable ante EL CLIENTE si por alguna causa extraña no imputable a él o por algún hecho fortuito o de fuerza mayor, se viese en la necesidad de suspender temporal o definitivamente el servicio de Banca TU PAGO MÓVIL BICENTENARIO, ofrecidos por EL BANCO. \n\n      <br/>\n\n      <b>8)	OBLIGACIONES DEL BANCO:</b> 1.- Comprometerse a procesar e instrumentar las transacciones financieras ordenadas por EL CLIENTE por medio de mensajes de datos. Los pagos a cuentas de EL BANCO se harán efectivos en la fecha valor que indique el archivo  de pago; 2.- EL BANCO cargará automáticamente en la cuenta de EL CLIENTE, el monto que corresponda por concepto de impuestos o contribuciones de obligatoria retención, derivados de las operaciones realizadas a través del uso de Banca TU PAGO MÓVIL BICENTENARIO; y 3.- EL BANCO rechazará cualquier transacción que no cumpla con lo establecido en las características del producto. En estos casos EL BANCO le notificará a  EL CLIENTE de inmediato, a través del sistema TU PAGO MÓVIL BICENTENARIO. EL CLIENTE deberá corregir el error presentado para poder validar la información de la transacción; 4.- El BANCO deberá afiliar la cuenta seleccionada por EL CLIENTE para el servicio TU PAGO MÓVIL BICENTENARIO; 5.- EL BANCO deberá suspender el servicio de Banca TU PAGO MÓVIL BICENTENARIO, una vez sea notificado por EL CLIENTE a través del Call Center o la red de agencias los medios que determine el banco para su suspensión. \n\n      <br/>\n\n      <b>9)	TARIFAS Y/O COMISIONES:</b> Las tarifas y/o comisiones estarán fijadas por EL BANCO o por cualquier autoridad competente que lo determine, pudiendo ser modificadas de la misma manera cada vez que EL BANCO lo considere conveniente y serán del conocimiento EL CLIENTE a través de la información disponible a través de la página de web y en las Agencias de Atención al Público de EL BANCO o por cualquier otro medio electrónico o físico que EL BANCO determinase a tales fines. EL CLIENTE se obliga a pagar a EL BANCO la contraprestación que éste estableciere según lo up supra expresado. EL BANCO queda pleno e irrevocablemente autorizado para debitar o hacer debitar al momento de la ejecución de la operación bancaria, sin previo aviso el monto de dichas tarifas y/o comisiones en la cuenta afiliada por EL CLIENTE en EL BANCO, asimismo EL BANCO tendrá la potestad de no ejecutar la operación de pago si EL CLIENTE no cuenta con el monto para el débito de las tarifas y/o comisiones fijadas  por EL BANCO. \n\n      <br/>\n\n      <b>10)	MODIFICACIÓN DE LAS CONDICIONES:</b> EL BANCO podrá modificar todo o en parte los términos de esta oferta y deberá notificar a EL CLIENTE de tales modificaciones a través de los diferentes medios que EL BANCO considere idóneos, previa aprobación de la Superintendencia de las Instituciones del Sector Bancaria (SUDEBAN). Es convenio expreso entre las partes, que si EL CLIENTE continúa haciendo uso de los servicios de TU PAGO MÓVIL BICENTENARIO, conforme a los nuevos términos de la presente oferta publica, ello significa que ha aceptado las nuevas condiciones. \n\n      <br/>\n\n      <b>11)	DECLARACIÓN JURADA:</b> EL CLIENTE, bajo fe de juramento declara que los fondos utilizados para la ejecución de cualquier transacción a través de los servicios de TU PAGO MÓVIL BICENTENARIO, se originan y se manejarán en operaciones lícitas, con apego a la legislación venezolana sobre prevención, control y fiscalización de las operaciones de legitimación de capitales; así mismo, EL CLIENTE asume toda la responsabilidad que acarrea el uso de este servicios y libera a EL BANCO de responsabilidad por errores en el monto de abonos o cargos a la cuenta destino. \n\n      <br/>\n\n      <b>12)	SEGURIDAD TECNOLÓGICA:</b> EL BANCO mantendrá sistemas de seguridad bancaria adecuados, a fin de evitar la comisión de delitos que afecten el pago de EL CLIENTE, así como también brindará atención y oportuna respuesta a EL CLIENTE que denuncie pagos no reconocidos u omisiones presentadas en su cuenta, así como cualesquiera otros reclamos que pudieren formular. \n\n      <br/>\n\n      <b>13)	CONFIDENCIALIDAD:</b> El BANCO respetará el derecho constitucional a la información sobre los datos de EL CLIENTE y tiene prohibido informar los antecedentes financieros personales de EL CLIENTE a cualquier empresa o institución exceptuando al mismo CLIENTE, a la Superintendencia de las Instituciones del Sector Bancario, al Banco Central de Venezuela y demás entes autorizados por ley, salvo que EL CLIENTE de su autorización por escrito. \n\n      <br/>\n\n      <b>14)	DOMICILIO ESPECIAL:</b> Para todos los efectos derivados y consecuencias legales del presente contrato las partes eligen como domicilio especial la ciudad de Caracas a la Jurisdicción de cuyos Tribunales competentes expresamente se someten, sin perjuicio para “EL BANCO”, de acudir a cualquier otro que fuere competente de conformidad con la Ley. \n\n      <br/>\n\n      <b>15)	NOTIFICACIONES:</b> Cualquier notificación, aviso o comunicación que EL CLIENTE haya de dirigir a EL BANCO en relación con las condiciones generales dispuestas, deberá hacerlo por escrito, en duplicado y por intermedio de las agencias. Tal notificación, aviso o comunicación EL CLIENTE debe entregarlo a un funcionario autorizado de la respectiva agencia, quien dejará constancia, tanto en el original como en la copia del documento respectivo, del día y la hora en que lo reciba, devolviendo el duplicado a EL CLIENTE y conservando para EL BANCO el original. Cualquier notificación, aviso o comunicación que  EL BANCO tenga que hacer a  EL CLIENTE, lo enviará a la dirección que éste tenga registrada en su sistema y tal notificación, aviso o comunicación se considerará válida por el hecho comprobado de haberse remitido a dicha dirección física o electrónica, sin que sea necesario ningún acuse de recibo.\n\n  </p>\n\n  <p text-center style="font-weight:bold">“BANCO BICENTENARIO DEL PUEBLO”</p>\n\n  \n\n  <ion-row>\n\n    <ion-col>\n\n      <button ion-button block color="secondary" (click)="takeTermsAction(1)">Aceptar</button>\n\n    </ion-col>\n\n    <ion-col>\n\n      <button ion-button block color="primary" (click)="takeTermsAction(0)">Cancelar</button>\n\n    </ion-col>\n\n  </ion-row>\n\n</ion-content>'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\affiliation-terms\affiliation-terms.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* ViewController */]])
+    ], AffiliationTermsPage);
+    return AffiliationTermsPage;
+}());
+
+//# sourceMappingURL=affiliation-terms.js.map
+
+/***/ }),
+
+/***/ 160:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AffiliationPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular_components_loading_loading_controller__ = __webpack_require__(64);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__affiliation_terms_affiliation_terms__ = __webpack_require__(159);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+var AffiliationPage = /** @class */ (function () {
+    function AffiliationPage(navCtrl, navParams, p2pServiceProvider, modalCtrl, alertCtrl, loadingCtrl) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.modalCtrl = modalCtrl;
+        this.alertCtrl = alertCtrl;
+        this.loadingCtrl = loadingCtrl;
+        var receiveData = navParams.get("clientInfo");
+        this.clientInfo = {
+            id: receiveData.id, userType: 'N', name: receiveData.name,
+            docType: receiveData.docType, docNumber: receiveData.docNumber,
+            email: receiveData.email, phone: receiveData.phone, validationKey: receiveData.validationKey,
+            account: '', userName: '', psw: '', pswConfirm: '', securityKey: '', questionSec: '', questionAns: ''
+        };
+        this.accounts = receiveData.accounts;
+        this.regexPsw = receiveData.regexPsw;
+        this.forbidden = receiveData.forbidden;
+    }
+    AffiliationPage.prototype.displayMessage = function (title, subtitle, textBt) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: subtitle,
+            buttons: [textBt]
+        });
+        alert.present();
+    };
+    AffiliationPage.prototype.cancelAffiliation = function () {
+        this.navCtrl.popToRoot();
+    };
+    AffiliationPage.prototype.showPasswordHelp = function () {
+        this.p2pServiceProvider.showPasswordHelp(this.forbidden);
+    };
+    AffiliationPage.prototype.showUserNameHelp = function () {
+        this.p2pServiceProvider.showAffiliationUsernameHelp(this.forbidden, true);
+    };
+    AffiliationPage.prototype.showSecurityHelp = function () {
+        this.p2pServiceProvider.showAffiliationFieldsHelp(this.forbidden, false);
+    };
+    AffiliationPage.prototype.sendAffiliation = function () {
+        var _this = this;
+        if (this.clientInfo.account == "") {
+            this.displayMessage("Error", "Debe seleccionar un número de cuenta.", "Cerrar");
+        }
+        else if (this.clientInfo.userName == "" || this.clientInfo.userName.length < 4
+            || (new RegExp(/^[a-z0-9]+$/gi).test(this.clientInfo.userName)) == false
+            || this.p2pServiceProvider.validateAffiliationUsername(this.clientInfo.docType + '' + this.clientInfo.docNumber, this.forbidden, this.clientInfo.userName) == false) {
+            var alert_1 = this.alertCtrl.create({
+                title: "Error",
+                subTitle: "El usuario no cumple con los requisitos.",
+                buttons: [{
+                        text: 'OK'
+                    }, {
+                        text: 'AYUDA',
+                        handler: function () {
+                            _this.showUserNameHelp();
+                        }
+                    }]
+            });
+            alert_1.present();
+        }
+        else if (this.clientInfo.psw == "" || this.clientInfo.pswConfirm == "") {
+            this.displayMessage("Error", "Debe ingresar la clave y su confirmación", "Cerrar");
+        }
+        else if (this.clientInfo.questionSec == "" || this.clientInfo.questionSec.length < 4
+            || (new RegExp(/^[a-z0-9\s]+$/gi).test(this.clientInfo.questionSec)) == false
+            || this.p2pServiceProvider.validateAffiliationFields(this.clientInfo.name, this.clientInfo.docType + '' + this.clientInfo.docNumber, this.forbidden, this.clientInfo.questionSec) == false) {
+            var alert_2 = this.alertCtrl.create({
+                title: "Error",
+                subTitle: "La pregunta secreta no cumple con los requisitos.",
+                buttons: [{
+                        text: 'OK'
+                    }, {
+                        text: 'AYUDA',
+                        handler: function () {
+                            _this.showSecurityHelp();
+                        }
+                    }]
+            });
+            alert_2.present();
+        }
+        else if (this.clientInfo.questionAns == "" || this.clientInfo.questionAns.length < 4
+            || (new RegExp(/^[a-z0-9\s]+$/gi).test(this.clientInfo.questionAns)) == false || this.p2pServiceProvider.validateAffiliationFields(this.clientInfo.name, this.clientInfo.docType + '' + this.clientInfo.docNumber, this.forbidden, this.clientInfo.questionAns) == false) {
+            var alert_3 = this.alertCtrl.create({
+                title: "Error",
+                subTitle: "La respuesta secreta no cumple con los requisitos.",
+                buttons: [{
+                        text: 'OK'
+                    }, {
+                        text: 'AYUDA',
+                        handler: function () {
+                            _this.showSecurityHelp();
+                        }
+                    }]
+            });
+            alert_3.present();
+        }
+        else if (this.clientInfo.securityKey.length == 0) {
+            this.displayMessage("Error", "Debe ingresar la Clave Tu Pago Móvil (SMS).", "Cerrar");
+        }
+        else if (this.clientInfo.psw != this.clientInfo.pswConfirm) {
+            this.displayMessage("Error", "La confirmación de la clave debe ser igual a la clave ingresada.", "Cerrar");
+        }
+        else if (new RegExp('[0-9]{4}').test(this.clientInfo.securityKey) == false) {
+            this.displayMessage("Error", "La Clave Tu Pago Móvil (SMS) debe ser de 4 números.", "Cerrar");
+        }
+        else if (this.p2pServiceProvider.validatePassword(this.clientInfo.userName, this.clientInfo.name, this.clientInfo.docType + '' + this.clientInfo.docNumber, this.forbidden, this.regexPsw, this.clientInfo.psw) == false) {
+            var alert_4 = this.alertCtrl.create({
+                title: "Error",
+                subTitle: "La nueva contraseña no cumple con los requisitos.",
+                buttons: [{
+                        text: 'OK'
+                    }, {
+                        text: 'AYUDA',
+                        handler: function () {
+                            _this.showPasswordHelp();
+                        }
+                    }]
+            });
+            alert_4.present();
+        }
+        else {
+            var modal = this.modalCtrl.create(__WEBPACK_IMPORTED_MODULE_4__affiliation_terms_affiliation_terms__["a" /* AffiliationTermsPage */]);
+            modal.onDidDismiss(function (resp) {
+                if (resp.id == 1) {
+                    //ACCEPTED
+                    var loader_1 = _this.loadingCtrl.create({
+                        content: "Procesando...",
+                    });
+                    loader_1.present().then(function () {
+                        _this.p2pServiceProvider.sendUserAffiliation(_this.clientInfo).then(function (data) {
+                            var res = data;
+                            if (res.cod_respuesta && !isNaN(res.cod_respuesta) && parseInt(res.cod_respuesta) == 0) {
+                                loader_1.dismiss();
+                                _this.displayMessage("Afiliación", "Usuario afiliado exitosamente", "OK");
+                                _this.navCtrl.popToRoot();
+                            }
+                            else {
+                                if (res.cod_respuesta && res.descripcion_respuesta) {
+                                    _this.displayMessage("Error", res.cod_respuesta + ' - ' + res.descripcion_respuesta, "Cerrar");
+                                }
+                                else {
+                                    _this.displayMessage("Error", "Error de comunicación, mensaje no disponible", "Cerrar");
+                                }
+                                loader_1.dismiss();
+                            }
+                        });
+                    });
+                }
+            });
+            modal.present();
+        }
+    };
+    AffiliationPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-affiliation',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\affiliation\affiliation.html"*/'<ion-header>\n  <ion-navbar color="primary" hideBackButton="true">\n    <ion-title> Afiliación </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  <ion-title>Datos de Afiliación</ion-title>\n\n  <ion-list>\n    <ion-item>\n      <ion-label color="primary" floating>Nombre</ion-label>\n      <ion-input\n        type="text"\n        [(ngModel)]="clientInfo.name"\n        disabled="true"\n      ></ion-input>\n    </ion-item>\n    <ion-item>\n      <ion-label color="primary" floating>Correo</ion-label>\n      <ion-input\n        type="text"\n        [(ngModel)]="clientInfo.email"\n        disabled="true"\n      ></ion-input>\n    </ion-item>\n    <ion-item>\n      <ion-label color="primary" floating>Cuenta</ion-label>\n      <ion-select interface="popover" [(ngModel)]="clientInfo.account">\n        <ion-option value="" disabled="true">Número de Cuenta</ion-option>\n        <ion-option *ngFor="let item of accounts" value="{{item.id}}">{{item.id}}</ion-option>\n      </ion-select>\n    </ion-item>\n    <ion-item>\n      <ion-label floating>Usuario</ion-label>\n      <ion-input\n        type="text"\n        [(ngModel)]="clientInfo.userName"\n        maxlength="16"\n        [valid-input-as]="3"\n      ></ion-input>\n      <button ion-button item-right (click)="showUserNameHelp()">?</button>\n    </ion-item>\n    <ion-item>\n      <ion-label floating>Clave</ion-label>\n      <ion-input\n        type="password"\n        [(ngModel)]="clientInfo.psw"\n        maxlength="16"\n        [valid-input-as]="0"\n      ></ion-input>\n      <button ion-button item-right (click)="showPasswordHelp()">?</button>\n    </ion-item>\n    <ion-item>\n      <ion-label floating>Confirmación de Clave</ion-label>\n      <ion-input\n        type="password"\n        [(ngModel)]="clientInfo.pswConfirm"\n        maxlength="16"\n        [valid-input-as]="0"\n      ></ion-input>\n    </ion-item>\n    <ion-item>\n      <ion-label floating>Pregunta Secreta</ion-label>\n      <ion-input\n        type="text"\n        [(ngModel)]="clientInfo.questionSec"\n        maxlength="16"\n        [valid-input-as]="0"\n      ></ion-input>\n      <button ion-button item-right (click)="showSecurityHelp()">?</button>\n    </ion-item>\n    <ion-item>\n      <ion-label floating>Respuesta Secreta</ion-label>\n      <ion-input\n        type="text"\n        [(ngModel)]="clientInfo.questionAns"\n        maxlength="16"\n        [valid-input-as]="4"\n      ></ion-input>\n      <button ion-button item-right (click)="showSecurityHelp()">?</button>\n    </ion-item>\n    <ion-item>\n      <ion-label floating>Clave Tu Pago Móvil (SMS)</ion-label>\n      <ion-input\n        type="tel"\n        [(ngModel)]="clientInfo.securityKey"\n        maxlength="4"\n        style="-webkit-text-security: disc"\n      ></ion-input>\n    </ion-item>\n  </ion-list>\n\n  <ion-row>\n    <ion-col>\n      <button ion-button block color="secondary" (click)="sendAffiliation()">\n        Afiliar\n      </button>\n    </ion-col>\n    <ion-col>\n      <button ion-button block color="primary" (click)="cancelAffiliation()">\n        Cancelar\n      </button>\n    </ion-col>\n  </ion-row>\n</ion-content>\n\n<ion-footer class="hideElementOnKeyboardShown">\n  <ion-toolbar>\n    <small>Comercializado por</small><br /><small\n      ><b>Corporación Unidigital C.A. J-40148330-5.</b></small\n    >\n  </ion-toolbar>\n</ion-footer>\n'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\affiliation\affiliation.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* ModalController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular_components_loading_loading_controller__["a" /* LoadingController */]])
+    ], AffiliationPage);
+    return AffiliationPage;
+}());
+
+//# sourceMappingURL=affiliation.js.map
+
+/***/ }),
+
+/***/ 164:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ChangePasswordPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_crypto_js__ = __webpack_require__(89);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_crypto_js___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_crypto_js__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs__ = __webpack_require__(91);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__home_home__ = __webpack_require__(42);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+//Modules & Components
+
+
+
+
+
+
+var ChangePasswordPage = /** @class */ (function () {
+    function ChangePasswordPage(navCtrl, navParams, alertCtrl, p2pServiceProvider, loadingCtrl) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.alertCtrl = alertCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.loadingCtrl = loadingCtrl;
+        this.counter = 300;
+        this.change = {
+            oldPassword: '',
+            newPassword: '',
+            newPasswordConfirm: '',
+            securityCode: ''
+        };
+        this.username = navParams.get('username');
+        this.loginData = navParams.get('loginData');
+    }
+    ChangePasswordPage.prototype.ionViewDidLoad = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.userSecurityChangeRequest(_this.username.toLowerCase())
+                .then(function (data) {
+                var userSecurityData = data;
+                if (userSecurityData._body == null && userSecurityData.name == null && parseInt(userSecurityData.cod_respuesta) == 0) {
+                    loader.dismiss();
+                    _this.counter = 300;
+                    _this.countDown = __WEBPACK_IMPORTED_MODULE_3_rxjs__["Observable"].timer(0, 1000).take(_this.counter)
+                        .map(function () { return _this.counter = _this.counter == 0 ? 0 : (_this.counter % 100) == 0 ? (_this.counter - 41) : (_this.counter - 1); });
+                }
+                else {
+                    if (userSecurityData._body == null && userSecurityData.name == null) {
+                        _this.displayMessage("Error", userSecurityData.cod_respuesta + ' - ' + userSecurityData.descripcion_respuesta);
+                    }
+                    loader.dismiss();
+                }
+            });
+        });
+    };
+    ChangePasswordPage.prototype.validate = function () {
+        var _this = this;
+        if (this.change.oldPassword == '' || this.change.newPassword == '' || this.change.newPasswordConfirm == '') {
+            this.displayMessage("Error", "Complete los campos correctamente.");
+        }
+        else if (this.change.securityCode.trim().length < 8) {
+            this.displayMessage("Error", "El código de seguridad debe contener mínimo 8 letras y/o números");
+        }
+        else if (!this.change.securityCode.match('^[a-zA-Z0-9]*$')) {
+            this.displayMessage("Error", "El código de seguridad debe solo contener letras y/o números");
+        }
+        else if (this.change.newPassword != this.change.newPasswordConfirm) {
+            this.displayMessage("Error", "Las contraseñas no coinciden");
+        }
+        else if (this.p2pServiceProvider.validatePassword(this.username, this.loginData.nombre_afiliado, this.loginData.cedula, this.loginData.lista_palabras, this.loginData.expresion_regular, this.change.newPassword) == false) {
+            var alert_1 = this.alertCtrl.create({
+                title: "Error",
+                subTitle: "La nueva contraseña no cumple con los requisitos.",
+                buttons: [{
+                        text: 'OK'
+                    }, {
+                        text: 'AYUDA',
+                        handler: function () {
+                            _this.showPasswordHelp();
+                        }
+                    }]
+            });
+            alert_1.present();
+        }
+        else {
+            this.changePasswordRequest();
+        }
+    };
+    ChangePasswordPage.prototype.changePasswordRequest = function () {
+        var _this = this;
+        var changePasswordObject = {
+            "username": this.username,
+            "oldpassword": __WEBPACK_IMPORTED_MODULE_1_crypto_js__["SHA512"](this.change.oldPassword).toString(),
+            "newpassword": __WEBPACK_IMPORTED_MODULE_1_crypto_js__["SHA512"](this.change.newPassword).toString(),
+            "canal": "04", "otp": this.change.securityCode,
+            "fechahora_disp": new Date()
+        };
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.changePasswordRequest(changePasswordObject)
+                .then(function (data) {
+                _this.changePasswordResult = data;
+                if (_this.changePasswordResult._body == null && _this.changePasswordResult.name == null && _this.changePasswordResult.cod_respuesta == "000") {
+                    _this.displayMessage("Aviso", "Operación Exitosa");
+                    _this.logout();
+                }
+                else {
+                    if (_this.changePasswordResult._body == null && _this.changePasswordResult.name == null) {
+                        _this.displayMessage("Error", (_this.changePasswordResult.cod_respuesta) + ' - ' + _this.changePasswordResult.descripcion_respuesta);
+                        if (_this.changePasswordResult.cod_respuesta == _this.p2pServiceProvider.SESSION_EXPIRED) {
+                            _this.navCtrl.popToRoot();
+                        }
+                    }
+                }
+                loader.dismiss();
+            });
+        });
+    };
+    ChangePasswordPage.prototype.displayMessage = function (title, message) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: message,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    ChangePasswordPage.prototype.logout = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.logoutRequest()
+                .then(function (data) {
+                loader.dismiss();
+                _this.navCtrl.setRoot(__WEBPACK_IMPORTED_MODULE_5__home_home__["a" /* HomePage */]);
+                _this.navCtrl.popToRoot();
+            });
+        });
+    };
+    ChangePasswordPage.prototype.showPasswordHelp = function () {
+        this.p2pServiceProvider.showPasswordHelp(this.loginData.lista_palabras);
+    };
+    ChangePasswordPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-change-password',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\change-password\change-password.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n\n    <ion-title>\n\n      Cambiar Contraseña\n\n    </ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content padding>\n\n  <ion-list>\n\n    <ion-item>\n\n      <ion-label floating>Ingrese contraseña actual</ion-label>\n\n      <ion-input type="password" [(ngModel)]="change.oldPassword" name="oldPassword" maxlength="16" [valid-input-as]="0"></ion-input>\n\n    </ion-item>\n\n\n\n    <ion-item>\n\n      <ion-label floating>Ingrese nueva contraseña</ion-label>\n\n      <ion-input type="password" [(ngModel)]="change.newPassword" name="newPassword" maxlength="16" [valid-input-as]="0"></ion-input>\n\n      <button ion-button item-right (click)="showPasswordHelp()">  ?  </button>\n\n    </ion-item>\n\n\n\n    <ion-item>\n\n      <ion-label floating>Confirme su nueva contraseña</ion-label>\n\n      <ion-input type="password" [(ngModel)]="change.newPasswordConfirm" name="newPasswordConfirm" maxlength="16" [valid-input-as]="0"></ion-input>\n\n    </ion-item>\n\n\n\n    <ion-item>\n\n      <ion-label floating>Código de Seguridad</ion-label>\n\n      <ion-input type="text" [(ngModel)]="change.securityCode" maxlength="12" [valid-input-as]="3"></ion-input>\n\n    </ion-item>\n\n\n\n    <ion-item *ngIf="\'\'+(countDown | async) as timeView" text-center>\n\n      <ion-row>\n\n        <ion-col *ngIf="timeView > 0">\n\n          {{ (timeView < 100 ? \'0\' : timeView.substr(0,1)) +\':\'+ (timeView < 100 ? timeView : timeView.substr(1,3)) }}\n\n        </ion-col>\n\n        <ion-col *ngIf="timeView == 0">\n\n          <button ion-button class="round-bt" (click)="ionViewDidLoad()">\n\n            <ion-icon name="refresh"></ion-icon>\n\n          </button>\n\n        </ion-col>\n\n      </ion-row>\n\n      <ion-row>\n\n        <ion-col>\n\n          <small *ngIf="timeView > 0">Tiempo restante para validar información</small>\n\n          <small *ngIf="timeView == 0">Reenviar código de seguridad</small>\n\n        </ion-col>\n\n      </ion-row>\n\n    </ion-item>\n\n  </ion-list>\n\n  <button ion-button block color="secondary" (click)="validate()">Enviar</button>\n\n\n\n</ion-content>\n\n\n\n<ion-footer class="hideElementOnKeyboardShown">\n\n	<ion-toolbar>\n\n		<small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n\n	</ion-toolbar>\n\n</ion-footer>\n\n'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\change-password\change-password.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_4__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["f" /* LoadingController */]])
+    ], ChangePasswordPage);
+    return ChangePasswordPage;
+}());
+
+//# sourceMappingURL=change-password.js.map
+
+/***/ }),
+
+/***/ 176:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ClientQaRequestPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Rx__ = __webpack_require__(91);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Rx___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_Rx__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__home_home__ = __webpack_require__(42);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+var ClientQaRequestPage = /** @class */ (function () {
+    function ClientQaRequestPage(navCtrl, navParams, alertCtrl, platform, loadingCtrl, p2pServiceProvider) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.alertCtrl = alertCtrl;
+        this.platform = platform;
+        this.loadingCtrl = loadingCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.counter = 300;
+        this.securityInfo = {
+            username: '',
+            userId: '',
+            baseRegExp: '',
+            forbidden: ''
+        };
+        this.navCtrl.swipeBackEnabled = false;
+        this.securityCode = '';
+        this.securityQuestion = '';
+        this.securityAnswer = '';
+        this.securityInfo.username = navParams.get('usuario');
+        this.securityInfo.baseRegExp = navParams.get('expresion_regular');
+        this.securityInfo.userId = navParams.get('cedula');
+        this.securityInfo.forbidden = navParams.get('lista_palabras');
+        if (navParams.get('isLoginCall'))
+            this.resendValidCode();
+    }
+    ClientQaRequestPage.prototype.ionViewDidLoad = function () {
+        var _this = this;
+        this.countDown = __WEBPACK_IMPORTED_MODULE_2_rxjs_Rx__["Observable"].timer(0, 1000).take(this.counter)
+            .map(function () { return _this.counter = _this.counter == 0 ? 0 : (_this.counter % 100) == 0 ? (_this.counter - 41) : (_this.counter - 1); });
+    };
+    ClientQaRequestPage.prototype.displayMessage = function (title, message) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: message,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    ClientQaRequestPage.prototype.showSecurityHelp = function () {
+        this.p2pServiceProvider.showAffiliationFieldsHelp(this.securityInfo.forbidden, false);
+    };
+    ClientQaRequestPage.prototype.validateSecurityChange = function () {
+        var validCode = false;
+        if (this.securityCode && this.securityCode.length >= 8 && this.securityCode.match('^[a-zA-Z0-9]*$')) {
+            validCode = true;
+        }
+        if (validCode) {
+            if (this.securityQuestion == '' || this.securityQuestion.length < 4 ||
+                (new RegExp(/^[a-z0-9\s]+$/gi).test(this.securityQuestion)) == false ||
+                this.p2pServiceProvider.validateAffiliationFields(this.securityInfo.username, this.securityInfo.userId, this.securityInfo.forbidden, this.securityQuestion) == false) {
+                this.displayMessage("Error", "La pregunta secreta no cumple con los requisitos");
+            }
+            else if (this.securityAnswer == '' || this.securityAnswer.length < 4 ||
+                (new RegExp(/^[a-z0-9\s]+$/gi).test(this.securityAnswer)) == false ||
+                this.p2pServiceProvider.validateAffiliationFields(this.securityInfo.username, this.securityInfo.userId, this.securityInfo.forbidden, this.securityAnswer) == false) {
+                this.displayMessage("Error", "La respuesta secreta no cumple con los requisitos");
+            }
+            else {
+                this.userSecurityChange();
+            }
+        }
+        else {
+            this.displayMessage("Error", "El código de seguridad debe solo contener letras y/o números");
+        }
+    };
+    ClientQaRequestPage.prototype.resendValidCode = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.userSecurityChangeRequest(_this.securityInfo.username.toLowerCase())
+                .then(function (data) {
+                var userSecurityData = data;
+                if (userSecurityData._body == null && userSecurityData.name == null && parseInt(userSecurityData.cod_respuesta) == 0) {
+                    loader.dismiss();
+                    _this.counter = 300;
+                    _this.ionViewDidLoad();
+                }
+                else {
+                    if (userSecurityData._body == null && userSecurityData.name == null) {
+                        _this.displayMessage("Error", userSecurityData.cod_respuesta + ' - ' + userSecurityData.descripcion_respuesta);
+                    }
+                    loader.dismiss();
+                }
+            });
+        });
+    };
+    ClientQaRequestPage.prototype.userSecurityChange = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.userSecurityChangeQA(_this.securityInfo.username.toLowerCase(), _this.securityQuestion, _this.securityAnswer, _this.securityCode)
+                .then(function (data) {
+                var userSecurityData = data;
+                if (userSecurityData._body == null && userSecurityData.name == null && parseInt(userSecurityData.cod_respuesta) == 0) {
+                    _this.displayMessage("Aviso", "Operación Exitosa");
+                    loader.dismiss();
+                    _this.navCtrl.setRoot(__WEBPACK_IMPORTED_MODULE_4__home_home__["a" /* HomePage */]);
+                    _this.navCtrl.popToRoot();
+                }
+                else {
+                    if (userSecurityData._body == null && userSecurityData.name == null) {
+                        _this.displayMessage("Error", userSecurityData.cod_respuesta + ' - ' + userSecurityData.descripcion_respuesta);
+                    }
+                    loader.dismiss();
+                }
+            });
+        });
+    };
+    ClientQaRequestPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-client-qa-request',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\client-qa-request\client-qa-request.html"*/'<ion-header>\n  <ion-navbar color="primary">\n    <ion-title> Modificar Pregunta Secreta </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  <ion-list>\n    <ion-item>\n      <ion-label floating><strong>Usuario</strong></ion-label>\n      <ion-input\n        type="text"\n        [(ngModel)]="securityInfo.username"\n        disabled="true"\n      ></ion-input>\n    </ion-item>\n    <ion-item>\n      <ion-label floating>Código de Seguridad</ion-label>\n      <ion-input\n        type="text"\n        [(ngModel)]="securityCode"\n        maxlength="12"\n        [valid-input-as]="3"\n      ></ion-input>\n    </ion-item>\n    <ion-item>\n      <ion-label floating>Pregunta Secreta</ion-label>\n      <ion-input\n        type="text"\n        [(ngModel)]="securityQuestion"\n        maxlength="16"\n        [valid-input-as]="0"\n      ></ion-input>\n      <button ion-button item-right (click)="showSecurityHelp()">?</button>\n    </ion-item>\n    <ion-item>\n      <ion-label floating>Respuesta Secreta</ion-label>\n      <ion-input\n        type="text"\n        [(ngModel)]="securityAnswer"\n        maxlength="16"\n        [valid-input-as]="4"\n      ></ion-input>\n      <button ion-button item-right (click)="showSecurityHelp()">?</button>\n    </ion-item>\n\n    <ion-item *ngIf="\'\'+(countDown | async) as timeView" text-center>\n      <ion-row>\n        <ion-col *ngIf="timeView > 0">\n          {{ (timeView < 100 ? \'0\' : timeView.substr(0,1)) +\':\'+ (timeView < 100\n          ? timeView : timeView.substr(1,3)) }}\n        </ion-col>\n        <ion-col *ngIf="timeView == 0">\n          <button ion-button class="round-bt" (click)="resendValidCode()">\n            <ion-icon name="refresh"></ion-icon>\n          </button>\n        </ion-col>\n      </ion-row>\n      <ion-row>\n        <ion-col>\n          <small *ngIf="timeView > 0">Tiempo restante para validar información</small>\n          <small *ngIf="timeView == 0">Reenviar código de seguridad</small>\n        </ion-col>\n      </ion-row>\n    </ion-item>\n  </ion-list>\n\n  <ion-row>\n    <ion-col>\n      <button\n        ion-button\n        block\n        color="secondary"\n        (click)="validateSecurityChange()"\n      >\n        Aceptar\n      </button>\n    </ion-col>\n  </ion-row>\n</ion-content>\n\n<ion-footer class="hideElementOnKeyboardShown">\n  <ion-toolbar>\n    <small>Comercializado por</small>\n    <br />\n    <small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n  </ion-toolbar>\n</ion-footer>\n'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\client-qa-request\client-qa-request.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* Platform */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */]])
+    ], ClientQaRequestPage);
+    return ClientQaRequestPage;
+}());
+
+//# sourceMappingURL=client-qa-request.js.map
+
+/***/ }),
+
+/***/ 177:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ClientidRequestPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__phone_chooser_phone_chooser__ = __webpack_require__(178);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+var ClientidRequestPage = /** @class */ (function () {
+    function ClientidRequestPage(navCtrl, navParams, alertCtrl, platform, loadingCtrl, p2pServiceProvider) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.alertCtrl = alertCtrl;
+        this.platform = platform;
+        this.loadingCtrl = loadingCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.docTypeList();
+        this.navCtrl.swipeBackEnabled = false;
+    }
+    ClientidRequestPage.prototype.ionViewWillLeave = function () {
+        console.log(typeof this.unregisterBackAction == 'function');
+        if (this.unregisterBackAction && typeof this.unregisterBackAction == 'function') {
+            this.unregisterBackAction();
+        }
+    };
+    ClientidRequestPage.prototype.cancelAffiliation = function () {
+        this.ionViewWillLeave();
+        this.navCtrl.popToRoot();
+    };
+    ClientidRequestPage.prototype.displayMessage = function (title, message) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: message,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    ClientidRequestPage.prototype.docTypeList = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Espere por favor",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.getAffiliationDocTypes().then(function (data) {
+                var res = data;
+                if (res.cod_respuesta && !isNaN(res.cod_respuesta) && parseInt(res.cod_respuesta) == 0) {
+                    loader.dismiss();
+                    _this.typesList = res.TiposAfiliados;
+                }
+                else {
+                    if (res.cod_respuesta && res.descripcion_respuesta) {
+                        _this.displayMessage("Error", res.cod_respuesta + ' - ' + res.descripcion_respuesta);
+                    }
+                    else {
+                        _this.displayMessage("Error", "Error de comunicación, mensaje no disponible");
+                    }
+                    loader.dismiss();
+                }
+            });
+        });
+    };
+    ClientidRequestPage.prototype.validClientID = function () {
+        var _this = this;
+        //VALID DATA
+        if (!this.idType || this.idType.toString() == "" || !this.id || this.id.toString().length < 6) {
+            this.displayMessage("Error", "Debe ingresar un documento de identificación válido");
+        }
+        else if (isNaN(this.id.valueOf()) || this.id.toString().trim().length == 0) {
+            this.displayMessage("Error", "Debe ingresar solo números en el número de documento");
+        }
+        else {
+            var loader_1 = this.loadingCtrl.create({
+                content: "Procesando...",
+            });
+            this.p2pServiceProvider.onViewMsgPresent = true;
+            loader_1.onDidDismiss(function () { _this.p2pServiceProvider.onViewMsgPresent = false; });
+            loader_1.present().then(function () {
+                _this.p2pServiceProvider.getClientPhones(_this.id, _this.idType).then(function (data) {
+                    var res = data;
+                    console.log("Valid res " + res + " with property " + res.Telefonos);
+                    if (res.cod_respuesta && !isNaN(res.cod_respuesta) && parseInt(res.cod_respuesta) == 0) {
+                        loader_1.dismiss();
+                        _this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_3__phone_chooser_phone_chooser__["a" /* PhoneChooserPage */], { clientId: _this.id, clientIdType: _this.idType, phones: res.Telefonos });
+                    }
+                    else {
+                        if (res.cod_respuesta && res.descripcion_respuesta) {
+                            _this.displayMessage("Error", res.cod_respuesta + ' - ' + res.descripcion_respuesta);
+                        }
+                        else {
+                            _this.displayMessage("Error", "Error de comunicación, mensaje no disponible");
+                        }
+                        loader_1.dismiss();
+                        _this.cancelAffiliation();
+                    }
+                });
+            });
+        }
+    };
+    ClientidRequestPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-clientid-request',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\clientid-request\clientid-request.html"*/'<ion-header>\n  <ion-navbar color="primary" hideBackButton="true">\n    <ion-title> Afiliación </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  <ion-row>\n    <ion-col><h5>Documento de Identificación</h5></ion-col>\n  </ion-row>\n  <ion-row>\n    <ion-col>\n      <ion-select interface="popover" [(ngModel)]="idType">\n        <ion-option value="" disabled="true" selected="true">Documento</ion-option>\n        <ion-option *ngFor="let item of typesList" value="{{item.codigo}}">{{item.codigo}}</ion-option>\n      </ion-select>\n    </ion-col>\n    <ion-col>\n      <ion-input\n        type="tel"\n        [(ngModel)]="id"\n        name="idNumber"\n        placeholder="N° Documento"\n        maxlength="9"\n        [valid-input-as]="0"\n      ></ion-input>\n    </ion-col>\n  </ion-row>\n  <ion-row>\n    <ion-col>\n      <small text-wrap class="msgInfo">*Tenga al alcance los productos que posee con el banco</small>\n    </ion-col>\n  </ion-row>\n\n  <ion-row>\n    <ion-col>\n      <button ion-button block color="secondary" (click)="validClientID()">\n        Continuar\n      </button>\n    </ion-col>\n    <ion-col>\n      <button ion-button block color="primary" (click)="cancelAffiliation()">\n        Cancelar\n      </button>\n    </ion-col>\n  </ion-row>\n</ion-content>\n\n<ion-footer class="hideElementOnKeyboardShown">\n  <ion-toolbar>\n    <small>Comercializado por</small>\n    <br />\n    <small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n  </ion-toolbar>\n</ion-footer>\n'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\clientid-request\clientid-request.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* Platform */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_2__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */]])
+    ], ClientidRequestPage);
+    return ClientidRequestPage;
+}());
+
+//# sourceMappingURL=clientid-request.js.map
+
+/***/ }),
+
+/***/ 178:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return PhoneChooserPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_forms__ = __webpack_require__(30);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ionic_angular_components_alert_alert_controller__ = __webpack_require__(120);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_ionic_angular_components_loading_loading_controller__ = __webpack_require__(64);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__verify_affiliation_verify_affiliation__ = __webpack_require__(179);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+var PhoneChooserPage = /** @class */ (function () {
+    function PhoneChooserPage(navCtrl, navParams, formBuilder, loadingCtrl, p2pServiceProvider, alertCtrl) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.formBuilder = formBuilder;
+        this.loadingCtrl = loadingCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.alertCtrl = alertCtrl;
+        this.clientID = navParams.get('clientId');
+        this.clientIdType = navParams.get('clientIdType');
+        this.chooseForm = this.formBuilder.group({ phoneChoose: '' });
+        this.phones = this.navParams.get("phones");
+    }
+    PhoneChooserPage.prototype.displayMessage = function (title, message) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: message,
+            buttons: ['Cerrar']
+        });
+        alert.present();
+    };
+    PhoneChooserPage.prototype.cancelAffiliation = function () {
+        this.navCtrl.popToRoot();
+    };
+    PhoneChooserPage.prototype.notifyPhoneChoose = function () {
+        var _this = this;
+        if (this.chooseForm.get('phoneChoose').value.length == 0) {
+            this.displayMessage("Error", "Debe seleccionar un teléfono");
+        }
+        else {
+            var loader_1 = this.loadingCtrl.create({
+                content: "Procesando...",
+            });
+            loader_1.present().then(function () {
+                _this.p2pServiceProvider.getAffiliationCode(_this.clientIdType, _this.clientID, _this.chooseForm.get('phoneChoose').value)
+                    .then(function (data) {
+                    var res = data;
+                    if (res.cod_respuesta && !isNaN(res.cod_respuesta) && parseInt(res.cod_respuesta) == 0) {
+                        loader_1.dismiss();
+                        _this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_6__verify_affiliation_verify_affiliation__["a" /* VerifyAffiliationPage */], {
+                            clientId: _this.clientID, clientIdType: _this.clientIdType,
+                            clientPhone: _this.chooseForm.get('phoneChoose').value
+                        });
+                    }
+                    else {
+                        if (res.cod_respuesta && res.descripcion_respuesta) {
+                            _this.displayMessage("Error", res.cod_respuesta + ' - ' + res.descripcion_respuesta);
+                        }
+                        else {
+                            _this.displayMessage("Error", "Error de comunicación, mensaje no disponible");
+                        }
+                        loader_1.dismiss();
+                    }
+                });
+            });
+        }
+    };
+    PhoneChooserPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-phone-chooser',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\phone-chooser\phone-chooser.html"*/'<ion-header>\n\n    <ion-navbar color="primary" hideBackButton="true">\n\n      <ion-title>\n\n        Afiliación\n\n      </ion-title>\n\n    </ion-navbar>\n\n  </ion-header>\n\n  \n\n  \n\n  <ion-content padding>\n\n    <h5>Seleccione un teléfono</h5>\n\n\n\n    <form [formGroup]="chooseForm">\n\n    <ion-list radio-group formControlName="phoneChoose">\n\n      <ion-item *ngFor="let item of phones">\n\n        <ion-label>{{item.Texto}}</ion-label>\n\n        <ion-radio value="{{item.Texto}}"></ion-radio>\n\n      </ion-item>\n\n      <ion-item>\n\n        <small text-wrap class="msgInfo">*Le será enviado un código de seguridad al teléfono que seleccione</small>\n\n      </ion-item>\n\n    </ion-list>\n\n\n\n    <ion-row>\n\n      <ion-col>\n\n        <button ion-button block color="secondary" (click)="notifyPhoneChoose()">Continuar</button>\n\n      </ion-col>\n\n      <ion-col>\n\n          <button ion-button block color="primary" (click)="cancelAffiliation()">Cancelar</button>\n\n      </ion-col>\n\n    </ion-row>\n\n  </form>\n\n  </ion-content>\n\n  \n\n  <ion-footer class="hideElementOnKeyboardShown">\n\n    <ion-toolbar>\n\n      <small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n\n    </ion-toolbar>\n\n  </ion-footer>\n\n'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\phone-chooser\phone-chooser.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_1__angular_forms__["a" /* FormBuilder */],
+            __WEBPACK_IMPORTED_MODULE_4_ionic_angular_components_loading_loading_controller__["a" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_5__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */],
+            __WEBPACK_IMPORTED_MODULE_3_ionic_angular_components_alert_alert_controller__["a" /* AlertController */]])
+    ], PhoneChooserPage);
+    return PhoneChooserPage;
+}());
+
+//# sourceMappingURL=phone-chooser.js.map
+
+/***/ }),
+
+/***/ 179:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return VerifyAffiliationPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Rx__ = __webpack_require__(91);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Rx___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_Rx__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__affiliation_affiliation__ = __webpack_require__(160);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+var VerifyAffiliationPage = /** @class */ (function () {
+    function VerifyAffiliationPage(navCtrl, navParams, p2pServiceProvider, loadingCtrl, alertCtrl) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.loadingCtrl = loadingCtrl;
+        this.alertCtrl = alertCtrl;
+        this.counter = 300;
+        this.clientInfo = {
+            docType: navParams.get('clientIdType'),
+            docNumber: navParams.get('clientId'),
+            phone: navParams.get('clientPhone'),
+            id: '',
+            name: '',
+            email: '',
+            accountLast: '',
+            accounts: [],
+            regexPsw: "",
+            forbidden: [],
+            validationKey: ''
+        };
+    }
+    VerifyAffiliationPage.prototype.ionViewDidLoad = function () {
+        var _this = this;
+        this.countDown = __WEBPACK_IMPORTED_MODULE_2_rxjs_Rx__["Observable"].timer(0, 1000).take(this.counter)
+            .map(function () { return _this.counter = _this.counter == 0 ? 0 : (_this.counter % 100) == 0 ? (_this.counter - 41) : (_this.counter - 1); });
+    };
+    VerifyAffiliationPage.prototype.cancelAffiliation = function () {
+        this.navCtrl.popToRoot();
+    };
+    VerifyAffiliationPage.prototype.displayMessage = function (title, message) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: message,
+            buttons: ['Cerrar']
+        });
+        alert.present();
+    };
+    VerifyAffiliationPage.prototype.sendVerificationData = function () {
+        var _this = this;
+        if (this.validCode && this.idAccount && this.validCode.length >= 8 && this.idAccount.toString().trim().length == 4 &&
+            !isNaN(this.idAccount.valueOf()) && this.idAccount.toString() != '0000' && this.validCode.match('^[a-zA-Z0-9]*$')) {
+            this.clientInfo.accountLast = this.idAccount.toString();
+            this.clientInfo.validationKey = this.validCode.toUpperCase();
+            var loader_1 = this.loadingCtrl.create({
+                content: "Procesando...",
+            });
+            loader_1.present().then(function () {
+                _this.p2pServiceProvider.validAffiliationCode(_this.clientInfo, _this.validCode)
+                    .then(function (data) {
+                    var res = data;
+                    if (res.cod_respuesta && !isNaN(res.cod_respuesta) && parseInt(res.cod_respuesta) == 0) {
+                        _this.clientInfo.id = res.nro_cliente;
+                        _this.clientInfo.name = res.nombre;
+                        _this.clientInfo.email = res.email;
+                        _this.clientInfo.forbidden = res.PalabrasRestringidas;
+                        _this.clientInfo.regexPsw = res.expresion_regular;
+                        var accountList = [{ id: res.cuentas[0] }];
+                        var accountID = 1;
+                        while (accountID < res.cuentas.length) {
+                            accountList.push({ id: res.cuentas[accountID] });
+                            accountID++;
+                        }
+                        _this.clientInfo.accounts = accountList;
+                        loader_1.dismiss();
+                        _this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_4__affiliation_affiliation__["a" /* AffiliationPage */], { clientInfo: _this.clientInfo });
+                    }
+                    else {
+                        if (res.cod_respuesta && res.descripcion_respuesta) {
+                            _this.displayMessage("Error", res.cod_respuesta + ' - ' + res.descripcion_respuesta);
+                        }
+                        else {
+                            _this.displayMessage("Error", "Error de comunicación, mensaje no disponible");
+                        }
+                        loader_1.dismiss();
+                    }
+                });
+            });
+        }
+        else if (this.idAccount && (isNaN(this.idAccount.valueOf()) || this.idAccount.toString() == '0000')) {
+            this.displayMessage("Error", "Debe ingresar un código de cuenta valido.");
+        }
+        else if (this.validCode && !(this.validCode.match('^[a-zA-Z0-9]*$'))) {
+            this.displayMessage("Error", "El código de validación debe solo contener letras y/o números.");
+        }
+        else {
+            this.displayMessage("Error", "Debe completar los datos correctamente");
+        }
+    };
+    VerifyAffiliationPage.prototype.resendValidCode = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.getAffiliationCode(_this.clientInfo.docType, _this.clientInfo.docNumber, _this.clientInfo.phone)
+                .then(function (data) {
+                var res = data;
+                if (res.cod_respuesta && !isNaN(res.cod_respuesta) && parseInt(res.cod_respuesta) == 0) {
+                    loader.dismiss();
+                    _this.counter = 300;
+                    _this.ionViewDidLoad();
+                }
+                else {
+                    if (res.cod_respuesta && res.descripcion_respuesta) {
+                        _this.displayMessage("Error", res.cod_respuesta + ' - ' + res.descripcion_respuesta);
+                    }
+                    else {
+                        _this.displayMessage("Error", "Error de comunicación, mensaje no disponible");
+                    }
+                    loader.dismiss();
+                }
+            });
+        });
+    };
+    VerifyAffiliationPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-verify-affiliation',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\verify-affiliation\verify-affiliation.html"*/'<ion-header>\n\n    <ion-navbar color="primary" hideBackButton="true">\n\n      <ion-title>\n\n        Afiliación\n\n      </ion-title>\n\n    </ion-navbar>\n\n  </ion-header>\n\n  \n\n  \n\n  <ion-content padding>\n\n    <h5>Datos de verificación</h5>\n\n    <ion-list>\n\n      <ion-item>\n\n        <ion-label floating>Código de Seguridad</ion-label>\n\n        <ion-input type="text" [(ngModel)]="validCode" maxlength="12" [valid-input-as]="3"></ion-input>\n\n      </ion-item>\n\n      <ion-item>\n\n        <ion-label floating text-wrap>Ultimos 4 dígitos de una de sus cuentas</ion-label>\n\n        <ion-input type="tel" [(ngModel)]="idAccount" maxlength="4"></ion-input>\n\n      </ion-item>\n\n      <ion-item *ngIf="\'\'+(countDown | async) as timeView" text-center>\n\n        <ion-row>\n\n          <ion-col *ngIf="timeView > 0">\n\n            {{ (timeView < 100 ? \'0\' : timeView.substr(0,1)) +\':\'+ (timeView < 100 ? timeView : timeView.substr(1,3)) }}  \n\n          </ion-col>\n\n          <ion-col *ngIf="timeView == 0">\n\n            <button ion-button class="round-bt" (click)="resendValidCode()">\n\n                <ion-icon name="refresh"></ion-icon>\n\n            </button>\n\n          </ion-col>\n\n        </ion-row>\n\n        <ion-row>\n\n          <ion-col>\n\n            <small *ngIf="timeView > 0">Tiempo restante para validar información</small>\n\n            <small *ngIf="timeView == 0">Reenviar código de seguridad</small>\n\n          </ion-col>  \n\n        </ion-row>\n\n      </ion-item>\n\n    </ion-list>\n\n\n\n    <ion-row>\n\n      <ion-col>\n\n        <button ion-button block color="secondary" (click)="sendVerificationData()">Continuar</button>\n\n      </ion-col>\n\n      <ion-col>\n\n          <button ion-button block color="primary" (click)="cancelAffiliation()">Cancelar</button>\n\n      </ion-col>\n\n    </ion-row>\n\n  </ion-content>\n\n  \n\n  <ion-footer class="hideElementOnKeyboardShown">\n\n    <ion-toolbar>\n\n      <small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n\n    </ion-toolbar>\n\n  </ion-footer>\n\n\n\n'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\verify-affiliation\verify-affiliation.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* AlertController */]])
+    ], VerifyAffiliationPage);
+    return VerifyAffiliationPage;
+}());
+
+//# sourceMappingURL=verify-affiliation.js.map
+
+/***/ }),
+
+/***/ 180:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return OptionsPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__pages_home_home__ = __webpack_require__(42);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__change_password_change_password__ = __webpack_require__(164);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__company_balance_company_balance__ = __webpack_require__(538);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__company_received_company_received__ = __webpack_require__(539);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__payment_order_payment_order__ = __webpack_require__(540);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__received_payments_received_payments__ = __webpack_require__(544);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__sent_payments_sent_payments__ = __webpack_require__(545);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+//Modules & Components
+
+
+
+
+
+
+
+
+
+
+var OptionsPage = /** @class */ (function () {
+    function OptionsPage(navCtrl, navParams, loadingCtrl, p2pServiceProvider) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.loadingCtrl = loadingCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.loginData = navParams.get('loginData');
+        this.password = navParams.get('password');
+        this.username = navParams.get('username');
+        this.p2pServiceProvider.accountInfo.balance = this.formatAmount(Number(this.loginData.saldo_disponible).toFixed(2));
+        this.p2pServiceProvider.accountInfo.dailyLimit = this.formatAmount(Number(this.loginData.limite_diario - this.loginData.acum_diario).toFixed(2));
+        this.p2pServiceProvider.accountInfo.monthLimit = this.formatAmount(Number(this.loginData.limite_mensual - this.loginData.acum_mensual).toFixed(2));
+    }
+    OptionsPage.prototype.isCompany = function () {
+        //0: Natural 1: Company
+        return this.loginData.tipo_afiliado == 1;
+    };
+    OptionsPage.prototype.formatAmount = function (amount) {
+        return amount.replace(/\./gi, ",").replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+    };
+    OptionsPage.prototype.nextPage = function (option) {
+        var args = {
+            loginData: this.loginData,
+            username: this.username,
+            password: this.password
+        };
+        switch (option) {
+            case 1:
+                this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_7__payment_order_payment_order__["a" /* PaymentOrderPage */], args);
+                break;
+            case 2:
+                this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_9__sent_payments_sent_payments__["a" /* SentPaymentsPage */], args);
+                break;
+            case 3:
+                this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_8__received_payments_received_payments__["a" /* ReceivedPaymentsPage */], args);
+                break;
+            case 4:
+                this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_4__change_password_change_password__["a" /* ChangePasswordPage */], args);
+                break;
+            case 5:
+                this.logout();
+                break;
+            case 6:
+                this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_5__company_balance_company_balance__["a" /* CompanyBalancePage */], args);
+                break;
+            case 7:
+                this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_6__company_received_company_received__["a" /* CompanyReceivedPage */], args);
+                break;
+        }
+    };
+    OptionsPage.prototype.logout = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        this.p2pServiceProvider.onViewMsgPresent = true;
+        loader.onDidDismiss(function () { _this.p2pServiceProvider.onViewMsgPresent = false; });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.logoutRequest()
+                .then(function (data) {
+                loader.dismiss();
+                _this.navCtrl.setRoot(__WEBPACK_IMPORTED_MODULE_2__pages_home_home__["a" /* HomePage */]);
+                _this.navCtrl.popToRoot();
+            });
+        });
+    };
+    OptionsPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-options',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\options\options.html"*/'<ion-header>\n\n  <ion-navbar color="primary" hideBackButton="true">\n\n    <ion-title>\n\n      Tu Pago Móvil\n\n    </ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content class="background">\n\n  <div class="container">\n\n    <img src="assets/images/logo_bicentenario.png" alt="">\n\n  </div>\n\n\n\n   <ion-card *ngIf="!isCompany()" class="card-balance">\n\n    <ion-card-content>\n\n      <ion-list>\n\n          <ion-item style="min-height:0;margin-top:0px;margin-bottom:0px;font-size:1.3rem;">\n\n              <ion-label style="margin-top:7px;margin-bottom:7px;">Saldo Disponible</ion-label>\n\n              <ion-badge style="margin-top:0px;margin-bottom:0px;background-color:#FFFFFF;color:#4D4D4D;" item-end>{{ this.p2pServiceProvider.accountInfo.balance }}</ion-badge>\n\n          </ion-item>\n\n          <ion-item style="min-height:0;margin-top:0px;margin-bottom:0px;font-size:1.3rem;">\n\n            <ion-label style="margin-top:7px;margin-bottom:7px;">Límite Diario</ion-label>\n\n            <ion-badge style="margin-top:0px;margin-bottom:0px;background-color:#FFFFFF;color:#4D4D4D;" item-end>{{ this.p2pServiceProvider.accountInfo.dailyLimit }}</ion-badge>\n\n          </ion-item>\n\n          <ion-item style="min-height:0;margin-top:0px;margin-bottom:0px;font-size:1.3rem;">\n\n              <ion-label style="margin-top:7px;margin-bottom:7px;">Límite Mensual</ion-label>\n\n              <ion-badge style="margin-top:0px;margin-bottom:0px;background-color:#FFFFFF;color:#4D4D4D;" item-end>{{ this.p2pServiceProvider.accountInfo.monthLimit }}</ion-badge>\n\n          </ion-item>\n\n      </ion-list>\n\n    </ion-card-content>\n\n  </ion-card>\n\n\n\n  <ion-card-content>\n\n    <ion-list no-line *ngIf="!isCompany()">\n\n      <button ion-button block (click)="nextPage(1);" color="grey-dark">Ordenar Pago</button>\n\n      <button ion-button block (click)="nextPage(2);" color="blue-dark">Pagos Emitidos</button>\n\n      <button ion-button block (click)="nextPage(3);" color="primary">Pagos Recibidos</button>\n\n      <button ion-button block (click)="nextPage(4);" color="secondary">Cambiar Contraseña</button>\n\n      <button ion-button block (click)="nextPage(5);" color="primary" id="exitButton">Salir</button>\n\n    </ion-list>\n\n    <ion-list no-line *ngIf="isCompany()">\n\n      <button ion-button block (click)="nextPage(6);" color="primary">Totales</button>\n\n      <button ion-button block (click)="nextPage(7);" color="primary">Pagos Recibidos</button>\n\n      <button ion-button block (click)="nextPage(4);" color="blue-dark">Cambiar Contraseña</button>\n\n      <button ion-button block (click)="nextPage(5);" color="primary" id="exitButton">Salir</button>\n\n    </ion-list>\n\n  </ion-card-content>\n\n</ion-content>\n\n\n\n<ion-footer class="hideElementOnKeyboardShown">\n\n	<ion-toolbar>\n\n		<small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n\n	</ion-toolbar>\n\n</ion-footer>\n\n'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\options\options.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */]])
+    ], OptionsPage);
+    return OptionsPage;
+}());
+
+//# sourceMappingURL=options.js.map
+
+/***/ }),
+
+/***/ 181:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return QuestionRequestPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__client_qa_request_client_qa_request__ = __webpack_require__(176);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__reset_password_reset_password__ = __webpack_require__(182);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+//Modules & Components
+
+
+
+
+
+var QuestionRequestPage = /** @class */ (function () {
+    function QuestionRequestPage(navCtrl, navParams, alertCtrl, loadingCtrl, p2pServiceProvider) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.alertCtrl = alertCtrl;
+        this.loadingCtrl = loadingCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.user = {
+            username: ''
+        };
+        this.typeRequest = navParams.get('typeRequest');
+        switch (this.typeRequest) {
+            case 0:
+                this.pageTitle = 'Recuperar Contraseña';
+                break;
+            case 1:
+                this.pageTitle = 'Modificar Pregunta Secreta';
+                break;
+            default: this.pageTitle = '';
+        }
+    }
+    QuestionRequestPage.prototype.validate = function () {
+        if (this.user.username != '') {
+            this.userSecurityChangeRequest();
+        }
+        else {
+            this.displayMessage("Error", "Introduzca un nombre de usuario");
+        }
+    };
+    QuestionRequestPage.prototype.userSecurityChangeRequest = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.userSecurityChangeRequest(_this.user.username.toLowerCase())
+                .then(function (data) {
+                _this.userSecurityData = data;
+                if (_this.userSecurityData._body == null && _this.userSecurityData.name == null && parseInt(_this.userSecurityData.cod_respuesta) == 0) {
+                    loader.dismiss();
+                    _this.questionRequest();
+                }
+                else {
+                    if (_this.userSecurityData._body == null && _this.userSecurityData.name == null) {
+                        _this.displayMessage("Error", _this.userSecurityData.cod_respuesta + ' - ' + _this.userSecurityData.descripcion_respuesta);
+                    }
+                    loader.dismiss();
+                }
+            });
+        });
+    };
+    QuestionRequestPage.prototype.questionRequest = function () {
+        var _this = this;
+        var questionRequestObject = {
+            username: this.user.username.toLowerCase(),
+            canal: "04",
+            fechahora_disp: new Date()
+        };
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.questionRequest(questionRequestObject)
+                .then(function (data) {
+                _this.questionRequestData = data;
+                if (_this.questionRequestData._body == null && _this.questionRequestData.name == null && _this.questionRequestData.cod_respuesta == "000") {
+                    loader.dismiss();
+                    switch (_this.typeRequest) {
+                        case 0:
+                            _this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_4__reset_password_reset_password__["a" /* ResetPasswordPage */], _this.questionRequestData);
+                            break;
+                        case 1:
+                            _this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_3__client_qa_request_client_qa_request__["a" /* ClientQaRequestPage */], _this.questionRequestData);
+                            break;
+                    }
+                }
+                else {
+                    if (_this.questionRequestData._body == null && _this.questionRequestData.name == null) {
+                        _this.displayMessage("Error", _this.questionRequestData.cod_respuesta + ' - ' + _this.questionRequestData.descripcion_respuesta);
+                    }
+                    loader.dismiss();
+                }
+            });
+        });
+    };
+    QuestionRequestPage.prototype.displayMessage = function (title, message) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: message,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    QuestionRequestPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-question-request',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\question-request\question-request.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n\n    <ion-title>{{ pageTitle }}</ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n\n\n<ion-content padding>\n\n  <ion-list>\n\n\n\n    <ion-item>\n\n      <ion-label floating>Ingrese su nombre de usuario</ion-label>\n\n      <ion-input type="text" [(ngModel)]="user.username" name="username" [valid-input-as]="0"></ion-input>\n\n    </ion-item>\n\n\n\n\n\n  </ion-list>\n\n  <button ion-button block color="secondary" (click)="validate()">Continuar</button>\n\n\n\n</ion-content>\n\n\n\n<ion-footer class="hideElementOnKeyboardShown">\n\n	<ion-toolbar>\n\n    <small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n\n	</ion-toolbar>\n\n</ion-footer>'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\question-request\question-request.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_2__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */]])
+    ], QuestionRequestPage);
+    return QuestionRequestPage;
+}());
+
+//# sourceMappingURL=question-request.js.map
+
+/***/ }),
+
+/***/ 182:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ResetPasswordPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_crypto_js__ = __webpack_require__(89);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_crypto_js___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_crypto_js__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_Rx__ = __webpack_require__(91);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_Rx___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_Rx__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__home_home__ = __webpack_require__(42);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+//Modules & Components
+
+
+
+
+
+
+var ResetPasswordPage = /** @class */ (function () {
+    function ResetPasswordPage(navCtrl, navParams, alertCtrl, loadingCtrl, p2pServiceProvider) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.alertCtrl = alertCtrl;
+        this.loadingCtrl = loadingCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.questionObject = {
+            username: '',
+            pregunta: '',
+            expresion_regular: '',
+            cedula: '',
+            nombre_afiliado: '',
+            lista_palabras: [{ palabra: '' }]
+        };
+        this.reset = {
+            codigo: '',
+            newPasswordConfirm: '',
+            newPassword: '',
+            respuesta: ''
+        };
+        this.counter = 300;
+        this.questionObject.username = navParams.get('usuario');
+        this.questionObject.pregunta = navParams.get('pregunta');
+        this.questionObject.expresion_regular = navParams.get('expresion_regular');
+        this.questionObject.cedula = navParams.get('cedula');
+        this.questionObject.nombre_afiliado = navParams.get('nombre_afiliado');
+        this.questionObject.lista_palabras = navParams.get('lista_palabras');
+    }
+    ResetPasswordPage.prototype.ionViewDidLoad = function () {
+        var _this = this;
+        this.countDown = __WEBPACK_IMPORTED_MODULE_3_rxjs_Rx__["Observable"].timer(0, 1000).take(this.counter)
+            .map(function () { return _this.counter = _this.counter == 0 ? 0 : (_this.counter % 100) == 0 ? (_this.counter - 41) : (_this.counter - 1); });
+    };
+    ResetPasswordPage.prototype.showPasswordHelp = function () {
+        this.p2pServiceProvider.showPasswordHelp(this.questionObject.lista_palabras);
+    };
+    ResetPasswordPage.prototype.validate = function () {
+        var _this = this;
+        if (this.reset.newPassword == '' || this.reset.newPasswordConfirm == '' && this.reset.respuesta == '') {
+            this.displayMessage("Error", "Complete todos los campos correctamente.");
+        }
+        else if (this.reset.codigo.trim().length < 8) {
+            this.displayMessage("Error", "El código de seguridad debe contener mínimo 8 letras y/o números");
+        }
+        else if (!this.reset.codigo.match('^[a-zA-Z0-9]*$')) {
+            this.displayMessage("Error", "El código de seguridad debe solo contener letras y/o números");
+        }
+        else if (this.reset.newPassword != this.reset.newPasswordConfirm) {
+            this.displayMessage("Error", "Las contraseñas deben ser iguales.");
+        }
+        else if (this.p2pServiceProvider.validatePassword(this.questionObject.username, this.questionObject.nombre_afiliado, this.questionObject.cedula, this.questionObject.lista_palabras, this.questionObject.expresion_regular, this.reset.newPassword) == false) {
+            var alert_1 = this.alertCtrl.create({
+                title: "Error",
+                subTitle: "La nueva contraseña no cumple con los requisitos.",
+                buttons: [{
+                        text: 'OK'
+                    }, {
+                        text: 'AYUDA',
+                        handler: function () {
+                            _this.showPasswordHelp();
+                        }
+                    }]
+            });
+            alert_1.present();
+        }
+        else {
+            this.resetRequest();
+        }
+    };
+    ResetPasswordPage.prototype.resetRequest = function () {
+        var _this = this;
+        var resetRequestObject = {
+            username: this.questionObject.username,
+            newpassword: __WEBPACK_IMPORTED_MODULE_1_crypto_js__["SHA512"](this.reset.newPassword).toString(),
+            respuesta: __WEBPACK_IMPORTED_MODULE_1_crypto_js__["SHA512"](this.reset.respuesta).toString().toUpperCase(),
+            canal: "04", otp: this.reset.codigo,
+            fechahora_disp: new Date()
+        };
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.resetPasswordRequest(resetRequestObject)
+                .then(function (data) {
+                _this.resetRequestData = data;
+                if (_this.resetRequestData._body == null && _this.resetRequestData.name == null && _this.resetRequestData.cod_respuesta == "000") {
+                    _this.displayMessage("Aviso", "Operación Exitosa");
+                    loader.dismiss();
+                    _this.navCtrl.setRoot(__WEBPACK_IMPORTED_MODULE_5__home_home__["a" /* HomePage */]);
+                    _this.navCtrl.popToRoot();
+                }
+                else {
+                    if (_this.resetRequestData._body == null && _this.resetRequestData.name == null) {
+                        _this.displayMessage("Error", _this.resetRequestData.cod_respuesta + ' - ' + _this.resetRequestData.descripcion_respuesta);
+                    }
+                    loader.dismiss();
+                }
+            });
+        });
+    };
+    ResetPasswordPage.prototype.resendValidCode = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.userSecurityChangeRequest(_this.questionObject.username.toLowerCase())
+                .then(function (data) {
+                var userSecurityData = data;
+                if (userSecurityData._body == null && userSecurityData.name == null && parseInt(userSecurityData.cod_respuesta) == 0) {
+                    loader.dismiss();
+                    _this.counter = 300;
+                    _this.ionViewDidLoad();
+                }
+                else {
+                    if (userSecurityData._body == null && userSecurityData.name == null) {
+                        _this.displayMessage("Error", userSecurityData.cod_respuesta + ' - ' + userSecurityData.descripcion_respuesta);
+                    }
+                    loader.dismiss();
+                }
+            });
+        });
+    };
+    ResetPasswordPage.prototype.displayMessage = function (title, message) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: message,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    ResetPasswordPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-reset-password',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\reset-password\reset-password.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n\n    <ion-title>\n\n      Recuperar Contraseña\n\n    </ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n\n\n\n\n<ion-content padding>\n\n\n\n  <div class="container">\n\n    <img src="assets/images/logo_bicentenario.png" alt="">\n\n  </div>\n\n\n\n  <ion-list>\n\n\n\n    <ion-item no-lines>\n\n      <ion-label><strong>Pregunta Secreta:</strong></ion-label>\n\n    </ion-item>\n\n\n\n    <ion-item>\n\n\n\n      <ion-label>{{questionObject.pregunta}}</ion-label>\n\n    </ion-item>\n\n    \n\n    <ion-item>\n\n      <ion-label floating><strong>Respuesta Secreta</strong></ion-label>\n\n      <ion-input type="password" [(ngModel)]="reset.respuesta" name="newPassword" [valid-input-as]="0"></ion-input>\n\n    </ion-item>\n\n\n\n    <ion-item>\n\n      <ion-label floating><strong> Ingrese una nueva contraseña</strong></ion-label>\n\n      <ion-input type="password" [(ngModel)]="reset.newPassword" name="newPassword" maxlength="16" [valid-input-as]="0"></ion-input>\n\n      <button ion-button item-right (click)="showPasswordHelp()">  ?  </button>\n\n    </ion-item>\n\n\n\n    <ion-item>\n\n      <ion-label floating><strong> Confirme su nueva contraseña</strong></ion-label>\n\n      <ion-input type="password" [(ngModel)]="reset.newPasswordConfirm" name="newPasswordConfirm" maxlength="16" [valid-input-as]="0"></ion-input>\n\n    </ion-item>\n\n    \n\n    <ion-item>\n\n        <ion-label floating><strong>Código de Seguridad</strong></ion-label>\n\n        <ion-input type="text" [(ngModel)]="reset.codigo" name="codigo" [valid-input-as]="3"></ion-input>\n\n    </ion-item>\n\n\n\n    <ion-item *ngIf="\'\'+(countDown | async) as timeView" text-center>\n\n      <ion-row>\n\n        <ion-col *ngIf="timeView > 0">\n\n          {{ (timeView < 100 ? \'0\' : timeView.substr(0,1)) +\':\'+ (timeView < 100 ? timeView : timeView.substr(1,3)) }}  \n\n        </ion-col>\n\n        <ion-col *ngIf="timeView == 0">\n\n          <button ion-button class="round-bt" (click)="resendValidCode()">\n\n              <ion-icon name="refresh"></ion-icon>\n\n          </button>\n\n        </ion-col>\n\n      </ion-row>\n\n      <ion-row>\n\n        <ion-col>\n\n          <small *ngIf="timeView > 0">Tiempo restante para validar información</small>\n\n          <small *ngIf="timeView == 0">Reenviar código de seguridad</small>\n\n        </ion-col>  \n\n      </ion-row>\n\n    </ion-item>\n\n  </ion-list>\n\n  <button ion-button block color="secondary" (click)="validate()">Continuar</button>\n\n</ion-content>\n\n\n\n<ion-footer class="hideElementOnKeyboardShown">\n\n	<ion-toolbar>\n\n    <small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n\n	</ion-toolbar>\n\n</ion-footer>'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\reset-password\reset-password.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_4__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */]])
+    ], ResetPasswordPage);
+    return ResetPasswordPage;
+}());
+
+//# sourceMappingURL=reset-password.js.map
+
+/***/ }),
+
+/***/ 193:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 193;
+
+/***/ }),
+
+/***/ 404:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 404;
+
+/***/ }),
+
+/***/ 42:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return HomePage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_crypto_js__ = __webpack_require__(89);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_crypto_js___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_crypto_js__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__change_password_change_password__ = __webpack_require__(164);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__client_qa_request_client_qa_request__ = __webpack_require__(176);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__clientid_request_clientid_request__ = __webpack_require__(177);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__options_options__ = __webpack_require__(180);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__question_request_question_request__ = __webpack_require__(181);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+//Modules & Components
+
+
+
+
+
+
+
+
+
+var HomePage = /** @class */ (function () {
+    function HomePage(navCtrl, loadingCtrl, p2pServiceProvider, alertCtrl, navParams, platform, toastCtrl) {
+        this.navCtrl = navCtrl;
+        this.loadingCtrl = loadingCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.alertCtrl = alertCtrl;
+        this.navParams = navParams;
+        this.platform = platform;
+        this.toastCtrl = toastCtrl;
+        this.formLoginData = {
+            username: "",
+            password: ""
+        };
+        this.username = "";
+        this.password = "";
+        this.isenabled = false;
+        this.enableButtons(true);
+        if (navParams.get("affiliationMsg")) {
+            var toast = this.toastCtrl.create({
+                message: 'Usuario afiliado exitosamente',
+                showCloseButton: true
+            });
+            toast.present();
+        }
+    }
+    HomePage.prototype.displayMessage = function (title, message) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: message,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    HomePage.prototype.validate = function () {
+        if (this.formLoginData.username != '' && this.formLoginData.password != '') {
+            this.tokenRequest();
+        }
+        else {
+            this.displayMessage('Error', 'Complete todos los campos correctamente');
+        }
+    };
+    HomePage.prototype.tokenRequest = function () {
+        var _this = this;
+        this.enableButtons(false);
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.tokenRequest(_this.formLoginData.username.toLowerCase(), _this.formLoginData.password)
+                .then(function (data) {
+                var res = data;
+                _this.username = _this.formLoginData.username.toLowerCase();
+                _this.password = _this.formLoginData.password;
+                if (res._body != null || res.name != null) {
+                    loader.dismiss();
+                }
+                else {
+                    loader.dismiss();
+                    _this.loginInApi();
+                    _this.username = _this.formLoginData.username.toLowerCase();
+                    _this.password = _this.formLoginData.password;
+                }
+            });
+            _this.enableButtons(true);
+        });
+    };
+    HomePage.prototype.loginInApi = function () {
+        var _this = this;
+        this.enableButtons(false);
+        var loginObject = {
+            username: this.username,
+            password: __WEBPACK_IMPORTED_MODULE_1_crypto_js__["SHA512"](this.password).toString(),
+            canal: "04",
+            fechahora_disp: new Date(),
+            version: this.p2pServiceProvider.appVersion
+        };
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.loginRequest(loginObject)
+                .then(function (data) {
+                _this.loginResponse = data;
+                if (_this.loginResponse._body != null || _this.loginResponse.name != null) {
+                    loader.dismiss(); // Otros errores
+                }
+                else {
+                    loader.dismiss();
+                    _this.clearForm();
+                    _this.p2pServiceProvider.loginData = data;
+                    _this.enableButtons(true);
+                    if (_this.p2pServiceProvider.loginData.cod_respuesta == "107") {
+                        _this.displayMessage("Aviso", _this.p2pServiceProvider.loginData.descripcion_respuesta);
+                        var loginData = data;
+                        loginData.isLoginCall = true;
+                        _this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_4__change_password_change_password__["a" /* ChangePasswordPage */], {
+                            loginData: loginData,
+                            password: __WEBPACK_IMPORTED_MODULE_1_crypto_js__["SHA512"](_this.password).toString(),
+                            username: _this.username
+                        });
+                    }
+                    else if (_this.loginResponse.cod_respuesta == "900") {
+                        var alert_1 = _this.alertCtrl.create({
+                            title: "Atención",
+                            message: _this.loginResponse.descripcion_respuesta,
+                            buttons: [
+                                {
+                                    text: 'OK',
+                                    handler: function () {
+                                        _this.platform.exitApp();
+                                    }
+                                }
+                            ]
+                        });
+                        alert_1.present();
+                    }
+                    else if (_this.loginResponse.cod_respuesta == "123") {
+                        _this.displayMessage("Aviso", _this.p2pServiceProvider.loginData.descripcion_respuesta);
+                        var loginData = data;
+                        loginData.usuario = _this.username;
+                        loginData.isLoginCall = true;
+                        _this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_5__client_qa_request_client_qa_request__["a" /* ClientQaRequestPage */], loginData);
+                    }
+                    else {
+                        _this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_7__options_options__["a" /* OptionsPage */], {
+                            loginData: data,
+                            password: __WEBPACK_IMPORTED_MODULE_1_crypto_js__["SHA512"](_this.password).toString(),
+                            username: _this.username
+                        });
+                    }
+                }
+            });
+        });
+    };
+    HomePage.prototype.goToResetPassword = function () {
+        this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_8__question_request_question_request__["a" /* QuestionRequestPage */], { typeRequest: 0 });
+    };
+    HomePage.prototype.enableButtons = function (active) {
+        if (active) {
+            this.isenabled = true;
+        }
+        else {
+            this.isenabled = false;
+        }
+    };
+    HomePage.prototype.clearForm = function () {
+        this.formLoginData.username = '';
+        this.formLoginData.password = '';
+    };
+    HomePage.prototype.getViewAffiliation = function () {
+        this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_6__clientid_request_clientid_request__["a" /* ClientidRequestPage */]);
+    };
+    HomePage.prototype.goToChangeQA = function () {
+        this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_8__question_request_question_request__["a" /* QuestionRequestPage */], { typeRequest: 1 });
+    };
+    HomePage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-home',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\home\home.html"*/'<ion-header>\n\n	<ion-navbar color="primary">\n\n		<ion-title>\n\n			Bienvenido\n\n		</ion-title>\n\n	</ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content class="background">\n\n	<div class="container">\n\n		<img src="assets/images/logo_bicentenario.png" alt="">\n\n	</div>\n\n\n\n	<ion-card>\n\n		<ion-card-content>\n\n			<ion-list no-line>\n\n				<ion-item>\n\n					<ion-label floating>Usuario</ion-label>\n\n					<ion-input [(ngModel)]="formLoginData.username" type="text" maxlength="16" [valid-input-as]="0"></ion-input>\n\n				</ion-item>\n\n				<ion-item>\n\n					<ion-label floating>Contraseña</ion-label>\n\n					<ion-input [(ngModel)]="formLoginData.password" type="password" maxlength="16" [valid-input-as]="0"></ion-input>\n\n				</ion-item>\n\n				<button ion-button block (click)="validate();" color="secondary" [disabled]="!isenabled" [ngClass]="{class:isenabled,class2:!isenabled}">Ingresar</button>\n\n			</ion-list>\n\n\n\n\n\n		</ion-card-content>\n\n	</ion-card>\n\n</ion-content>\n\n\n\n<ion-footer class="hideElementOnKeyboardShown">\n\n	<div text-center style="margin:1ex">\n\n		<button ion-button block (click)="getViewAffiliation();" color="primary" [disabled]="!isenabled">AFILIARSE</button>\n\n		<small>\n\n			<a href="#" (click)="goToResetPassword();"> ¿ OLVIDASTE TU CONTRASEÑA ? </a><br />\n\n			<a href="#" (click)="goToChangeQA();"> CAMBIAR PREGUNTA SECRETA </a>\n\n		</small>\n\n	</div>\n\n\n\n	<ion-toolbar>\n\n		<small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b><br>v1.3.5</small>\n\n	</ion-toolbar>\n\n</ion-footer>\n\n'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\home\home.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["j" /* Platform */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["k" /* ToastController */]])
+    ], HomePage);
+    return HomePage;
+}());
+
+//# sourceMappingURL=home.js.map
+
+/***/ }),
+
+/***/ 538:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CompanyBalancePage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_add_observable_interval__ = __webpack_require__(453);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_add_observable_interval___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_rxjs_add_observable_interval__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_Observable__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_Observable___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_Observable__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+var CompanyBalancePage = /** @class */ (function () {
+    function CompanyBalancePage(alertCtrl, loadingCtrl, navCtrl, navParams, p2pServiceProvider) {
+        this.alertCtrl = alertCtrl;
+        this.loadingCtrl = loadingCtrl;
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.accountBalance = "0,00";
+    }
+    CompanyBalancePage.prototype.ionViewDidLoad = function () { this.getCompanyBalance(); };
+    CompanyBalancePage.prototype.displayMessage = function (title, message) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: message,
+            buttons: ['CERRAR']
+        });
+        alert.present();
+    };
+    CompanyBalancePage.prototype.getCompanyBalance = function () {
+        var _this = this;
+        this.isFreezeTime = true;
+        __WEBPACK_IMPORTED_MODULE_3_rxjs_Observable__["Observable"].interval(11000).subscribe(function () { return _this.isFreezeTime = false; });
+        var response;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        this.p2pServiceProvider.onViewMsgPresent = true;
+        loader.onDidDismiss(function () { _this.p2pServiceProvider.onViewMsgPresent = false; });
+        loader.present();
+        this.p2pServiceProvider
+            .companyBalanceRequest()
+            .then(function (data) {
+            loader.dismiss();
+            response = data;
+            if (response && parseInt(response.cod_respuesta) == 0) {
+                if (response.monto != undefined)
+                    _this.accountBalance = _this.formatAmount(response.monto.toString());
+            }
+            else if (response.cod_respuesta && response.descripcion_respuesta) {
+                _this.displayMessage("Error", response.cod_respuesta + ' - ' + response.descripcion_respuesta);
+            }
+            else {
+                _this.displayMessage("Error", "Error de comunicación, mensaje no disponible");
+            }
+        });
+    };
+    CompanyBalancePage.prototype.formatAmount = function (amount) {
+        var formatRes = amount.toString().replace(/\./gi, ",").replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+        return formatRes.indexOf(',') < 0 ? formatRes + ',00' : formatRes;
+    };
+    CompanyBalancePage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["Component"])({
+            selector: 'page-company-balance',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\company-balance\company-balance.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n\n    <ion-title>\n\n      Totales\n\n    </ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n\n\n<ion-content>\n\n  <ion-card>\n\n    <ion-card-header color="white" text-center>Total Pagos Recibidos</ion-card-header>\n\n    <ion-row>\n\n      <ion-col col-3 text-center class="icon-border"><ion-icon name="stats"></ion-icon></ion-col>\n\n      <ion-col class="card-data">{{accountBalance}} Bs.</ion-col>\n\n    </ion-row>\n\n  </ion-card>\n\n\n\n  <div class="bt-dimen"><button ion-button block [disabled]="isFreezeTime" (click)="getCompanyBalance()">ACTUALIZAR</button></div>\n\n</ion-content>\n\n\n\n\n\n<ion-footer class="hideElementOnKeyboardShown">\n\n	<ion-toolbar>\n\n    <small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n\n	</ion-toolbar>\n\n</ion-footer>'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\company-balance\company-balance.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_4__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */]])
+    ], CompanyBalancePage);
+    return CompanyBalancePage;
+}());
+
+//# sourceMappingURL=company-balance.js.map
+
+/***/ }),
+
+/***/ 539:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CompanyReceivedPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__pipes_dateview_dateview__ = __webpack_require__(98);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+var CompanyReceivedPage = /** @class */ (function () {
+    function CompanyReceivedPage(alertCtrl, dateView, loadingCtrl, navCtrl, navParams, p2pServiceProvider) {
+        this.alertCtrl = alertCtrl;
+        this.dateView = dateView;
+        this.loadingCtrl = loadingCtrl;
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.onGetMore = false;
+        this.noResult = false;
+        this.viewFilter = 0;
+        this.payments = [];
+        this.loginData = this.navParams.get('loginData');
+    }
+    CompanyReceivedPage.prototype.ionViewDidLoad = function () { this.getReceivedPayments(null, null, 0); };
+    CompanyReceivedPage.prototype.displayMessage = function (title, message) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: message,
+            buttons: ['CERRAR']
+        });
+        alert.present();
+    };
+    CompanyReceivedPage.prototype.formatAmount = function (amount) {
+        var formatRes = amount.toString().replace(/\./gi, ",").replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+        return formatRes.indexOf(',') < 0 ? formatRes + ',00' : formatRes;
+    };
+    CompanyReceivedPage.prototype.getBankName = function (code) {
+        var bank = this.loginData.lista_bancos.filter(function (item) { return item.codigo == code; });
+        return bank == null || bank.length == 0 ? '' : bank[0].nombre;
+    };
+    CompanyReceivedPage.prototype.maskPhone = function (phone) {
+        if (phone.length > 10) {
+            phone = phone.substring(0, 4) + 'XXX' + phone.substring(7, phone.length + 1);
+        }
+        return phone;
+    };
+    CompanyReceivedPage.prototype.getDividerFormat = function (date) {
+        console.log("Date reference: " + date);
+        if (parseInt(date) >= 1300) {
+            date = (parseInt(date) - 1300).toString();
+            switch (date.length) {
+                case 3: return date.substring(0, 1) + ':' + date.substring(1, 3) + ' pm';
+                case 4: return date.substring(0, 2) + ':' + date.substring(2, 4) + ' pm';
+            }
+        }
+        switch (date.length) {
+            case 3: return date.substring(0, 1) + ':' + date.substring(1, 3) + ' am';
+            case 4: return date.substring(0, 2) + ':' + date.substring(2, 4) + ' am';
+        }
+    };
+    CompanyReceivedPage.prototype.filterByDate = function () {
+        var minDate = this.beginDate.substring(this.beginDate.indexOf('T') + 1, this.beginDate.indexOf('T') + 6);
+        var maxDate = this.topDate.substring(this.topDate.indexOf('T') + 1, this.topDate.indexOf('T') + 6);
+        minDate = minDate.replace(':', '');
+        maxDate = maxDate.replace(':', '');
+        if (parseInt(minDate) > parseInt(maxDate)) {
+            this.displayMessage('Error', 'La hora hasta debe ser mayor a la hora desde.');
+        }
+        else {
+            this.onGetMore = false;
+            this.getReceivedPayments(minDate, maxDate, 0);
+        }
+    };
+    CompanyReceivedPage.prototype.filterByPhone = function () {
+        console.log("Filter me by Phone");
+        if (this.phonecode == undefined || this.phonecode.length == 0) {
+            this.displayMessage('Error', 'Debe seleccionar un prefijo válido.');
+        }
+        else if (this.phone == undefined || this.phone.toString().trim().length < 7 || (new RegExp(/^[0-9]+$/gi).test(this.phone.toString())) == false) {
+            this.displayMessage("Error", "El número de teléfono debe contener mínimo 7 dígitos numéricos");
+        }
+        else {
+            console.log("Aquí vamos a consultar con el teléfono");
+            this.onGetMore = false;
+            this.getPhoneReceivedPayments(0);
+        }
+    };
+    CompanyReceivedPage.prototype.detailView = function (index) {
+        var alert = this.alertCtrl.create({
+            title: 'Detalle del Pago',
+            message: '<b>Transacción Exitosa</b><hr/>' +
+                '<b id="dateHead">Banco:</b> ' + this.payments[index].bank + '<br/>' +
+                '<b id="dateHead">Fecha:</b> ' + this.dateView.transform(this.payments[index].tranDate, 'DATETIME') + '<br/>' +
+                '<b id="dateHead">Monto:</b> ' + this.payments[index].formatAmount + ' Bs.<br/>' +
+                '<b id="dateHead">Concepto:</b> ' + this.payments[index].concept + '<br/>' +
+                '<b id="dateHead">Ref. Quantum:</b> ' + this.payments[index].traceQuantum + '<br/>' +
+                '<b id="dateHead">Ref. Suiche:</b> ' + this.payments[index].switchCode,
+            buttons: ['CERRAR']
+        });
+        alert.present();
+    };
+    CompanyReceivedPage.prototype.getPayments = function (id) {
+        if (this.viewFilter != id) {
+            this.viewFilter = id;
+            switch (id) {
+                case 0:
+                    this.onGetMore = false;
+                    this.getReceivedPayments(null, null, 0);
+                    break;
+                case 1:
+                    var thisMoment = new Date();
+                    var hourFormat = thisMoment.getHours() < 10 ? '0' + thisMoment.getHours() : thisMoment.getHours().toString();
+                    hourFormat += ":" + thisMoment.getMinutes();
+                    this.beginDate = hourFormat;
+                    var nextHour = new Date(thisMoment.getTime() + 3600000);
+                    hourFormat = nextHour.getHours() < 10 ? '0' + nextHour.getHours() : nextHour.getHours().toString();
+                    hourFormat += ":" + thisMoment.getMinutes();
+                    this.topDate = hourFormat;
+                    break;
+                case 2:
+                    this.phonecode = '';
+                    this.phone = '';
+                    break;
+            }
+        }
+    };
+    CompanyReceivedPage.prototype.getMorePayments = function (reference) {
+        this.onGetMore = true;
+        switch (this.viewFilter) {
+            case 0:
+                this.getReceivedPayments(null, null, reference);
+                break;
+            case 1:
+                var minDate = this.beginDate.substring(this.beginDate.indexOf('T') + 1, this.beginDate.indexOf('T') + 6);
+                var maxDate = this.topDate.substring(this.topDate.indexOf('T') + 1, this.topDate.indexOf('T') + 6);
+                this.getReceivedPayments(minDate.replace(':', ''), maxDate.replace(':', ''), reference);
+                break;
+            case 2:
+                this.getPhoneReceivedPayments(reference);
+                break;
+        }
+    };
+    /***** SERVICES *****/
+    CompanyReceivedPage.prototype.getReceivedPayments = function (minDate, maxDate, reference) {
+        var _this = this;
+        var response;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        this.p2pServiceProvider.onViewMsgPresent = true;
+        loader.onDidDismiss(function () { _this.p2pServiceProvider.onViewMsgPresent = false; });
+        loader.present();
+        this.p2pServiceProvider.companyTranBalanceRequest(minDate, maxDate, reference)
+            .then(function (data) {
+            loader.dismiss();
+            response = data;
+            if (_this.onGetMore == false)
+                _this.payments = [];
+            if (response && parseInt(response.cod_respuesta) == 0) {
+                if (response.lista_mov && response.lista_mov.length > 0) {
+                    _this.noResult = false;
+                    for (var _i = 0, _a = response.lista_mov; _i < _a.length; _i++) {
+                        var data_1 = _a[_i];
+                        var element = {
+                            id: data_1.id,
+                            bank: _this.getBankName(data_1.codigo_banco),
+                            bankCode: data_1.codigo_banco,
+                            amount: data_1.monto,
+                            formatAmount: _this.formatAmount(data_1.monto),
+                            phone: data_1.telefono,
+                            concept: data_1.concepto,
+                            tranDate: data_1.fecha_tran,
+                            traceQuantum: data_1.trace_quantum,
+                            switchCode: data_1.codigo_suiche
+                        };
+                        _this.payments.push(element);
+                    }
+                }
+                else {
+                    _this.noResult = true;
+                }
+            }
+            else if (response.cod_respuesta && response.descripcion_respuesta) {
+                _this.noResult = true;
+                _this.displayMessage("Error", response.cod_respuesta + ' - ' + response.descripcion_respuesta);
+            }
+            else {
+                _this.noResult = true;
+                _this.displayMessage("Error", "Error de comunicación, mensaje no disponible");
+            }
+        });
+    };
+    CompanyReceivedPage.prototype.getPhoneReceivedPayments = function (reference) {
+        var _this = this;
+        var response;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        this.p2pServiceProvider.onViewMsgPresent = true;
+        loader.onDidDismiss(function () { _this.p2pServiceProvider.onViewMsgPresent = false; });
+        loader.present();
+        this.p2pServiceProvider.companyPhoneBalanceRequest(this.phonecode + this.phone, reference)
+            .then(function (data) {
+            loader.dismiss();
+            response = data;
+            console.log("Active getMore ? " + _this.onGetMore);
+            if (_this.onGetMore == false)
+                _this.payments = [];
+            if (response && parseInt(response.cod_respuesta) == 0) {
+                if (response.lista_mov && response.lista_mov.length > 0) {
+                    _this.noResult = false;
+                    for (var _i = 0, _a = response.lista_mov; _i < _a.length; _i++) {
+                        var data_2 = _a[_i];
+                        var element = {
+                            id: data_2.id,
+                            bank: _this.getBankName(data_2.codigo_banco),
+                            bankCode: data_2.codigo_banco,
+                            amount: data_2.monto,
+                            formatAmount: _this.formatAmount(data_2.monto),
+                            phone: data_2.telefono,
+                            concept: data_2.concepto,
+                            tranDate: data_2.fecha_tran,
+                            traceQuantum: data_2.trace_quantum,
+                            switchCode: data_2.codigo_suiche
+                        };
+                        _this.payments.push(element);
+                    }
+                }
+                else {
+                    _this.noResult = true;
+                }
+            }
+            else if (response.cod_respuesta && response.descripcion_respuesta) {
+                _this.noResult = true;
+                _this.displayMessage("Error", response.cod_respuesta + ' - ' + response.descripcion_respuesta);
+            }
+            else {
+                _this.noResult = true;
+                _this.displayMessage("Error", "Error de comunicación, mensaje no disponible");
+            }
+        });
+    };
+    CompanyReceivedPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-company-received',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\company-received\company-received.html"*/'<ion-header>\n\n    <ion-navbar color="primary">\n\n      <ion-title>\n\n        Pagos Recibidos\n\n      </ion-title>\n\n    </ion-navbar>\n\n  </ion-header>\n\n\n\n    <ion-content padding>\n\n      <ion-segment class="section-bar" [ngClass]="{\'section-bar-fit\': viewFilter != 0 }">\n\n        <ion-row>\n\n          <ion-col col-4 text-center [ngClass]="{\'selected-start\': viewFilter == 0, \'unselected-sec\': viewFilter != 0}" (click)="getPayments(0)">TODOS</ion-col>\n\n          <ion-col col-4 text-center [ngClass]="{\'selected-sec\': viewFilter == 1, \'unselected-sec\': viewFilter != 1}" (click)="getPayments(1)">RANGO</ion-col>\n\n          <ion-col col-4 text-center [ngClass]="{\'selected-end\': viewFilter == 2, \'unselected-sec\': viewFilter != 2}" (click)="getPayments(2)">TLF</ion-col>\n\n        </ion-row>\n\n      </ion-segment>\n\n\n\n      <div [ngSwitch]="viewFilter" [ngClass]="{\'section-bar-input\': viewFilter != 0 }">\n\n        <!-- BY DATE -->\n\n        <ion-row *ngSwitchCase="1" class="section-input-row">\n\n          <ion-col col-5>\n\n            <ion-datetime displayFormat="h:mm a" [(ngModel)]="beginDate" cancelText="Cerrar" doneText="Aceptar"></ion-datetime>\n\n          </ion-col>\n\n          <ion-col col-5>\n\n            <ion-datetime displayFormat="h:mm a" [(ngModel)]="topDate" cancelText="Cerrar" doneText="Aceptar"></ion-datetime>\n\n          </ion-col>\n\n          <ion-col col-2 text-center style="padding:0;"><ion-icon name="search" color="primary" style="vertical-align: -webkit-baseline-middle;" (click)="filterByDate()"></ion-icon></ion-col>\n\n        </ion-row>\n\n        <!-- BY PHONE -->\n\n        <ion-row *ngSwitchCase="2" class="section-input-row">\n\n          <ion-col col-4>\n\n            <ion-select interface="popover" [(ngModel)]="phonecode">\n\n              <ion-option value="" disabled="true" selected>Prefijo</ion-option>\n\n              <ion-option *ngFor="let operator of loginData.lista_operadoras" value="{{operator.codigo}}">{{operator.codigo}}</ion-option>\n\n            </ion-select>\n\n          </ion-col>\n\n          <ion-col>\n\n            <ion-input type="tel" placeholder="Teléfono" [(ngModel)]="phone" minlength="7" maxlength="7"\n\n              onkeypress=\'return event.charCode >= 48 && event.charCode <= 57\'></ion-input>\n\n          </ion-col>\n\n          <ion-col col-3 text-center style="padding:0;"><ion-icon name="search" color="primary" style="vertical-align: -webkit-baseline-middle;" (click)="filterByPhone()"></ion-icon></ion-col>\n\n        </ion-row>\n\n      </div>\n\n\n\n      <ion-list *ngFor="let e of payments; let i = index; let isLast = last;">\n\n        <ion-item class="bottom-limit" (click)="detailView(i)">\n\n            <ion-icon name="checkmark-circle-outline" item-start></ion-icon>\n\n            <ion-row>\n\n              <ion-col col-9><p>{{ e.bank }}</p></ion-col>\n\n              <ion-col item-end style="margin:0;padding:0;text-align:right;">\n\n                <small class="hour-detail">{{ e.tranDate | dateview: \'TIME\' }}</small>\n\n              </ion-col>\n\n            </ion-row>\n\n            <ion-row>\n\n              <ion-col><p>{{ e.phone }}</p></ion-col>\n\n              <ion-col item-end style="margin:0;text-align:right;"><p>{{ e.formatAmount }} Bs.</p></ion-col>\n\n            </ion-row>\n\n        </ion-item>\n\n        <ion-item *ngIf="isLast" text-center>\n\n          <div *ngIf="noResult && onGetMore" class="text-result" style="padding-top:0;">\n\n            No se encontraron más resultados<hr/>\n\n          </div>\n\n          <div *ngIf="!noResult" (click)="getMorePayments(e.id)">\n\n            <ion-icon name="arrow-down" color="primary"></ion-icon>\n\n          </div>\n\n        </ion-item>\n\n      </ion-list>\n\n\n\n      <div *ngIf="noResult && !onGetMore" class="text-result">\n\n        No se encontraron resultados para su busqueda<hr/>\n\n      </div>\n\n    </ion-content>\n\n\n\n    <ion-footer class="hideElementOnKeyboardShown">\n\n      <ion-toolbar>\n\n        <small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n\n      </ion-toolbar>\n\n    </ion-footer>\n\n'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\company-received\company-received.html"*/,
+            providers: [__WEBPACK_IMPORTED_MODULE_2__pipes_dateview_dateview__["a" /* DateviewPipe */]]
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_2__pipes_dateview_dateview__["a" /* DateviewPipe */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */]])
+    ], CompanyReceivedPage);
+    return CompanyReceivedPage;
+}());
+
+//# sourceMappingURL=company-received.js.map
+
+/***/ }),
+
+/***/ 540:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return PaymentOrderPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__pages_home_home__ = __webpack_require__(42);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__frecuent_selection_frecuent_selection__ = __webpack_require__(541);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__order_detail_order_detail__ = __webpack_require__(543);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+//Modules & Components
+
+
+
+
+
+
+var PaymentOrderPage = /** @class */ (function () {
+    function PaymentOrderPage(navCtrl, navParams, modalCtrl, alertCtrl, loadingCtrl, p2pServiceProvider) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.modalCtrl = modalCtrl;
+        this.alertCtrl = alertCtrl;
+        this.loadingCtrl = loadingCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.order = {
+            bankName: '',
+            code: '',
+            phone: '',
+            idType: '',
+            idNumber: '',
+            amount: '',
+            concept: ''
+        };
+        this.username = navParams.get('username');
+        this.loginData = navParams.get('loginData');
+    }
+    PaymentOrderPage.prototype.validate = function () {
+        if (this.order.amount.trim().length == 0 || this.order.amount == "0,00") {
+            this.displayMessage("Error", "Debe ingresar un monto válido mayor a cero");
+        }
+        else if (this.order.amount.trim() != "" && this.order.bankName != "" && this.order.code != ""
+            && this.order.idNumber != "" && this.order.idType != "" && this.order.phone != ""
+            && (new RegExp(/^\d{1,3}[\.(?=\d{3})]*,\d{1,2}/g)).test(this.order.amount) == true
+            && !isNaN(Number(this.order.amount.replace(/\./g, "").replace(",", ".")))) {
+            this.logForm();
+        }
+        else {
+            this.displayMessage("Error", "Complete los campos correctamente.");
+        }
+    };
+    PaymentOrderPage.prototype.logForm = function () {
+        this.goToOrderDetail(this.order);
+    };
+    PaymentOrderPage.prototype.goToOrderDetail = function (order) {
+        var _this = this;
+        var modal = this.modalCtrl.create(__WEBPACK_IMPORTED_MODULE_5__order_detail_order_detail__["a" /* OrderDetailPage */], {
+            bankName: order.bankName,
+            code: order.code,
+            phone: order.phone,
+            idType: order.idType,
+            idNumber: order.idNumber,
+            amount: Number(order.amount.replace(/\./g, "").replace(",", ".")).toFixed(2),
+            concept: order.concept,
+            username: this.username,
+            loginData: this.loginData,
+        });
+        modal.present();
+        modal.onDidDismiss(function (data) {
+            if (data) {
+                if (data.status == true && data.response.cod_respuesta == "000") {
+                    var summary = "<p><b>Banco:</b> " + order.bankName + "</p>"
+                        + "<p><b>Teléfono:</b> " + order.code + "-" + order.phone + "</p>"
+                        + "<p><b>Documento:</b> " + order.idType + "-" + order.idNumber + "</p>"
+                        + "<p><b>Monto:</b> " + order.amount + "</p>"
+                        + "<p><b>Referencia:</b> " + data.response.cod_aprobacion + "</p>";
+                    _this.p2pServiceProvider.accountInfo.balance = _this.formatAmount(Number(data.response.saldo_disponible).toFixed(2));
+                    _this.p2pServiceProvider.accountInfo.dailyLimit = _this.formatAmount(Number(_this.loginData.limite_diario - data.response.acu_diario).toFixed(2));
+                    _this.p2pServiceProvider.accountInfo.monthLimit = _this.formatAmount(Number(_this.loginData.limite_mensual - data.response.acu_mensual).toFixed(2));
+                    var alert_1 = _this.alertCtrl.create({
+                        title: "Pago Exitoso",
+                        message: summary,
+                        buttons: [
+                            {
+                                text: 'Cerrar Sesión',
+                                handler: function () {
+                                    _this.logout();
+                                }
+                            },
+                            {
+                                text: 'Continuar',
+                                handler: function () {
+                                    _this.navCtrl.pop();
+                                }
+                            }
+                        ]
+                    });
+                    alert_1.present();
+                }
+                else if (data.status == true && data.response.cod_respuesta != "000" && data.response.name == null) {
+                    _this.displayMessage("Error", data.response.cod_respuesta + ' - ' + data.response.descripcion_respuesta);
+                    if (data.response.ind_act && data.response.ind_act == 0) {
+                        _this.p2pServiceProvider.accountInfo.balance = _this.formatAmount(Number(data.response.saldo_disponible).toFixed(2));
+                    }
+                    if (data.response.cod_respuesta == _this.p2pServiceProvider.SESSION_EXPIRED) {
+                        _this.navCtrl.popToRoot();
+                    }
+                }
+            }
+        });
+    };
+    PaymentOrderPage.prototype.displayMessage = function (title, subtitle) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: subtitle,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    PaymentOrderPage.prototype.formatAmount = function (number) {
+        return number.replace(/\./gi, ",").replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+    };
+    PaymentOrderPage.prototype.getFrecuentView = function () {
+        var _this = this;
+        var modal = this.modalCtrl.create(__WEBPACK_IMPORTED_MODULE_4__frecuent_selection_frecuent_selection__["a" /* FrecuentSelectionPage */]);
+        modal.onDidDismiss(function (data) {
+            var frecuentData = data;
+            if (frecuentData && frecuentData.bank) {
+                //HAS DATA => LOAD FRECUENT PAYMENT DATA
+                _this.order.bankName = frecuentData.bank;
+                _this.order.idType = frecuentData.documentType;
+                _this.order.idNumber = frecuentData.documentID;
+                _this.order.code = frecuentData.phoneCode;
+                _this.order.phone = frecuentData.phone;
+            }
+            else if (frecuentData && frecuentData.cod_respuesta && frecuentData.cod_respuesta == _this.p2pServiceProvider.SESSION_EXPIRED) {
+                _this.navCtrl.popToRoot();
+            }
+        });
+        modal.present();
+    };
+    PaymentOrderPage.prototype.logout = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.logoutRequest()
+                .then(function (data) {
+                loader.dismiss();
+                _this.navCtrl.setRoot(__WEBPACK_IMPORTED_MODULE_2__pages_home_home__["a" /* HomePage */]);
+                _this.navCtrl.popToRoot();
+            });
+        });
+    };
+    PaymentOrderPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-payment-order',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\payment-order\payment-order.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n\n    <ion-title>\n\n      Ordenar Pago\n\n    </ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content>\n\n\n\n  <ion-list>\n\n    <ion-grid>\n\n\n\n      <ion-row>\n\n        <ion-col col-10>\n\n          <ion-item>\n\n            <ion-select [(ngModel)]="order.bankName" interface="popover">\n\n              <ion-option value="" disabled="true" selected="true">Banco Receptor</ion-option>\n\n              <ion-option *ngFor="let bank of loginData.lista_bancos" value="{{bank.nombre}}">{{bank.nombre}}</ion-option>\n\n            </ion-select>\n\n          </ion-item>\n\n        </ion-col>\n\n\n\n        <ion-col col-2>\n\n          <button ion-fab style="background-color:transparent" (click)="getFrecuentView()">\n\n            <ion-icon name="contacts" color="primary"></ion-icon></button>\n\n        </ion-col>\n\n      </ion-row>\n\n\n\n      <ion-row>\n\n        <ion-col col-6>\n\n          <ion-select interface="popover" [(ngModel)]="order.code" name="code">\n\n            <ion-option value="" disabled="true">Prefijo</ion-option>\n\n            <ion-option *ngFor="let operator of loginData.lista_operadoras" value="{{operator.codigo}}">{{operator.codigo}}</ion-option>\n\n          </ion-select>\n\n        </ion-col>\n\n        <ion-col>\n\n          <ion-input type="tel" placeholder="Teléfono" [(ngModel)]="order.phone" name="phone" minlength="7" maxlength="7" onkeypress=\'return event.charCode >= 48 && event.charCode <= 57\'></ion-input>\n\n        </ion-col>\n\n      </ion-row>\n\n\n\n      <ion-row>\n\n        <ion-col col-6>\n\n          <ion-select interface="popover" [(ngModel)]="order.idType">\n\n            <ion-option value="" disabled="true">Documento</ion-option>\n\n            <ion-option *ngFor="let id of loginData.lista_tipoafi" value="{{id.codigo}}">{{id.codigo}}</ion-option>\n\n          </ion-select>\n\n        </ion-col>\n\n        <ion-col>\n\n          <ion-input type="tel" placeholder="N° Documento" [(ngModel)]="order.idNumber" name="idNumber" maxlength="10"\n\n            [valid-input-as]="0" onkeypress=\'return event.charCode >= 48 && event.charCode <= 57\' ></ion-input>\n\n        </ion-col>\n\n      </ion-row>\n\n\n\n      <ion-row>\n\n        <ion-col>\n\n          <ion-item>\n\n            <ion-label stacked>Monto a pagar</ion-label>\n\n            <ion-input type="tel" name="amount" amount-formatter [(ngModel)]="order.amount" maxlength="15" placeholder="Ej: 5000 | 2500.75"></ion-input>\n\n          </ion-item>\n\n        </ion-col>\n\n      </ion-row>\n\n\n\n      <ion-row>\n\n        <ion-col>\n\n          <ion-item>\n\n            <ion-label stacked>Concepto</ion-label>\n\n            <ion-input type="text" [(ngModel)]="order.concept" name="concept" maxlength="34" [valid-input-as]="0"></ion-input>\n\n          </ion-item>\n\n        </ion-col>\n\n      </ion-row>\n\n\n\n    </ion-grid>\n\n\n\n    <button class="send" ion-button block color="secondary" (click)="validate()">Enviar</button>\n\n  </ion-list>\n\n\n\n</ion-content>\n\n\n\n<ion-footer class="hideElementOnKeyboardShown">\n\n	<ion-toolbar>\n\n    <small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n\n	</ion-toolbar>\n\n</ion-footer>\n\n'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\payment-order\payment-order.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* ModalController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */]])
+    ], PaymentOrderPage);
+    return PaymentOrderPage;
+}());
+
+//# sourceMappingURL=payment-order.js.map
+
+/***/ }),
+
+/***/ 541:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FrecuentSelectionPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__frecuent_addition_frecuent_addition__ = __webpack_require__(542);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+var FrecuentSelectionPage = /** @class */ (function () {
+    function FrecuentSelectionPage(alertCtrl, loadingCtrl, modalCtrl, navCtrl, navParams, p2pServiceProvider, viewCtrl) {
+        this.alertCtrl = alertCtrl;
+        this.loadingCtrl = loadingCtrl;
+        this.modalCtrl = modalCtrl;
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.viewCtrl = viewCtrl;
+        this.contactCero = false;
+    }
+    FrecuentSelectionPage.prototype.ionViewDidLoad = function () {
+        this.searchFrecuentList();
+    };
+    FrecuentSelectionPage.prototype.ionViewDidLeave = function () {
+        this.p2pServiceProvider.onViewMsgPresent = false;
+    };
+    FrecuentSelectionPage.prototype.getBankName = function (obj) {
+        for (var _i = 0, _a = this.p2pServiceProvider.loginData.lista_bancos; _i < _a.length; _i++) {
+            var elmt = _a[_i];
+            if (elmt.codigo == obj.banco) {
+                return elmt.nombre;
+            }
+        }
+    };
+    FrecuentSelectionPage.prototype.displayMessage = function (title, message) {
+        var _this = this;
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: message,
+            buttons: ['OK']
+        });
+        alert.onDidDismiss(function () {
+            _this.p2pServiceProvider.onViewMsgPresent = false;
+        });
+        alert.present();
+    };
+    FrecuentSelectionPage.prototype.searchFrecuentList = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        this.contactCero = false;
+        this.p2pServiceProvider.onViewMsgPresent = true;
+        loader.present().then(function () {
+            _this.p2pServiceProvider.searchFrecuentList().then(function (data) {
+                var res = data;
+                loader.dismiss();
+                if (res.cod_respuesta && res.descripcion_respuesta) {
+                    if (isNaN(res.cod_respuesta) || parseInt(res.cod_respuesta) != 0) {
+                        //ERROR
+                        _this.displayMessage("Error", res.cod_respuesta + ' - ' + res.descripcion_respuesta);
+                        if (res.cod_respuesta == _this.p2pServiceProvider.SESSION_EXPIRED) {
+                            _this.viewCtrl.dismiss({ cod_respuesta: res.cod_respuesta });
+                        }
+                    }
+                    else {
+                        //HANDLE RESPONSE
+                        if (!res.lista_frecuentes || res.lista_frecuentes.length == 0) {
+                            _this.contactCero = true;
+                        }
+                        else {
+                            res.lista_frecuentes.forEach(function (element) {
+                                element.bancoDesc = _this.getBankName(element);
+                            });
+                        }
+                        _this.frecuentList = res.lista_frecuentes;
+                        _this.p2pServiceProvider.onViewMsgPresent = false;
+                    }
+                }
+                else {
+                    _this.displayMessage("Error", "Error de comunicación, mensaje no disponible");
+                }
+            });
+        });
+    };
+    FrecuentSelectionPage.prototype.selectFrecuent = function (item) {
+        var frecuentData = { bank: item.bancoDesc, completeName: item.nombre, documentType: item.tipo, documentID: item.cedula,
+            phoneCode: item.telefono.substring(0, 4), phone: item.telefono.substring(4, item.telefono.length) };
+        this.viewCtrl.dismiss(frecuentData);
+    };
+    FrecuentSelectionPage.prototype.deleteFrecuent = function (item) {
+        var _this = this;
+        this.p2pServiceProvider.onViewMsgPresent = true;
+        var alert = this.alertCtrl.create({ enableBackdropDismiss: false,
+            title: "Confirmación", subTitle: "Eliminar de pagos frecuentes los siguientes datos",
+            message: "<p><strong>Nombre: </strong>" + item.nombre + "</p><p><strong>Banco: </strong>" + item.bancoDesc
+                + "</p><p><strong>Documento: </strong>" + item.tipo + "-" + item.cedula
+                + "</p><p><strong>Teléfono: </strong>" + item.telefono + "</p>",
+            buttons: [{ text: 'NO' }, { text: 'SI', handler: function () {
+                        var loader = _this.loadingCtrl.create({
+                            content: "Procesando...",
+                        });
+                        loader.present().then(function () {
+                            _this.p2pServiceProvider.modifyFrecuentList(item, true).then(function (data) {
+                                var res = data;
+                                loader.dismiss();
+                                if (res.cod_respuesta && res.descripcion_respuesta) {
+                                    if (isNaN(res.cod_respuesta) || parseInt(res.cod_respuesta) != 0) {
+                                        //ERROR
+                                        _this.displayMessage("Error", res.cod_respuesta + ' - ' + res.descripcion_respuesta);
+                                        if (res.cod_respuesta == _this.p2pServiceProvider.SESSION_EXPIRED) {
+                                            _this.viewCtrl.dismiss({ cod_respuesta: res.cod_respuesta });
+                                        }
+                                    }
+                                    else {
+                                        //HANDLE RESPONSE
+                                        var alert_1 = _this.alertCtrl.create({
+                                            title: "Exito",
+                                            subTitle: "Pago frecuente eliminado exitosamente",
+                                            buttons: ['OK']
+                                        });
+                                        alert_1.onDidDismiss(function () {
+                                            _this.searchFrecuentList();
+                                        });
+                                        alert_1.present();
+                                    }
+                                }
+                                else {
+                                    _this.displayMessage("Error", "Error de comunicación, mensaje no disponible");
+                                }
+                            });
+                        });
+                    }
+                }]
+        });
+        alert.present();
+    };
+    FrecuentSelectionPage.prototype.showAddFrecuentView = function () {
+        var _this = this;
+        var modal = this.modalCtrl.create(__WEBPACK_IMPORTED_MODULE_3__frecuent_addition_frecuent_addition__["a" /* FrecuentAdditionPage */]);
+        modal.onDidDismiss(function (data) {
+            var res = data;
+            if (res && res.updateView == true) {
+                _this.searchFrecuentList();
+            }
+            else if (res && res.cod_respuesta && res.cod_respuesta == _this.p2pServiceProvider.SESSION_EXPIRED) {
+                _this.viewCtrl.dismiss({ cod_respuesta: res.cod_respuesta });
+            }
+        });
+        modal.present();
+    };
+    FrecuentSelectionPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-frecuent-selection',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\frecuent-selection\frecuent-selection.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n\n    <ion-title>\n\n      Contactos Frecuentes\n\n    </ion-title>\n\n\n\n    <ion-buttons end>\n\n      <button (click)="viewCtrl.dismiss();">\n\n        <ion-icon name="close-circle"></ion-icon>\n\n      </button>\n\n    </ion-buttons>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content>\n\n  <p *ngIf="contactCero">No posee contactos frecuentes</p>\n\n\n\n  <ion-card *ngFor="let item of frecuentList" class="frecuent-card">\n\n    <ion-row>\n\n      <ion-col (click)="selectFrecuent(item)">\n\n          <ion-row>\n\n              <ion-col>\n\n                  <ion-title>{{item.nombre}}</ion-title>\n\n              </ion-col>\n\n          </ion-row>\n\n\n\n          <ion-row>\n\n              <ion-col>\n\n                  <ion-card-content class="compact">\n\n                      <div><span>{{item.bancoDesc}}</span></div>\n\n                      <span>{{item.telefono}}</span>  |  <span>{{item.tipo}}-{{item.cedula}}</span>\n\n                  </ion-card-content>\n\n              </ion-col>\n\n          </ion-row>\n\n      </ion-col>\n\n      <ion-col col-1>\n\n          <strong><ion-icon name="trash" color="primary" (click)="deleteFrecuent(item)"></ion-icon></strong>  \n\n      </ion-col>\n\n    </ion-row>\n\n  </ion-card>\n\n\n\n  <ion-fab right bottom>\n\n    <button ion-fab (click)="showAddFrecuentView()"><ion-icon name="person-add"></ion-icon></button>\n\n  </ion-fab>\n\n</ion-content>\n\n\n\n<ion-footer class="hideElementOnKeyboardShown">\n\n	<ion-toolbar>\n\n    <small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n\n	</ion-toolbar>\n\n</ion-footer>'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\frecuent-selection\frecuent-selection.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* ModalController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_2__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* ViewController */]])
+    ], FrecuentSelectionPage);
+    return FrecuentSelectionPage;
+}());
+
+//# sourceMappingURL=frecuent-selection.js.map
+
+/***/ }),
+
+/***/ 542:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FrecuentAdditionPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular_components_loading_loading_controller__ = __webpack_require__(64);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+var FrecuentAdditionPage = /** @class */ (function () {
+    function FrecuentAdditionPage(alertCtrl, loadingCtrl, navCtrl, navParams, p2pServiceProvider, viewCtrl) {
+        this.alertCtrl = alertCtrl;
+        this.loadingCtrl = loadingCtrl;
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.viewCtrl = viewCtrl;
+    }
+    FrecuentAdditionPage.prototype.ionViewDidLoad = function () {
+        console.log('ionViewDidLoad FrecuentAdditionPage');
+        this.bankList = this.p2pServiceProvider.loginData.lista_bancos;
+        this.docTypes = this.p2pServiceProvider.loginData.lista_tipoafi;
+        this.prefixList = this.p2pServiceProvider.loginData.lista_operadoras;
+    };
+    FrecuentAdditionPage.prototype.ionViewDidLeave = function () {
+        this.p2pServiceProvider.onViewMsgPresent = false;
+    };
+    FrecuentAdditionPage.prototype.dismissAdditionView = function (doResearch) {
+        this.viewCtrl.dismiss({ updateView: doResearch });
+    };
+    FrecuentAdditionPage.prototype.displayMessage = function (title, message) {
+        var _this = this;
+        this.p2pServiceProvider.onViewMsgPresent = true;
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: message,
+            buttons: ['OK']
+        });
+        alert.onDidDismiss(function () {
+            _this.p2pServiceProvider.onViewMsgPresent = false;
+        });
+        alert.present();
+    };
+    FrecuentAdditionPage.prototype.validAdditionData = function () {
+        var _this = this;
+        if (!this.contactBank || this.contactBank.trim().length < 4) {
+            this.displayMessage("Error", "Debe seleccionar un banco");
+        }
+        else if (!this.contactPrefix) {
+            this.displayMessage("Error", "Debe ingresar el prefijo del número de teléfono");
+        }
+        else if (!this.contactPhone || isNaN(this.contactPhone.valueOf())) {
+            this.displayMessage("Error", "Debe ingresar un número de teléfono valido");
+        }
+        else if (!this.contactType || this.contactType.trim().length == 0 ||
+            !this.contactID || this.contactID.toString().trim().length == 0) {
+            this.displayMessage("Error", "Debe ingresar un documento válido");
+        }
+        else if (isNaN(this.contactID.valueOf())) {
+            this.displayMessage("Error", "Debe ingresar solo números en el número de documento");
+        }
+        else if (!this.contactName || this.contactName.trim().length == 0 || this.contactName.trim().length < 4 ||
+            (new RegExp(/^[a-z0-9ñÑ\u00E1\u00E9\u00ED\u00F3\u00FA\u00FC\u00C1\u00C9\u00CD\u00D3\u00DA\u00DC\s]+$/gi).test(this.contactName)) == false) {
+            this.displayMessage("Error", "El nombre debe contener como mínimo 4 caracteres");
+        }
+        else if (this.contactPhone.toString().trim().length < 7 || (new RegExp(/^[0-9]+$/gi).test(this.contactPhone.toString())) == false) {
+            this.displayMessage("Error", "El número de teléfono debe contener mínimo 7 dígitos numéricos");
+        }
+        else if (this.contactID.toString().length < 6 || (new RegExp(/^[0-9]+$/gi).test(this.contactID.toString())) == false) {
+            this.displayMessage("Error", "El número de documento debe contener mínimo 6 dígitos numéricos");
+        }
+        else {
+            var loader_1 = this.loadingCtrl.create({
+                content: "Procesando...",
+            });
+            this.p2pServiceProvider.onViewMsgPresent = true;
+            var requestBody_1 = { banco: this.contactBank,
+                telefono: this.contactPrefix + this.contactPhone,
+                tipo: this.contactType,
+                cedula: this.contactID,
+                nombre: this.contactName };
+            loader_1.present().then(function () {
+                _this.p2pServiceProvider.modifyFrecuentList(requestBody_1, false).then(function (data) {
+                    var res = data;
+                    loader_1.dismiss();
+                    if (res.cod_respuesta && res.descripcion_respuesta) {
+                        if (isNaN(res.cod_respuesta) || parseInt(res.cod_respuesta) != 0) {
+                            //ERROR
+                            _this.displayMessage("Error", res.cod_respuesta + ' - ' + res.descripcion_respuesta);
+                            if (res.cod_respuesta == _this.p2pServiceProvider.SESSION_EXPIRED) {
+                                _this.viewCtrl.dismiss({ cod_respuesta: res.cod_respuesta });
+                            }
+                        }
+                        else {
+                            //HANDLE RESPONSE
+                            _this.dismissAdditionView(true);
+                        }
+                    }
+                    else {
+                        _this.displayMessage("Error", "Error de comunicación, mensaje no disponible");
+                    }
+                });
+            });
+        }
+    };
+    FrecuentAdditionPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-frecuent-addition',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\frecuent-addition\frecuent-addition.html"*/'\n\n  <ion-content class="main-view">\n\n      <div class="overlay"></div>\n\n      <ion-scroll class="modal_content" scrollY="true">\n\n        <ion-navbar color="primary">\n\n          <ion-title>Nuevo Contacto</ion-title>\n\n        </ion-navbar>\n\n  \n\n        <ion-row>\n\n          <ion-col>\n\n            <strong>\n\n            <ion-select interface="popover" class="full-select" [(ngModel)]="contactBank">\n\n              <ion-option value="" disabled="true" selected="true">Banco Receptor</ion-option>\n\n              <ion-option *ngFor="let item of bankList" value="{{item.codigo}}">{{item.nombre}}</ion-option>\n\n            </ion-select>\n\n            </strong>\n\n          </ion-col>\n\n        </ion-row>\n\n\n\n        <ion-row>\n\n          <ion-col class="padding-box">\n\n            <ion-label stacked><strong>Nombre Contacto</strong></ion-label>\n\n            <ion-input type="text" maxlength="20" [(ngModel)]="contactName" placeholder="Ingrese el nombre del contacto" [valid-input-as]="0"></ion-input>\n\n          </ion-col>\n\n        </ion-row>\n\n\n\n        <ion-row>\n\n          <ion-col>\n\n            <ion-select interface="popover" [(ngModel)]="contactPrefix">\n\n              <ion-option value="" disabled="true" selected="true">Prefijo</ion-option>\n\n              <ion-option *ngFor="let item of prefixList" value="{{item.codigo}}">{{item.codigo}}</ion-option>\n\n            </ion-select>\n\n          </ion-col>\n\n  \n\n          <ion-col>\n\n            <ion-input type="tel" maxlength="7" [(ngModel)]="contactPhone" placeholder="Número" [valid-input-as]="0"></ion-input>\n\n          </ion-col>\n\n        </ion-row>\n\n\n\n        <ion-row>\n\n          <ion-col col-6>\n\n            <ion-select interface="popover" [(ngModel)]="contactType">\n\n              <ion-option value="" disabled="true" selected="true">Documento</ion-option>\n\n              <ion-option *ngFor="let item of docTypes" value="{{item.codigo}}">{{item.codigo}}</ion-option>\n\n            </ion-select>\n\n          </ion-col>\n\n  \n\n          <ion-col>\n\n            <ion-input type="tel" maxlength="10" [(ngModel)]="contactID" placeholder="N° Documento" [valid-input-as]="0"></ion-input>\n\n          </ion-col>\n\n        </ion-row>\n\n        \n\n        <ion-row>\n\n          <ion-col>\n\n            <button ion-button block color="secondary" (click)="validAdditionData();">Agregar</button>\n\n          </ion-col>\n\n          <ion-col>\n\n            <button ion-button block color="primary" (click)="viewCtrl.dismiss();">Cancelar</button>\n\n          </ion-col>\n\n        </ion-row>\n\n      </ion-scroll>\n\n    </ion-content>'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\frecuent-addition\frecuent-addition.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* AlertController */], __WEBPACK_IMPORTED_MODULE_2_ionic_angular_components_loading_loading_controller__["a" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* ViewController */]])
+    ], FrecuentAdditionPage);
+    return FrecuentAdditionPage;
+}());
+
+//# sourceMappingURL=frecuent-addition.js.map
+
+/***/ }),
+
+/***/ 543:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return OrderDetailPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+var OrderDetailPage = /** @class */ (function () {
+    function OrderDetailPage(navCtrl, navParams, viewCrtl, loadingCtrl, alertCtrl, p2pServiceProvider) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.viewCrtl = viewCrtl;
+        this.loadingCtrl = loadingCtrl;
+        this.alertCtrl = alertCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.bankName = this.navParams.get('bankName');
+        this.code = this.navParams.get('code');
+        this.phone = this.navParams.get('phone');
+        this.idType = this.navParams.get('idType');
+        this.idNumber = this.navParams.get('idNumber');
+        this.amount = this.navParams.get('amount');
+        if (this.navParams.get('concept') != null) {
+            this.concept = this.navParams.get('concept');
+        }
+        this.username = navParams.get('username');
+        this.loginData = navParams.get('loginData');
+    }
+    OrderDetailPage.prototype.close = function () {
+        this.viewCrtl.dismiss({
+            status: false
+        });
+    };
+    OrderDetailPage.prototype.getBankCode = function (bankName) {
+        var code = "";
+        for (var _i = 0, _a = this.loginData.lista_bancos; _i < _a.length; _i++) {
+            var i = _a[_i];
+            if (i.nombre == bankName) {
+                code = i.codigo;
+            }
+        }
+        return code;
+    };
+    OrderDetailPage.prototype.paymentRequest = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        this.p2pServiceProvider.onViewMsgPresent = true;
+        loader.onDidDismiss(function () { _this.p2pServiceProvider.onViewMsgPresent = false; });
+        loader.present().then(function () {
+            var p2pObject = {
+                "username": _this.username,
+                "canal": "04",
+                "codinstreceptor": _this.getBankCode(_this.bankName),
+                "tlfdestino": _this.code + _this.phone,
+                "concepto": _this.concept,
+                "identificacion": _this.idType + _this.idNumber,
+                "monto": _this.amount
+            };
+            _this.p2pServiceProvider.paymentP2PRequest(p2pObject)
+                .then(function (data) {
+                _this.p2pResponse = data;
+                _this.viewCrtl.dismiss({
+                    response: _this.p2pResponse,
+                    status: true
+                });
+                loader.dismiss();
+            });
+        });
+    };
+    OrderDetailPage.prototype.formatAmount = function (number) {
+        return number.replace(/\./gi, ",").replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+    };
+    OrderDetailPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-order-detail',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\order-detail\order-detail.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n\n    <ion-title>Confirmar Pago</ion-title>\n\n    <ion-buttons end>\n\n      <button ion-button icon-only (click)="close()">\n\n        <ion-icon name="close"></ion-icon>\n\n      </button>\n\n    </ion-buttons>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content padding>\n\n  <div class="container">\n\n    <img src="assets/images/logo_bicentenario.png" alt="">\n\n  </div>\n\n\n\n  <ion-list no-lines>\n\n    <ion-label class="no-margin">Banco Receptor</ion-label>\n\n    <ion-item class="no-margin">\n\n      <p>{{bankName}}</p>\n\n    </ion-item>\n\n\n\n    <ion-label class="no-margin">Celular del Receptor</ion-label>\n\n    <ion-item class="no-margin">\n\n      <p>{{code}}-{{phone}}</p>\n\n    </ion-item>\n\n\n\n    <ion-label class="no-margin">Documento del Receptor</ion-label>\n\n    <ion-item class="no-margin">\n\n      <p>{{idType}}-{{idNumber}}</p>\n\n    </ion-item>\n\n\n\n    <ion-label class="no-margin">Monto</ion-label>\n\n    <ion-item class="no-margin">\n\n      <p>{{this.formatAmount(amount)}}</p>\n\n    </ion-item>\n\n\n\n    <button ion-button block color="secondary" (click)="paymentRequest()" >Enviar</button>\n\n  </ion-list>\n\n</ion-content>\n\n\n\n<ion-footer class="hideElementOnKeyboardShown">\n\n	<ion-toolbar>\n\n		<small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n\n	</ion-toolbar>\n\n</ion-footer>\n\n'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\order-detail\order-detail.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* ViewController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_2__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */]])
+    ], OrderDetailPage);
+    return OrderDetailPage;
+}());
+
+//# sourceMappingURL=order-detail.js.map
+
+/***/ }),
+
+/***/ 544:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ReceivedPaymentsPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__pipes_dateview_dateview__ = __webpack_require__(98);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+//Modules & Components
+
+
+
+
+var ReceivedPaymentsPage = /** @class */ (function () {
+    function ReceivedPaymentsPage(navCtrl, navParams, modalCtrl, alertCtrl, loadingCtrl, p2pServiceProvider, datePipe) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.modalCtrl = modalCtrl;
+        this.alertCtrl = alertCtrl;
+        this.loadingCtrl = loadingCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.datePipe = datePipe;
+        this.items = [];
+        this.loginData = navParams.get('loginData');
+        this.username = navParams.get('username');
+        this.paymentsRequest();
+    }
+    ReceivedPaymentsPage.prototype.paymentsRequest = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        this.p2pServiceProvider.onViewMsgPresent = true;
+        loader.onDidDismiss(function () { _this.p2pServiceProvider.onViewMsgPresent = false; });
+        loader.present().then(function () {
+            var receivedPaymentsObject = {
+                username: _this.username,
+                canal: "04",
+                fechahora_disp: new Date(),
+                tipomov: "R"
+            };
+            _this.p2pServiceProvider.paymentsRequest(receivedPaymentsObject)
+                .then(function (data) {
+                _this.payments = data;
+                if (_this.payments.name == null) {
+                    loader.dismiss();
+                    _this.createList(_this.payments);
+                }
+                else {
+                    loader.dismiss();
+                    _this.navCtrl.pop();
+                }
+            });
+        });
+    };
+    ReceivedPaymentsPage.prototype.itemSelected = function (item) {
+        var alert = this.alertCtrl.create({
+            title: 'Detalle del Pago',
+            message: '<b>Transacción Exitosa</b><hr/>' +
+                '<b id="dateHead">Banco:</b> ' + item.codigo_banco + '<br/>' +
+                '<b id="dateHead">Fecha:</b> ' + this.datePipe.transform(item.fecha_tran, 'DATETIME') + '<br/>' +
+                '<b id="dateHead">Monto:</b> ' + this.numberWithCommas(item.monto) + ' Bs.<br/>' +
+                '<b id="dateHead">Concepto:</b> ' + item.concepto + '<br/>' +
+                '<b id="dateHead">Ref. Quantum:</b> ' + item.trace_quantum + '<br/>' +
+                '<b id="dateHead">Ref. Suiche:</b> ' + item.codigo_suiche,
+            buttons: ['CERRAR']
+        });
+        alert.present();
+    };
+    ReceivedPaymentsPage.prototype.createList = function (payments) {
+        if (payments.lista_mov != null && payments.lista_mov.length > 0) {
+            this.manageBankList(payments.lista_mov);
+            for (var _i = 0, _a = payments.lista_mov; _i < _a.length; _i++) {
+                var i = _a[_i];
+                if (i.codigo_resp == "00") {
+                    i.codigo_resp = "checkmark-circle-outline";
+                }
+                else {
+                    i.codigo_resp = "close-circle";
+                }
+                this.items.push(i);
+            }
+        }
+        else {
+            if (this.payments.cod_respuesta == this.p2pServiceProvider.SESSION_EXPIRED) {
+                //TOKEN EXPIRED -> LOG OUT ACTION
+                this.displayMessage("Error", this.payments.cod_respuesta + " - " + this.payments.descripcion_respuesta);
+                this.navCtrl.popToRoot();
+            }
+            else {
+                this.displayMessage("Aviso", "No existen movimientos registrados");
+                this.navCtrl.pop();
+            }
+        }
+    };
+    ReceivedPaymentsPage.prototype.manageBankList = function (payments) {
+        for (var _i = 0, payments_1 = payments; _i < payments_1.length; _i++) {
+            var i = payments_1[_i];
+            for (var _a = 0, _b = this.loginData.lista_bancos; _a < _b.length; _a++) {
+                var j = _b[_a];
+                if (i.codigo_banco == j.codigo) {
+                    i.codigo_banco = j.nombre;
+                }
+            }
+        }
+        return payments;
+    };
+    ReceivedPaymentsPage.prototype.numberWithCommas = function (number) {
+        var aux = number;
+        number = number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); // Colocando comas en formateo de miles
+        var comma = /\,/gi;
+        var dot = /\./gi;
+        var asterisco = /\*/gi;
+        number = number.replace(dot, "-");
+        number = number.replace(comma, ".");
+        number = number.replace(asterisco, ".");
+        number = number.replace("-", ",");
+        if (aux % 1 == 0) {
+            number = number + ",00";
+        }
+        return number;
+    };
+    ReceivedPaymentsPage.prototype.displayMessage = function (title, subtitle) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: subtitle,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    ReceivedPaymentsPage.prototype.maskPhone = function (phone) {
+        if (phone.length > 10) {
+            phone = phone.substring(0, 4) + 'XXX' + phone.substring(7, phone.length + 1);
+        }
+        return phone;
+    };
+    ReceivedPaymentsPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-received-payments',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\received-payments\received-payments.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n\n    <ion-title>\n\n      Pagos Recibidos\n\n    </ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content>\n\n  <ion-card-content>\n\n    <!-- Header -->\n\n    <ion-row class="table-header">\n\n      <ion-col col-4>\n\n        <span><strong>ESTADO</strong></span>\n\n      </ion-col>\n\n      <ion-col col-4>\n\n        <span><strong>DESCRIPCIÓN</strong></span>\n\n      </ion-col>\n\n      <ion-col col-4>\n\n        <span><strong>MONTO</strong></span>\n\n      </ion-col>\n\n    </ion-row>\n\n\n\n    <!--Body-->\n\n    <ion-grid>\n\n      <button ion-item *ngFor="let item of items" (click)="itemSelected(item)" detail-none>\n\n        <ion-row>\n\n          <ion-col>\n\n            <ion-icon name=\'{{item.codigo_resp}}\' item-start></ion-icon>\n\n          </ion-col>\n\n          <ion-col col-auto>\n\n            <div><span>{{item.codigo_banco}}</span></div>\n\n            <div><span>{{this.maskPhone(item.telefono)}}</span></div>\n\n            <div><span>{{item.fecha_tran | dateview: \'DATETIME\'}}</span></div>\n\n          </ion-col>\n\n          <ion-col>\n\n            <div><span>{{numberWithCommas(item.monto)}}</span></div>\n\n          </ion-col>\n\n        </ion-row>\n\n      </button>\n\n    </ion-grid>\n\n  </ion-card-content>\n\n\n\n</ion-content>\n\n\n\n<ion-footer class="hideElementOnKeyboardShown">\n\n	<ion-toolbar>\n\n    <small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n\n	</ion-toolbar>\n\n</ion-footer>'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\received-payments\received-payments.html"*/,
+            providers: [__WEBPACK_IMPORTED_MODULE_2__pipes_dateview_dateview__["a" /* DateviewPipe */]]
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* ModalController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */],
+            __WEBPACK_IMPORTED_MODULE_2__pipes_dateview_dateview__["a" /* DateviewPipe */]])
+    ], ReceivedPaymentsPage);
+    return ReceivedPaymentsPage;
+}());
+
+//# sourceMappingURL=received-payments.js.map
+
+/***/ }),
+
+/***/ 545:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SentPaymentsPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__pipes_dateview_dateview__ = __webpack_require__(98);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+//Modules & Components
+
+
+
+
+var SentPaymentsPage = /** @class */ (function () {
+    function SentPaymentsPage(navCtrl, navParams, modalCtrl, alertCtrl, loadingCtrl, p2pServiceProvider, datePipe) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.modalCtrl = modalCtrl;
+        this.alertCtrl = alertCtrl;
+        this.loadingCtrl = loadingCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.datePipe = datePipe;
+        this.items = [];
+        this.loginData = navParams.get('loginData');
+        this.username = navParams.get('username');
+        this.paymentsRequest();
+    }
+    SentPaymentsPage.prototype.paymentsRequest = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        this.p2pServiceProvider.onViewMsgPresent = true;
+        loader.onDidDismiss(function () { _this.p2pServiceProvider.onViewMsgPresent = false; });
+        loader.present().then(function () {
+            var SentPaymentsObject = {
+                username: _this.username,
+                canal: "04",
+                fechahora_disp: new Date(),
+                tipomov: "E"
+            };
+            _this.p2pServiceProvider.paymentsRequest(SentPaymentsObject)
+                .then(function (data) {
+                _this.payments = data;
+                if (_this.payments.name == null) {
+                    loader.dismiss();
+                    _this.createList(_this.payments);
+                }
+                else {
+                    loader.dismiss();
+                    _this.navCtrl.pop();
+                }
+            });
+        });
+    };
+    SentPaymentsPage.prototype.itemSelected = function (item) {
+        var tranState = item.codigo_resp == "checkmark-circle-outline" ? 'Transacción Exitosa' : 'Transacción Fallida';
+        var alert = this.alertCtrl.create({
+            title: 'Detalle del Pago',
+            message: '<b>' + tranState + '</b><hr/>' +
+                '<b id="dateHead">Banco:</b> ' + item.codigo_banco + '<br/>' +
+                '<b id="dateHead">Fecha:</b> ' + this.datePipe.transform(item.fecha_tran, 'DATETIME') + '<br/>' +
+                '<b id="dateHead">Monto:</b> ' + this.numberWithCommas(item.monto) + ' Bs.<br/>' +
+                '<b id="dateHead">Concepto:</b> ' + item.concepto + '<br/>' +
+                '<b id="dateHead">Ref. Quantum:</b> ' + item.trace_quantum + '<br/>' +
+                '<b id="dateHead">Ref. Suiche:</b> ' + item.codigo_suiche,
+            buttons: ['CERRAR']
+        });
+        alert.present();
+    };
+    SentPaymentsPage.prototype.createList = function (payments) {
+        if (payments.lista_mov != null && payments.lista_mov.length > 0) {
+            this.manageBankList(payments.lista_mov);
+            for (var _i = 0, _a = payments.lista_mov; _i < _a.length; _i++) {
+                var i = _a[_i];
+                if (i.codigo_resp == "00") {
+                    i.codigo_resp = "checkmark-circle-outline";
+                }
+                else {
+                    i.codigo_resp = "close-circle";
+                }
+                this.items.push(i);
+            }
+        }
+        else {
+            if (this.payments.cod_respuesta == this.p2pServiceProvider.SESSION_EXPIRED) {
+                //TOKEN EXPIRED -> LOG OUT ACTION
+                this.displayMessage("Error", this.payments.cod_respuesta + " - " + this.payments.descripcion_respuesta);
+                this.navCtrl.popToRoot();
+            }
+            else {
+                this.displayMessage("Aviso", "No existen movimientos registrados");
+                this.navCtrl.pop();
+            }
+        }
+    };
+    SentPaymentsPage.prototype.manageBankList = function (payments) {
+        for (var _i = 0, payments_1 = payments; _i < payments_1.length; _i++) {
+            var i = payments_1[_i];
+            for (var _a = 0, _b = this.loginData.lista_bancos; _a < _b.length; _a++) {
+                var j = _b[_a];
+                if (i.codigo_banco == j.codigo) {
+                    i.codigo_banco = j.nombre;
+                }
+            }
+        }
+        return payments;
+    };
+    SentPaymentsPage.prototype.numberWithCommas = function (number) {
+        var aux = number;
+        number = number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); // Colocando comas en formateo de miles
+        var comma = /\,/gi;
+        var dot = /\./gi;
+        var asterisco = /\*/gi;
+        number = number.replace(dot, "-");
+        number = number.replace(comma, ".");
+        number = number.replace(asterisco, ".");
+        number = number.replace("-", ",");
+        if (aux % 1 == 0) {
+            number = number + ",00";
+        }
+        return number;
+    };
+    SentPaymentsPage.prototype.displayMessage = function (title, subtitle) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: subtitle,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    SentPaymentsPage.prototype.maskPhone = function (phone) {
+        if (phone.length > 10) {
+            phone = phone.substring(0, 4) + 'XXX' + phone.substring(7, phone.length + 1);
+        }
+        return phone;
+    };
+    SentPaymentsPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-sent-payments',template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\sent-payments\sent-payments.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n\n    <ion-title>\n\n      Pagos Emitidos\n\n    </ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content>\n\n  <ion-card-content>\n\n    <!-- Header -->\n\n    <ion-row class="table-header">\n\n      <ion-col col-4>\n\n        <span><strong>ESTADO</strong></span>\n\n      </ion-col>\n\n      <ion-col col-4>\n\n        <span><strong>DESCRIPCIÓN</strong></span>\n\n      </ion-col>\n\n      <ion-col col-4>\n\n        <span><strong>MONTO</strong></span>\n\n      </ion-col>\n\n    </ion-row>\n\n\n\n    <!--Body-->\n\n    <ion-grid>\n\n      <button ion-item *ngFor="let item of items" (click)="itemSelected(item)" detail-none>\n\n        <ion-row>\n\n          <ion-col>\n\n            <ion-icon name=\'{{item.codigo_resp}}\' item-start></ion-icon>\n\n          </ion-col>\n\n          <ion-col col-auto>\n\n            <div><span>{{item.codigo_banco}}</span></div>\n\n            <div><span>{{this.maskPhone(item.telefono)}}</span></div>\n\n            <div><span>{{item.fecha_tran | dateview: \'DATETIME\'}}</span></div>\n\n          </ion-col>\n\n          <ion-col>\n\n            <div><span>{{numberWithCommas(item.monto)}}</span></div>\n\n          </ion-col>\n\n        </ion-row>\n\n      </button>\n\n    </ion-grid>\n\n  </ion-card-content>\n\n\n\n</ion-content>\n\n\n\n<ion-footer class="hideElementOnKeyboardShown">\n\n	<ion-toolbar>\n\n    <small>Comercializado por</small><br><small><b>Corporación Unidigital C.A. J-40148330-5.</b></small>\n\n	</ion-toolbar>\n\n</ion-footer>'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\pages\sent-payments\sent-payments.html"*/,
+            providers: [__WEBPACK_IMPORTED_MODULE_2__pipes_dateview_dateview__["a" /* DateviewPipe */]]
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* ModalController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_3__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */],
+            __WEBPACK_IMPORTED_MODULE_2__pipes_dateview_dateview__["a" /* DateviewPipe */]])
+    ], SentPaymentsPage);
+    return SentPaymentsPage;
+}());
+
+//# sourceMappingURL=sent-payments.js.map
+
+/***/ }),
+
+/***/ 546:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(547);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_module__ = __webpack_require__(551);
+
+
+Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_1__app_module__["a" /* AppModule */]);
+//# sourceMappingURL=main.js.map
+
+/***/ }),
+
+/***/ 551:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_common_http__ = __webpack_require__(103);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_platform_browser__ = __webpack_require__(49);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__ = __webpack_require__(196);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ionic_native_status_bar__ = __webpack_require__(200);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ng_idle_keepalive__ = __webpack_require__(201);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_angular2_moment__ = __webpack_require__(565);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_angular2_moment___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_angular2_moment__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__directives_directives_module__ = __webpack_require__(605);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__pages_affiliation_terms_affiliation_terms__ = __webpack_require__(159);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__pages_affiliation_affiliation__ = __webpack_require__(160);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__pages_change_password_change_password__ = __webpack_require__(164);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__pages_client_qa_request_client_qa_request__ = __webpack_require__(176);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__pages_clientid_request_clientid_request__ = __webpack_require__(177);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__pages_company_balance_company_balance__ = __webpack_require__(538);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__pages_company_received_company_received__ = __webpack_require__(539);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__pages_frecuent_addition_frecuent_addition__ = __webpack_require__(542);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__pages_frecuent_selection_frecuent_selection__ = __webpack_require__(541);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__pages_home_home__ = __webpack_require__(42);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__pages_options_options__ = __webpack_require__(180);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__pages_order_detail_order_detail__ = __webpack_require__(543);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__pages_payment_order_payment_order__ = __webpack_require__(540);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__pages_phone_chooser_phone_chooser__ = __webpack_require__(178);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__pages_question_request_question_request__ = __webpack_require__(181);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__pages_received_payments_received_payments__ = __webpack_require__(544);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__pages_reset_password_reset_password__ = __webpack_require__(182);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__pages_sent_payments_sent_payments__ = __webpack_require__(545);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__pages_verify_affiliation_verify_affiliation__ = __webpack_require__(179);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__pipes_pipes_module__ = __webpack_require__(900);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__providers_timer_timer__ = __webpack_require__(901);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__app_component__ = __webpack_require__(902);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__angular_common_locales_es__ = __webpack_require__(903);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__angular_common__ = __webpack_require__(45);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_34__ionic_native_keyboard__ = __webpack_require__(904);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+ // this includes the core NgIdleModule but includes keepalive providers for easy wireup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Object(__WEBPACK_IMPORTED_MODULE_33__angular_common__["j" /* registerLocaleData */])(__WEBPACK_IMPORTED_MODULE_32__angular_common_locales_es__["a" /* default */], 'es');
+var AppModule = /** @class */ (function () {
+    function AppModule() {
+    }
+    AppModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_31__app_component__["a" /* MyApp */],
+                __WEBPACK_IMPORTED_MODULE_18__pages_home_home__["a" /* HomePage */],
+                __WEBPACK_IMPORTED_MODULE_10__pages_affiliation_affiliation__["a" /* AffiliationPage */],
+                __WEBPACK_IMPORTED_MODULE_9__pages_affiliation_terms_affiliation_terms__["a" /* AffiliationTermsPage */],
+                __WEBPACK_IMPORTED_MODULE_19__pages_options_options__["a" /* OptionsPage */],
+                __WEBPACK_IMPORTED_MODULE_11__pages_change_password_change_password__["a" /* ChangePasswordPage */],
+                __WEBPACK_IMPORTED_MODULE_13__pages_clientid_request_clientid_request__["a" /* ClientidRequestPage */],
+                __WEBPACK_IMPORTED_MODULE_12__pages_client_qa_request_client_qa_request__["a" /* ClientQaRequestPage */],
+                __WEBPACK_IMPORTED_MODULE_14__pages_company_balance_company_balance__["a" /* CompanyBalancePage */],
+                __WEBPACK_IMPORTED_MODULE_15__pages_company_received_company_received__["a" /* CompanyReceivedPage */],
+                __WEBPACK_IMPORTED_MODULE_21__pages_payment_order_payment_order__["a" /* PaymentOrderPage */],
+                __WEBPACK_IMPORTED_MODULE_22__pages_phone_chooser_phone_chooser__["a" /* PhoneChooserPage */],
+                __WEBPACK_IMPORTED_MODULE_24__pages_received_payments_received_payments__["a" /* ReceivedPaymentsPage */],
+                __WEBPACK_IMPORTED_MODULE_26__pages_sent_payments_sent_payments__["a" /* SentPaymentsPage */],
+                __WEBPACK_IMPORTED_MODULE_20__pages_order_detail_order_detail__["a" /* OrderDetailPage */],
+                __WEBPACK_IMPORTED_MODULE_25__pages_reset_password_reset_password__["a" /* ResetPasswordPage */],
+                __WEBPACK_IMPORTED_MODULE_27__pages_verify_affiliation_verify_affiliation__["a" /* VerifyAffiliationPage */],
+                __WEBPACK_IMPORTED_MODULE_23__pages_question_request_question_request__["a" /* QuestionRequestPage */],
+                __WEBPACK_IMPORTED_MODULE_16__pages_frecuent_addition_frecuent_addition__["a" /* FrecuentAdditionPage */],
+                __WEBPACK_IMPORTED_MODULE_17__pages_frecuent_selection_frecuent_selection__["a" /* FrecuentSelectionPage */]
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_2__angular_platform_browser__["a" /* BrowserModule */],
+                __WEBPACK_IMPORTED_MODULE_0__angular_common_http__["b" /* HttpClientModule */],
+                __WEBPACK_IMPORTED_MODULE_6_angular2_moment__["MomentModule"],
+                __WEBPACK_IMPORTED_MODULE_8__directives_directives_module__["a" /* DirectivesModule */],
+                __WEBPACK_IMPORTED_MODULE_28__pipes_pipes_module__["a" /* PipesModule */],
+                __WEBPACK_IMPORTED_MODULE_5__ng_idle_keepalive__["b" /* NgIdleKeepaliveModule */].forRoot(),
+                __WEBPACK_IMPORTED_MODULE_7_ionic_angular__["e" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_31__app_component__["a" /* MyApp */], {
+                    backButtonText: '',
+                    iconMode: 'ios',
+                    modalEnter: 'modal-slide-in',
+                    modalLeave: 'modal-slide-out',
+                    tabsPlacement: 'bottom',
+                    pageTransition: 'ios-transition'
+                }, {
+                    links: []
+                })
+            ],
+            bootstrap: [__WEBPACK_IMPORTED_MODULE_7_ionic_angular__["c" /* IonicApp */]],
+            entryComponents: [
+                __WEBPACK_IMPORTED_MODULE_31__app_component__["a" /* MyApp */],
+                __WEBPACK_IMPORTED_MODULE_18__pages_home_home__["a" /* HomePage */],
+                __WEBPACK_IMPORTED_MODULE_10__pages_affiliation_affiliation__["a" /* AffiliationPage */],
+                __WEBPACK_IMPORTED_MODULE_9__pages_affiliation_terms_affiliation_terms__["a" /* AffiliationTermsPage */],
+                __WEBPACK_IMPORTED_MODULE_19__pages_options_options__["a" /* OptionsPage */],
+                __WEBPACK_IMPORTED_MODULE_11__pages_change_password_change_password__["a" /* ChangePasswordPage */],
+                __WEBPACK_IMPORTED_MODULE_13__pages_clientid_request_clientid_request__["a" /* ClientidRequestPage */],
+                __WEBPACK_IMPORTED_MODULE_12__pages_client_qa_request_client_qa_request__["a" /* ClientQaRequestPage */],
+                __WEBPACK_IMPORTED_MODULE_14__pages_company_balance_company_balance__["a" /* CompanyBalancePage */],
+                __WEBPACK_IMPORTED_MODULE_15__pages_company_received_company_received__["a" /* CompanyReceivedPage */],
+                __WEBPACK_IMPORTED_MODULE_21__pages_payment_order_payment_order__["a" /* PaymentOrderPage */],
+                __WEBPACK_IMPORTED_MODULE_22__pages_phone_chooser_phone_chooser__["a" /* PhoneChooserPage */],
+                __WEBPACK_IMPORTED_MODULE_24__pages_received_payments_received_payments__["a" /* ReceivedPaymentsPage */],
+                __WEBPACK_IMPORTED_MODULE_26__pages_sent_payments_sent_payments__["a" /* SentPaymentsPage */],
+                __WEBPACK_IMPORTED_MODULE_20__pages_order_detail_order_detail__["a" /* OrderDetailPage */],
+                __WEBPACK_IMPORTED_MODULE_25__pages_reset_password_reset_password__["a" /* ResetPasswordPage */],
+                __WEBPACK_IMPORTED_MODULE_27__pages_verify_affiliation_verify_affiliation__["a" /* VerifyAffiliationPage */],
+                __WEBPACK_IMPORTED_MODULE_23__pages_question_request_question_request__["a" /* QuestionRequestPage */],
+                __WEBPACK_IMPORTED_MODULE_16__pages_frecuent_addition_frecuent_addition__["a" /* FrecuentAdditionPage */],
+                __WEBPACK_IMPORTED_MODULE_17__pages_frecuent_selection_frecuent_selection__["a" /* FrecuentSelectionPage */]
+            ],
+            providers: [
+                __WEBPACK_IMPORTED_MODULE_4__ionic_native_status_bar__["a" /* StatusBar */],
+                __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__["a" /* SplashScreen */],
+                __WEBPACK_IMPORTED_MODULE_34__ionic_native_keyboard__["a" /* Keyboard */],
+                { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["LOCALE_ID"], useClass: __WEBPACK_IMPORTED_MODULE_7_ionic_angular__["d" /* IonicErrorHandler */], useValue: 'es' },
+                __WEBPACK_IMPORTED_MODULE_29__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */],
+                __WEBPACK_IMPORTED_MODULE_30__providers_timer_timer__["a" /* TimerProvider */]
+            ]
+        })
+    ], AppModule);
+    return AppModule;
+}());
+
+//# sourceMappingURL=app.module.js.map
+
+/***/ }),
+
+/***/ 567:
+/***/ (function(module, exports, __webpack_require__) {
+
+var map = {
+	"./af": 216,
+	"./af.js": 216,
+	"./ar": 217,
+	"./ar-dz": 218,
+	"./ar-dz.js": 218,
+	"./ar-kw": 219,
+	"./ar-kw.js": 219,
+	"./ar-ly": 220,
+	"./ar-ly.js": 220,
+	"./ar-ma": 221,
+	"./ar-ma.js": 221,
+	"./ar-sa": 222,
+	"./ar-sa.js": 222,
+	"./ar-tn": 223,
+	"./ar-tn.js": 223,
+	"./ar.js": 217,
+	"./az": 224,
+	"./az.js": 224,
+	"./be": 225,
+	"./be.js": 225,
+	"./bg": 226,
+	"./bg.js": 226,
+	"./bm": 227,
+	"./bm.js": 227,
+	"./bn": 228,
+	"./bn-bd": 229,
+	"./bn-bd.js": 229,
+	"./bn.js": 228,
+	"./bo": 230,
+	"./bo.js": 230,
+	"./br": 231,
+	"./br.js": 231,
+	"./bs": 232,
+	"./bs.js": 232,
+	"./ca": 233,
+	"./ca.js": 233,
+	"./cs": 234,
+	"./cs.js": 234,
+	"./cv": 235,
+	"./cv.js": 235,
+	"./cy": 236,
+	"./cy.js": 236,
+	"./da": 237,
+	"./da.js": 237,
+	"./de": 238,
+	"./de-at": 239,
+	"./de-at.js": 239,
+	"./de-ch": 240,
+	"./de-ch.js": 240,
+	"./de.js": 238,
+	"./dv": 241,
+	"./dv.js": 241,
+	"./el": 242,
+	"./el.js": 242,
+	"./en-au": 243,
+	"./en-au.js": 243,
+	"./en-ca": 244,
+	"./en-ca.js": 244,
+	"./en-gb": 245,
+	"./en-gb.js": 245,
+	"./en-ie": 246,
+	"./en-ie.js": 246,
+	"./en-il": 247,
+	"./en-il.js": 247,
+	"./en-in": 248,
+	"./en-in.js": 248,
+	"./en-nz": 249,
+	"./en-nz.js": 249,
+	"./en-sg": 250,
+	"./en-sg.js": 250,
+	"./eo": 251,
+	"./eo.js": 251,
+	"./es": 252,
+	"./es-do": 253,
+	"./es-do.js": 253,
+	"./es-mx": 254,
+	"./es-mx.js": 254,
+	"./es-us": 255,
+	"./es-us.js": 255,
+	"./es.js": 252,
+	"./et": 256,
+	"./et.js": 256,
+	"./eu": 257,
+	"./eu.js": 257,
+	"./fa": 258,
+	"./fa.js": 258,
+	"./fi": 259,
+	"./fi.js": 259,
+	"./fil": 260,
+	"./fil.js": 260,
+	"./fo": 261,
+	"./fo.js": 261,
+	"./fr": 262,
+	"./fr-ca": 263,
+	"./fr-ca.js": 263,
+	"./fr-ch": 264,
+	"./fr-ch.js": 264,
+	"./fr.js": 262,
+	"./fy": 265,
+	"./fy.js": 265,
+	"./ga": 266,
+	"./ga.js": 266,
+	"./gd": 267,
+	"./gd.js": 267,
+	"./gl": 268,
+	"./gl.js": 268,
+	"./gom-deva": 269,
+	"./gom-deva.js": 269,
+	"./gom-latn": 270,
+	"./gom-latn.js": 270,
+	"./gu": 271,
+	"./gu.js": 271,
+	"./he": 272,
+	"./he.js": 272,
+	"./hi": 273,
+	"./hi.js": 273,
+	"./hr": 274,
+	"./hr.js": 274,
+	"./hu": 275,
+	"./hu.js": 275,
+	"./hy-am": 276,
+	"./hy-am.js": 276,
+	"./id": 277,
+	"./id.js": 277,
+	"./is": 278,
+	"./is.js": 278,
+	"./it": 279,
+	"./it-ch": 280,
+	"./it-ch.js": 280,
+	"./it.js": 279,
+	"./ja": 281,
+	"./ja.js": 281,
+	"./jv": 282,
+	"./jv.js": 282,
+	"./ka": 283,
+	"./ka.js": 283,
+	"./kk": 284,
+	"./kk.js": 284,
+	"./km": 285,
+	"./km.js": 285,
+	"./kn": 286,
+	"./kn.js": 286,
+	"./ko": 287,
+	"./ko.js": 287,
+	"./ku": 288,
+	"./ku.js": 288,
+	"./ky": 289,
+	"./ky.js": 289,
+	"./lb": 290,
+	"./lb.js": 290,
+	"./lo": 291,
+	"./lo.js": 291,
+	"./lt": 292,
+	"./lt.js": 292,
+	"./lv": 293,
+	"./lv.js": 293,
+	"./me": 294,
+	"./me.js": 294,
+	"./mi": 295,
+	"./mi.js": 295,
+	"./mk": 296,
+	"./mk.js": 296,
+	"./ml": 297,
+	"./ml.js": 297,
+	"./mn": 298,
+	"./mn.js": 298,
+	"./mr": 299,
+	"./mr.js": 299,
+	"./ms": 300,
+	"./ms-my": 301,
+	"./ms-my.js": 301,
+	"./ms.js": 300,
+	"./mt": 302,
+	"./mt.js": 302,
+	"./my": 303,
+	"./my.js": 303,
+	"./nb": 304,
+	"./nb.js": 304,
+	"./ne": 305,
+	"./ne.js": 305,
+	"./nl": 306,
+	"./nl-be": 307,
+	"./nl-be.js": 307,
+	"./nl.js": 306,
+	"./nn": 308,
+	"./nn.js": 308,
+	"./oc-lnc": 309,
+	"./oc-lnc.js": 309,
+	"./pa-in": 310,
+	"./pa-in.js": 310,
+	"./pl": 311,
+	"./pl.js": 311,
+	"./pt": 312,
+	"./pt-br": 313,
+	"./pt-br.js": 313,
+	"./pt.js": 312,
+	"./ro": 314,
+	"./ro.js": 314,
+	"./ru": 315,
+	"./ru.js": 315,
+	"./sd": 316,
+	"./sd.js": 316,
+	"./se": 317,
+	"./se.js": 317,
+	"./si": 318,
+	"./si.js": 318,
+	"./sk": 319,
+	"./sk.js": 319,
+	"./sl": 320,
+	"./sl.js": 320,
+	"./sq": 321,
+	"./sq.js": 321,
+	"./sr": 322,
+	"./sr-cyrl": 323,
+	"./sr-cyrl.js": 323,
+	"./sr.js": 322,
+	"./ss": 324,
+	"./ss.js": 324,
+	"./sv": 325,
+	"./sv.js": 325,
+	"./sw": 326,
+	"./sw.js": 326,
+	"./ta": 327,
+	"./ta.js": 327,
+	"./te": 328,
+	"./te.js": 328,
+	"./tet": 329,
+	"./tet.js": 329,
+	"./tg": 330,
+	"./tg.js": 330,
+	"./th": 331,
+	"./th.js": 331,
+	"./tk": 332,
+	"./tk.js": 332,
+	"./tl-ph": 333,
+	"./tl-ph.js": 333,
+	"./tlh": 334,
+	"./tlh.js": 334,
+	"./tr": 335,
+	"./tr.js": 335,
+	"./tzl": 336,
+	"./tzl.js": 336,
+	"./tzm": 337,
+	"./tzm-latn": 338,
+	"./tzm-latn.js": 338,
+	"./tzm.js": 337,
+	"./ug-cn": 339,
+	"./ug-cn.js": 339,
+	"./uk": 340,
+	"./uk.js": 340,
+	"./ur": 341,
+	"./ur.js": 341,
+	"./uz": 342,
+	"./uz-latn": 343,
+	"./uz-latn.js": 343,
+	"./uz.js": 342,
+	"./vi": 344,
+	"./vi.js": 344,
+	"./x-pseudo": 345,
+	"./x-pseudo.js": 345,
+	"./yo": 346,
+	"./yo.js": 346,
+	"./zh-cn": 347,
+	"./zh-cn.js": 347,
+	"./zh-hk": 348,
+	"./zh-hk.js": 348,
+	"./zh-mo": 349,
+	"./zh-mo.js": 349,
+	"./zh-tw": 350,
+	"./zh-tw.js": 350
+};
+function webpackContext(req) {
+	return __webpack_require__(webpackContextResolve(req));
+};
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) // check for number or string
+		throw new Error("Cannot find module '" + req + "'.");
+	return id;
+};
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = 567;
+
+/***/ }),
+
+/***/ 605:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return DirectivesModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__amount_formatter_amount_formatter__ = __webpack_require__(606);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__valid_input_as_valid_input_as__ = __webpack_require__(607);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var DirectivesModule = /** @class */ (function () {
+    function DirectivesModule() {
+    }
+    DirectivesModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [__WEBPACK_IMPORTED_MODULE_2__valid_input_as_valid_input_as__["a" /* ValidInputAsDirective */],
+                __WEBPACK_IMPORTED_MODULE_1__amount_formatter_amount_formatter__["a" /* AmountFormatterDirective */]],
+            imports: [],
+            exports: [__WEBPACK_IMPORTED_MODULE_2__valid_input_as_valid_input_as__["a" /* ValidInputAsDirective */],
+                __WEBPACK_IMPORTED_MODULE_1__amount_formatter_amount_formatter__["a" /* AmountFormatterDirective */]]
+        })
+    ], DirectivesModule);
+    return DirectivesModule;
+}());
+
+//# sourceMappingURL=directives.module.js.map
+
+/***/ }),
+
+/***/ 606:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AmountFormatterDirective; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+var AmountFormatterDirective = /** @class */ (function () {
+    function AmountFormatterDirective() {
+        this.ngModelChange = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["EventEmitter"]();
+        this.DECIMAL_SEPARATOR = ",";
+        this.THOUSANDS_SEPARATOR = ".";
+        this.validInput = true;
+    }
+    AmountFormatterDirective.prototype.format = function (value) {
+        var outValue = value.toString().trim();
+        this.validInput = true;
+        if (!isNaN(value) && outValue.length > 0) {
+            if (outValue.indexOf(".") < 0 && outValue.indexOf(",") < 0) {
+                //NO DECIMAL INDEX
+                outValue = outValue.replace(/\B(?=(\d{3})+(?!\d))/g, this.THOUSANDS_SEPARATOR);
+                outValue += ",00";
+            }
+            else if (outValue.indexOf(".") == outValue.lastIndexOf(".") && outValue.indexOf(",") < 0) {
+                //DECIMAL BY DOT
+                outValue = outValue.replace(".", ",");
+                outValue = outValue.substring(0, outValue.indexOf(",")).replace(/\B(?=(\d{3})+(?!\d))/g, this.THOUSANDS_SEPARATOR)
+                    + outValue.substring(outValue.indexOf(","), outValue.length);
+                if (outValue.lastIndexOf(",") == outValue.length - 1) {
+                    //COMPLETE DECIMALS
+                    outValue += "00";
+                }
+            }
+            else if (outValue.indexOf(",") == outValue.lastIndexOf(",") && (outValue.indexOf(".") < 0 || outValue.lastIndexOf(".") < outValue.lastIndexOf(","))) {
+                //DECIMAL BY COMMA
+                outValue = outValue.replace(/\./gi, "");
+                outValue = outValue.substring(0, outValue.indexOf(",")).replace(/\B(?=(\d{3})+(?!\d))/g, this.THOUSANDS_SEPARATOR)
+                    + outValue.substring(outValue.indexOf(","), outValue.length);
+                if (outValue.lastIndexOf(",") == outValue.length - 1) {
+                    //COMPLETE DECIMALS
+                    outValue += "00";
+                }
+            }
+        }
+        else if (outValue.indexOf(",") > 0 && outValue.indexOf(",") == outValue.lastIndexOf(",") && (outValue.indexOf(".") < 0 || outValue.lastIndexOf(".") < outValue.lastIndexOf(","))) {
+            //DECIMAL BY COMMA
+            outValue = outValue.replace(/\./gi, "");
+            outValue = outValue.substring(0, outValue.indexOf(",")).replace(/\B(?=(\d{3})+(?!\d))/g, this.THOUSANDS_SEPARATOR)
+                + outValue.substring(outValue.indexOf(","), outValue.length);
+            if (outValue.lastIndexOf(",") == outValue.length - 1) {
+                //COMPLETE DECIMALS
+                outValue += "00";
+            }
+        }
+        else {
+            this.validInput = false;
+        }
+        //DELIMIT TO 2 DECIMALS
+        if (outValue.indexOf(",") >= 0) {
+            if ((outValue.indexOf(",") + 3) < outValue.length) {
+                outValue = outValue.substring(0, (outValue.indexOf(",") + 3));
+            }
+            if (outValue.indexOf(",") == 0) {
+                outValue = "0" + outValue;
+            }
+            if ((outValue.indexOf(",") + 1) == outValue.length) {
+                outValue = outValue + "00";
+            }
+        }
+        else if (outValue == ".") {
+            outValue = "0,00";
+        }
+        if (this.validInput && !isNaN(Number(outValue.replace(/\./g, "").replace(",", ".")))) {
+            //UNFORMAT -> Number -> Format (this is for delete initial ceros for a valid amount 00031)
+            outValue = Number(outValue.replace(/\./g, "").replace(",", ".")).toFixed(2).replace(/\./gi, ",").replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+        }
+        this.ngModelChange.emit(outValue);
+        return outValue;
+    };
+    AmountFormatterDirective.prototype.cleanFormat = function (value) {
+        var cleanValue = value.toString();
+        if (this.validInput) {
+            while (cleanValue.indexOf(".") >= 0) {
+                cleanValue = cleanValue.replace(".", "");
+            }
+            cleanValue = cleanValue.replace(",", ".");
+        }
+        return cleanValue;
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Output"])(),
+        __metadata("design:type", Object)
+    ], AmountFormatterDirective.prototype, "ngModelChange", void 0);
+    AmountFormatterDirective = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Directive"])({
+            selector: '[amount-formatter]',
+            host: {
+                '(focus)': '$event.target.value = this.cleanFormat($event.target.value)',
+                '(blur)': '$event.target.value = this.format($event.target.value)'
+            }
+        }),
+        __metadata("design:paramtypes", [])
+    ], AmountFormatterDirective);
+    return AmountFormatterDirective;
+}());
+
+//# sourceMappingURL=amount-formatter.js.map
+
+/***/ }),
+
+/***/ 607:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ValidInputAsDirective; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+var ValidInputAsDirective = /** @class */ (function () {
+    function ValidInputAsDirective() {
+        this.ngModelChange = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["EventEmitter"]();
+    }
+    // constructor(private el: ElementRef) {}
+    //(keypress)': 'validInput($event) <<DELETED>>
+    ValidInputAsDirective.prototype.validInput = function (e) {
+        switch (this.inputType) {
+            case 0://As Alphanumeric
+                break;
+            case 1://As Number Only
+                if ('0123456789'.includes(e.key) == false) {
+                    e.preventDefault();
+                    return;
+                }
+                break;
+            case 3://As Alphanumeric (No speacial characters)
+                console.log("valid as 3 > " + (e.keyCode));
+                if (!(' '.includes(e.key)) && !e.key.match('[0-9]') && !e.key.match('[a-z]') && !e.key.match('[A-Z]')) {
+                    e.preventDefault();
+                    return;
+                }
+                else if (e.keyCode == 42 || e.keyCode == 45 || e.keyCode == 47) {
+                    e.preventDefault();
+                    return;
+                }
+                break;
+            case 4://As Alphanumeric (some speacial characters)
+                console.log("valid as 4 > " + (e.keyCode));
+                if (!(' .-_*'.includes(e.key)) && !e.key.match('[0-9]') && !e.key.match('[a-z]') && !e.key.match('[A-Z]')) {
+                    e.preventDefault();
+                    return;
+                }
+                else if (e.keyCode == 47) {
+                    e.preventDefault();
+                    return;
+                }
+                break;
+        }
+    };
+    ValidInputAsDirective.prototype.onBlur = function (target) {
+        if (target.value.length > 0) {
+            target.value = target.value.trim();
+            this.ngModelChange.emit(target.value);
+        }
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Input"])('valid-input-as'),
+        __metadata("design:type", Number)
+    ], ValidInputAsDirective.prototype, "inputType", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Output"])(),
+        __metadata("design:type", Object)
+    ], ValidInputAsDirective.prototype, "ngModelChange", void 0);
+    ValidInputAsDirective = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Directive"])({
+            selector: '[valid-input-as]',
+            host: { '(blur)': 'onBlur($event.target)' }
+        }),
+        __metadata("design:paramtypes", [])
+    ], ValidInputAsDirective);
+    return ValidInputAsDirective;
+}());
+
+//# sourceMappingURL=valid-input-as.js.map
+
+/***/ }),
+
+/***/ 900:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return PipesModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__dateview_dateview__ = __webpack_require__(98);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+var PipesModule = /** @class */ (function () {
+    function PipesModule() {
+    }
+    PipesModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [__WEBPACK_IMPORTED_MODULE_1__dateview_dateview__["a" /* DateviewPipe */]],
+            imports: [],
+            exports: [__WEBPACK_IMPORTED_MODULE_1__dateview_dateview__["a" /* DateviewPipe */]]
+        })
+    ], PipesModule);
+    return PipesModule;
+}());
+
+//# sourceMappingURL=pipes.module.js.map
+
+/***/ }),
+
+/***/ 901:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return TimerProvider; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_add_operator_map__ = __webpack_require__(161);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_rxjs_add_operator_map__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ng_idle_core__ = __webpack_require__(110);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ng_idle_keepalive__ = __webpack_require__(201);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__pages_affiliation_terms_affiliation_terms__ = __webpack_require__(159);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pages_affiliation_affiliation__ = __webpack_require__(160);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__pages_clientid_request_clientid_request__ = __webpack_require__(177);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__pages_home_home__ = __webpack_require__(42);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__pages_phone_chooser_phone_chooser__ = __webpack_require__(178);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__pages_question_request_question_request__ = __webpack_require__(181);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__pages_reset_password_reset_password__ = __webpack_require__(182);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__pages_verify_affiliation_verify_affiliation__ = __webpack_require__(179);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+//Modules & Components
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var TimerProvider = /** @class */ (function () {
+    function TimerProvider(idle, keepalive, alertCtrl, p2pServiceProvider, app) {
+        var _this = this;
+        this.idle = idle;
+        this.keepalive = keepalive;
+        this.alertCtrl = alertCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.app = app;
+        this.lastPing = null;
+        this.timedOut = false;
+        idle.setIdle(90);
+        idle.setTimeout(90);
+        idle.setInterrupts(__WEBPACK_IMPORTED_MODULE_2__ng_idle_core__["a" /* DEFAULT_INTERRUPTSOURCES */]);
+        idle.onTimeout.subscribe(function () {
+            if (!(_this.app.getActiveNav().getActive().instance instanceof __WEBPACK_IMPORTED_MODULE_6__pages_affiliation_affiliation__["a" /* AffiliationPage */]) &&
+                !(_this.app.getActiveNav().getActive().instance instanceof __WEBPACK_IMPORTED_MODULE_5__pages_affiliation_terms_affiliation_terms__["a" /* AffiliationTermsPage */]) &&
+                !(_this.app.getActiveNav().getActive().instance instanceof __WEBPACK_IMPORTED_MODULE_7__pages_clientid_request_clientid_request__["a" /* ClientidRequestPage */]) &&
+                !(_this.app.getActiveNav().getActive().instance instanceof __WEBPACK_IMPORTED_MODULE_8__pages_home_home__["a" /* HomePage */]) &&
+                !(_this.app.getActiveNav().getActive().instance instanceof __WEBPACK_IMPORTED_MODULE_9__pages_phone_chooser_phone_chooser__["a" /* PhoneChooserPage */]) &&
+                !(_this.app.getActiveNav().getActive().instance instanceof __WEBPACK_IMPORTED_MODULE_10__pages_question_request_question_request__["a" /* QuestionRequestPage */]) &&
+                !(_this.app.getActiveNav().getActive().instance instanceof __WEBPACK_IMPORTED_MODULE_11__pages_reset_password_reset_password__["a" /* ResetPasswordPage */]) &&
+                !(_this.app.getActiveNav().getActive().instance instanceof __WEBPACK_IMPORTED_MODULE_12__pages_verify_affiliation_verify_affiliation__["a" /* VerifyAffiliationPage */])) {
+                _this.timedOut = true;
+                _this.displayMessage("Aviso", "La sesión ha caducado, por favor ingrese nuevamente");
+                _this.app.getActiveNav().popToRoot();
+                _this.p2pServiceProvider.logoutRequest();
+            }
+            _this.reset();
+        });
+        // sets the ping interval to 15 seconds
+        this.keepalive.interval(15);
+        this.keepalive.onPing.subscribe(function () { return _this.lastPing = new Date(); });
+        this.reset();
+    }
+    TimerProvider.prototype.reset = function () {
+        this.idle.watch();
+        this.timedOut = false;
+    };
+    TimerProvider.prototype.displayMessage = function (title, message) {
+        var alert = this.alertCtrl.create({
+            title: title,
+            subTitle: message,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    TimerProvider = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["Injectable"])(),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2__ng_idle_core__["b" /* Idle */],
+            __WEBPACK_IMPORTED_MODULE_3__ng_idle_keepalive__["a" /* Keepalive */],
+            __WEBPACK_IMPORTED_MODULE_4_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_13__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */],
+            __WEBPACK_IMPORTED_MODULE_4_ionic_angular__["b" /* App */]])
+    ], TimerProvider);
+    return TimerProvider;
+}());
+
+//# sourceMappingURL=timer.js.map
+
+/***/ }),
+
+/***/ 902:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MyApp; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__ionic_native_splash_screen__ = __webpack_require__(196);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_status_bar__ = __webpack_require__(200);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ionic_angular__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__pages_home_home__ = __webpack_require__(42);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__pages_options_options__ = __webpack_require__(180);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__providers_p2p_service_p2p_service__ = __webpack_require__(15);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+var MyApp = /** @class */ (function () {
+    function MyApp(platform, statusBar, splashScreen, app, alertCtrl, loadingCtrl, p2pServiceProvider) {
+        var _this = this;
+        this.platform = platform;
+        this.statusBar = statusBar;
+        this.splashScreen = splashScreen;
+        this.app = app;
+        this.alertCtrl = alertCtrl;
+        this.loadingCtrl = loadingCtrl;
+        this.p2pServiceProvider = p2pServiceProvider;
+        this.rootPage = __WEBPACK_IMPORTED_MODULE_4__pages_home_home__["a" /* HomePage */];
+        this.idleState = 'Not started.';
+        this.timedOut = false;
+        this.lastPing = null;
+        this.backLogoutActive = false;
+        platform.ready().then(function () {
+            // Okay, so the platform is ready and our plugins are available.
+            // Here you can do any higher level native things you might need.
+            _this.statusBar.styleDefault();
+            _this.splashScreen.hide();
+            window.addEventListener('keyboardWillShow', function (e) {
+                document.body.classList.add('keyboard-is-open');
+            });
+            window.addEventListener('keyboardWillHide', function () {
+                document.body.classList.remove('keyboard-is-open');
+            });
+            platform.registerBackButtonAction(function () {
+                if (_this.p2pServiceProvider.onViewMsgPresent) {
+                    //DO NOTHING - VIEW MESSAGE PRESENT
+                }
+                else if (_this.app.getActiveNav().getActive().instance instanceof __WEBPACK_IMPORTED_MODULE_5__pages_options_options__["a" /* OptionsPage */]) {
+                    if (_this.backLogoutActive == false) {
+                        var alert_1 = _this.alertCtrl.create({
+                            title: "Salir",
+                            message: "¿Desea salir de la aplicación?",
+                            enableBackdropDismiss: false,
+                            buttons: [
+                                {
+                                    text: 'SI',
+                                    handler: function () {
+                                        //RE-VALID FOR ALERT PRESENT ON CHANGE NAV
+                                        if (_this.app.getActiveNav().getActive().instance instanceof __WEBPACK_IMPORTED_MODULE_5__pages_options_options__["a" /* OptionsPage */]) {
+                                            _this.logout();
+                                        }
+                                        else {
+                                            _this.backLogoutActive = false;
+                                        }
+                                    }
+                                },
+                                {
+                                    text: 'NO',
+                                    handler: function () {
+                                        _this.backLogoutActive = false;
+                                    }
+                                }
+                            ]
+                        });
+                        _this.backLogoutActive = true;
+                        alert_1.present();
+                    }
+                }
+                else if (_this.app.getActiveNav().getActive().instance instanceof __WEBPACK_IMPORTED_MODULE_4__pages_home_home__["a" /* HomePage */]) {
+                    _this.platform.exitApp();
+                }
+                else {
+                    _this.app.getActiveNav().pop();
+                }
+            });
+        });
+    }
+    MyApp.prototype.logout = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({
+            content: "Procesando...",
+        });
+        loader.present().then(function () {
+            _this.p2pServiceProvider.logoutRequest()
+                .then(function (data) {
+                loader.dismiss();
+                _this.backLogoutActive = false;
+                _this.app.getActiveNav().popToRoot();
+            });
+        });
+    };
+    MyApp = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({template:/*ion-inline-start:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\app\app.html"*/'<ion-nav [root]="rootPage"></ion-nav>\n\n'/*ion-inline-end:"D:\Trabajos\EFT\bicentenario-p2p-movil\src\app\app.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_3_ionic_angular__["j" /* Platform */],
+            __WEBPACK_IMPORTED_MODULE_2__ionic_native_status_bar__["a" /* StatusBar */],
+            __WEBPACK_IMPORTED_MODULE_1__ionic_native_splash_screen__["a" /* SplashScreen */],
+            __WEBPACK_IMPORTED_MODULE_3_ionic_angular__["b" /* App */],
+            __WEBPACK_IMPORTED_MODULE_3_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_3_ionic_angular__["f" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_6__providers_p2p_service_p2p_service__["a" /* P2PServiceProvider */]])
+    ], MyApp);
+    return MyApp;
+}());
+
+//# sourceMappingURL=app.component.js.map
+
+/***/ }),
+
+/***/ 98:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return DateviewPipe; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_common__ = __webpack_require__(45);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+var DateviewPipe = /** @class */ (function () {
+    function DateviewPipe() {
+    }
+    DateviewPipe.prototype.transform = function (value, dateType) {
+        if (dateType != undefined && (dateType.toUpperCase() == 'DATETIME' || dateType.toUpperCase() == 'TIME')) {
+            var hourType = ' AM';
+            var showOnlyHour = (dateType.toUpperCase() == 'TIME');
+            var time = value.substring(value.indexOf("T") + 1, value.length);
+            var hourFraction = time.substring(0, 2);
+            if (parseInt(hourFraction) > 12) {
+                hourFraction = (parseInt(hourFraction) - 12).toString();
+                if (hourFraction.length == 1)
+                    hourFraction = '0' + hourFraction;
+                hourType = ' PM';
+            }
+            else if (parseInt(hourFraction) == 12) {
+                hourType = ' PM';
+            }
+            hourFraction = hourFraction == '00' ? '12' : hourFraction;
+            return (showOnlyHour ? '' : ((new __WEBPACK_IMPORTED_MODULE_0__angular_common__["d" /* DatePipe */]('es')).transform(value, 'dd/MM/yyyy')) + ' ') + hourFraction + time.substring(2, 5) + hourType;
+        }
+        else {
+            return (new __WEBPACK_IMPORTED_MODULE_0__angular_common__["d" /* DatePipe */]('es')).transform(value, 'dd/MM/yyyy');
+        }
+    };
+    DateviewPipe = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["Pipe"])({
+            name: 'dateview',
+        })
+    ], DateviewPipe);
+    return DateviewPipe;
+}());
+
+//# sourceMappingURL=dateview.js.map
+
+/***/ })
+
+},[546]);
+//# sourceMappingURL=main.js.map
